@@ -28,6 +28,8 @@ y_pred = model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 
 # Make predictions
-new_descriptions = ["Volkswagen Golf 1.6 TDI Comfortline", "Toyota Camry Hybrid", "BMW X5 xDrive40i", "Predam Renault"]
+new_descriptions = ["Volkswagen Golf 1.6 TDI Comfortline", "Nieco random", "BMW X5 xDrive40i", "Predam Renault", "octavia 2",
+                    "VW pickup"]
 X_new = vectorizer.transform(new_descriptions)
 predictions = model.predict(X_new)
+print(predictions)

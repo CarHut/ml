@@ -1,106 +1,116 @@
-import joblib
-import requests
-from sklearn.feature_extraction.text import TfidfVectorizer
 import re
+import psycopg2
+import joblib
 
-def make_api_call(url):
-    response = requests.get(url)
-    return response.json()
+brand_classification_model_path = "C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\brand_classification_model.pkl"
+vectorizer_path = "C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\vectorizer.pkl"
+model = joblib.load(brand_classification_model_path)
+vectorizer = joblib.load(vectorizer_path)
 
+def connect_to_postgresql():
+    connection = psycopg2.connect(
+        database='postgres', user='postgres', password='janik', host='localhost', port='5432'
+    )
+    connection.autocommit = True
+    return connection
 
-def load_brand_model():
-    return joblib.load('brand_classification_model.pkl')
+connection = connect_to_postgresql()
+cur = connection.cursor()
+cur.execute("SELECT * FROM bazos_data_scraping")
+bazos_data = cur.fetchall()
+cur.execute("SELECT * FROM autobazar_eu")
+autobazar_data = cur.fetchall()
 
-
-# def load_headers():
-#     with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\labeling_headers\\resources\\X.txt', 'r', encoding='utf-8') as file:
-#         y = file.readlines()
-#
-#     return y
-
-
-def load_headers():
-    url = f'http://localhost:8080/api/getAllTempCars'
-    response_data = make_api_call(url)
-    headers_list = [entity['header'] for entity in response_data]
-    headers_list = [header + '\n' for header in headers_list]
-    id_list = [entity['id'] for entity in response_data]
-    return [headers_list, id_list]
-
-
-def load_models_for_brand(brand):
-    brand = brand.strip()
-    url = f'http://localhost:8080/api/getModelsByBrandName?brandName={brand}'
-    response_data = make_api_call(url)
-    return response_data
-
-
-def find_brands_for_headers(headers, ml_model):
-    vectorizer = joblib.load('vectorizer.pkl')
-    headers_vectorized = vectorizer.transform(headers)
-    predicted_brands = ml_model.predict(headers_vectorized)
-    return predicted_brands
-
-
-def update_model(result_model, id):
-    url = f'http://localhost:8080/api/updateModel?model=' + result_model + '&id=' + id
-    make_api_call(url)
-
-
-def find_models_with_first_position(result_model):
-    min = 999999
-    # From one cause we ignore Other
-    for i in range(1, len(result_model)):
-        if min > result_model[i][1]:
-            min = result_model[i][1]
-
-    result = []
-
-    for i in range(1, len(result_model)):
-        if min == result_model[i][1]:
-            result.append(result_model[i][0])
-
+def load_models_for_brand(brand_name):
+    connection = connect_to_postgresql()
+    cur = connection.cursor()
+    cur.execute(f'SELECT * FROM model WHERE brand_id = (SELECT b.id FROM brand b WHERE b.brand = \'{brand_name}\' LIMIT 1)')
+    result = cur.fetchall()
     return result
 
+def find_position_of_model_in_header(model_name, header_content):
+    position = header_content.find(model_name)
+    return position
 
-def assign_models_to_brands_and_insert_to_table(brands, headers, id_list):
-    for i in range(0, len(brands)):
-        models = load_models_for_brand(brands[i])
-        result_model = [['Other', -1]]
 
-        for j in range(0, len(models)):
-            model = models[j]['model']
-            model_pattern = re.escape(model)
-            pattern = rf'{model_pattern}'  # Match the brand name as a whole word
+# Strategy
+# When checking models, use reversed order
+# When checking for a model match, check pairs of words if its needed (this means when you have model S 400, you need to check in header 2 words)
+# When the model consists of only one word, check only one word in header, also the word must be enclosed to be matched to the specific model
+def find_best_suited_model_in_header(found_intermidiate_models):
+    if found_intermidiate_models is None or len(found_intermidiate_models) == 0:
+        return None
+    # Find best start position of a model in header
+    best_start_position_models = []
+    start_pos = 99999999
+    # Firstly find best position
+    for i in range(0, len(found_intermidiate_models)):
+        if start_pos > found_intermidiate_models[i][1]:
+            start_pos = found_intermidiate_models[i][1]
 
-            # Search for the brand pattern case-insensitively anywhere in the description
-            match = re.search(pattern, headers[i], flags=re.IGNORECASE)
+    # Find all models which the best start position
+    for i in range(0, len(found_intermidiate_models)):
+        if start_pos == found_intermidiate_models[i][1]:
+            best_start_position_models.append(found_intermidiate_models[i])
+
+    # Find the longest string (will match the best model)
+    model_length = -1
+    longest_model_name = None
+    for i in range(0, len(best_start_position_models)):
+        if best_start_position_models[i][2] > model_length:
+            longest_model_name = best_start_position_models[i]
+
+    return longest_model_name[0]
+
+def match_model(header_content, models):
+    # Traverse models
+    found_model = None
+    found_intermidiate_models = []
+    for i in range(len(models) - 1, 0, -1):
+        # if model consists of 2 words
+        list_of_words_in_model = models[i].split(" ")
+        if len(list_of_words_in_model) == 2: # Model consists of 2 word
+            # Split header to list of words that it consists
+            header_words = header_content.split(" ")
+            if len(header_words) < 2:
+                continue
+
+            for j in range(0, len(header_words) - 1, 1):
+                header_words_tuple = header_words[j] + " " + header_words[j + 1]
+                model_pattern = re.escape(models[i])
+                pattern = rf'\b{model_pattern}\b'
+                match = re.search(pattern, header_words_tuple, flags=re.IGNORECASE)
+                if match:
+                    found_intermidiate_models.append((models[i], find_position_of_model_in_header(models[i], header_content), len(models[i])))
+                    break
+        elif len(list_of_words_in_model) == 1: # Model consists of 1 word
+            model_pattern = re.escape(models[i])
+            pattern = rf'\b{model_pattern}'  # Match the brand name as a whole word
+            match = re.search(pattern, header_content, flags=re.IGNORECASE)
             if match:
-                result_model.append([model, match.start()])
+                found_intermidiate_models.append((models[i], find_position_of_model_in_header(models[i], header_content), len(models[i])))
 
-        if len(result_model) == 2:
-            result_model = result_model[1][0]
-        elif len(result_model) == 1:
-            result_model = result_model[0][0]
-        else:
-            final_models = []
-            final_models = find_models_with_first_position(result_model)
+    found_model = find_best_suited_model_in_header(found_intermidiate_models)
+    return found_model
 
-            if len(final_models) > 1:
-                length = 0
-                for k in range(0, len(final_models)):
-                    if length < len(final_models[k]):
-                        result_model = final_models[k]
-                        length = len(final_models[k])
-            else:
-                result_model = final_models[0]
 
-        print(f'{i}   {brands[i].strip()}  |  {result_model}  |  {headers[i]}')
-        update_model(result_model, id_list[i])
+def predict_brand_and_model(header_content):
+    vectorized_header = vectorizer.transform([header_content])
+    brand_prediction = model.predict(vectorized_header)
+    brand_prediction_fixed = brand_prediction[0].replace("\n", "")
+    brand_models = load_models_for_brand(brand_prediction_fixed)
+    pure_models = [row[1] for row in brand_models]
+    matched_model = match_model(header_content, pure_models)
+    return (brand_prediction[0], matched_model)
+
+
+def check_all_headers():
+    headers = [row[1] for row in bazos_data] + [row[1] for row in autobazar_data]
+    treated_headers = [s.replace("\n", "") for s in headers]
+    for i in range(0, len(treated_headers)):
+        car = predict_brand_and_model(treated_headers[i])
+        print(f'[{i}] - {treated_headers[i]} + " ->>> " + {car}')
+        print("----------------------\n")
 
 if __name__ == '__main__':
-    ml_model = load_brand_model()
-    [headers, id_list] = load_headers()
-    brands = find_brands_for_headers(headers, ml_model)
-    assign_models_to_brands_and_insert_to_table(brands, headers, id_list)
-
+    check_all_headers()
