@@ -9,6 +9,10 @@ import userAgents from './util/user-agents.js';
 import viewports from './util/viewports.js';
 import InteractionsWithBazos from './interactions/user-bot-interactions-with-bazos.js';
 
+// Scraper
+import BazosScraper from './bazos-scraper/bazos-scraper.js';
+import path from 'path';
+
 const pageUrl = 'https://bazos.sk/'
 const dummyUrl = 'https://bot.sannysoft.com/'
 const delay = (time) => new Promise((resolve) => setTimeout(resolve, time));
@@ -32,8 +36,18 @@ async function setPageHeaders(page, randProxyNum) {
     });
 }
 
-async function randomInteractions(interactionsWithBazos) {
-    interactionsWithBazos.interactWithBazosMainMenuOptions(5);
+async function closeTabs(browser) {
+    const pages = await browser.pages();
+    for (const page of pages) {
+        if (page.url() !== 'https://bot.sannysoft.com/') {
+            await page.close();
+        }
+    }
+}
+
+async function interactAndScrapeAutoBazos(page, startPage, endPage, interactor) {
+    const scraper = new BazosScraper(page, startPage, endPage, interactor);
+    await scraper.startScraping(2584);
 }
 
 const main = async () => {
@@ -47,7 +61,7 @@ const main = async () => {
         args: [
             '--start-maximized',
             `--load-extension=${extensions}`,
-            `--proxy-server=${proxies[randProxyNum]}`
+            `--proxy-server=${proxies[randProxyNum]}`,
         ],
     });
 
@@ -55,10 +69,15 @@ const main = async () => {
     await setPageHeaders(page, randProxyNum);
     await page.goto(dummyUrl, { waitUntil: 'domcontentloaded' });
     await page.screenshot({ path: 'bot.png' });
-    await delay(30000);
-    await page.goto(pageUrl, { waitUntil: 'domcontentloaded' });
+    await delay(10000);
+    await closeTabs(browser);
+    await delay(10000);
+    await page.goto(pageUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    page.content()
     const interactionsWithBazos = new InteractionsWithBazos(page);
-    await randomInteractions(interactionsWithBazos);
+    await interactionsWithBazos.interactWithBazosMainMenuOptionsAndClickOnAutoBazos(5);
+    await interactAndScrapeAutoBazos(page, 1, 15, interactionsWithBazos);
+    // page.close();
 };
 
 main();

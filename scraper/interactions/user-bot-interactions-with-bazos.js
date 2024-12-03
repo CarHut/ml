@@ -10,16 +10,22 @@ class InteractionsWithBazos {
     async randomScrollDownThenUp() {
         await this.page.waitForNavigation({ waitUntil: 'domcontentloaded' });
         await this.page.evaluate(() => {
-            window.scrollBy(0, 100);
+            window.scrollBy(0, 1200);
         });
         const randomDelay = Math.floor(Math.random() * (1000 - 700) + 700) 
         this.delay(randomDelay);
         await this.page.evaluate(() => {
-            window.scrollBy(100, 0);
+            window.scrollBy(0, 0);
         });
     }
 
-    interactWithBazosMainMenuOptions = async (numberOfHoverOns) => {
+    async scrollTo(to) {
+        await this.page.evaluate((to) => {
+            window.scrollBy(0, to);
+        }, to);
+    }
+
+    interactWithBazosMainMenuOptionsAndClickOnAutoBazos = async (numberOfHoverOns) => {
         const pickedMainPageHeaders = [];
         while (pickedMainPageHeaders.length < numberOfHoverOns) {
             const randomNumber = Math.floor(Math.random() * 20);
@@ -40,7 +46,8 @@ class InteractionsWithBazos {
 
         // lastly it should be at auto.bazos.sk
         await this.moveMouseToElement(`[href^="https://auto.bazos.sk/"]`);
-
+        await this.delay(Math.floor(Math.random() * (2000 - 1000) + 1000));
+        await this.page.click('[href^="https://auto.bazos.sk/"]');
     }
 
     moveMouseToElement = async (selector) => {
