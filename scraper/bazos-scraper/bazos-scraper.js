@@ -1,5 +1,6 @@
 import * as cheerio from 'cheerio';
 import PgConnection from '../postgres-util/pg-util.js';
+import { link } from 'fs';
 
 class BazosScraper {
     constructor(page, startPage, endPage, interactor) {
@@ -32,33 +33,71 @@ class BazosScraper {
 
     async getHeaderFromHtmlContent(htmlContent) {
         const $ = cheerio.load(htmlContent);
-        const header = $('.nadpisdetail').text().trim();
-        return header || null;
+        var header = $('.nadpisdetail').text().trim();
+
+        if (header === null) {
+            return null;
+        }
+
+        header = header.replaceAll("\'", " ");
+        header = header.replaceAll("\"", " ");
+        return header;
     }
 
     async getBodyFromHtmlContent(htmlContent) {
         const $ = cheerio.load(htmlContent);
-        const body = $('.popisdetail').text().trim();
-        return body || null;
+        var body = $('.popisdetail').text().trim();
+
+        if (body === null) {
+            return null;
+        }
+
+        body = body.replaceAll("\'", " ");
+        body = body.replaceAll("\"", " ");
+        return body;
     }
 
     async getLocationFromHtmlContent(htmlContent) {
         const $ = cheerio.load(htmlContent);
-        const postalCode = $('td > a[title="Približná lokalita"]').first().text().trim();
-        const city = $('td > a[title="Približná lokalita"]').next('a').text().trim();
-        return postalCode && city ? `${postalCode} ${city}` : null;
+        var postalCode = $('td > a[title="Približná lokalita"]').first().text().trim();
+        var city = $('td > a[title="Približná lokalita"]').next('a').text().trim();
+        
+        if (city === null || postalCode === null) {
+            return null;
+        }
+
+        city = city.replace("\'", " ");
+        city = city.replace("\"", " ");
+        postalCode = postalCode.replace("\'", " ");
+        postalCode = postalCode.replace("\"", " ");
+    
+        return postalCode + " " + city;
     }
 
     async getSellerFromHtmlContent(htmlContent) {
         const $ = cheerio.load(htmlContent);
-        const sellerName = $('span.paction').text().trim();
-        return sellerName || null;
+        var sellerName = $('td b span').text().trim();
+        if (sellerName === null) {
+            return null;
+        }
+        sellerName = sellerName.replace("\'", " ");
+        sellerName = sellerName.replace("\'", " ");
+        return sellerName;
     }
 
     async getPriceFromHtmlContent(htmlContent) {
         const $ = cheerio.load(htmlContent);
-        const price = $('tr:nth-last-of-type(2) b').text().trim();
-        return price || null;
+        const priceElement = $('td b').eq(1);
+        if (priceElement.length === 0) {
+            return null;
+        }
+        var price = priceElement.text().trim();
+        if (price === null) {
+            return null;
+        }
+        price = price.replace("\'", " ");
+        price = price.replace("\'", " ");
+        return price;
     }
 
     async getPageContentAndReturn(randomLink, id) {
@@ -106,23 +145,23 @@ class BazosScraper {
         await this.delay(10000);
     }
 
-    async traverseSomeLinks(links, startId) {
-        const randomLinks = this.pickRandomLinks(links, 5, 15);
-        let currentId = startId; 
+    async traverseSomeLinks(links, id) {
+        var currentOfferId = id;
+        const randomLinks = this.pickRandomLinks(links, 0, links.length);
         for (const randomLink of randomLinks) {
             await this.delay(Math.floor(Math.random() * (15000 - 4500) + 4500));
             const parentSelector = `h2.nadpis:has(a[href^="${randomLink['href']}"])`;
             await this.interactor.moveMouseToElement(parentSelector);
             await this.delay(1000);
             await this.page.click(parentSelector);
-            await this.getPageContentAndReturn(randomLink, currentId);
-            currentId = currentId + 1;
+            await this.getPageContentAndReturn(randomLink, currentOfferId);
+            currentOfferId = currentOfferId + 1;
         }
     }
 
-    pickRandomLinks(links, minThreshold=5, maxThreshold=15) {
+    pickRandomLinks(links, minThreshold, maxThreshold) {
         const randNumAmount = Math.floor(Math.random() * (maxThreshold - minThreshold) + minThreshold);
-        var randomLinkNumbers = Array.from({ length: 20 }, (_, i) => i);
+        var randomLinkNumbers = Array.from({ length: links.length }, (_, i) => i);
         
         while (randomLinkNumbers.length > randNumAmount) {
             const randNum = Math.floor(Math.random() * randomLinkNumbers.length);
@@ -132,18 +171,62 @@ class BazosScraper {
         randomLinkNumbers = randomLinkNumbers.sort();
         const randomLinks = [];
         for (let i = 0; i < randomLinkNumbers.length; i++) {
-            randomLinks.push(links[i]);
+            randomLinks.push(links[randomLinkNumbers[i]]);
         }
-    
+        console.log(`Random links: ${randomLinks}`);
         return randomLinks;
+    }
+
+    async getUncheckedLinks(links) {
+        const pgConnection = new PgConnection();
+        const uncheckedLinks = await pgConnection.getUncheckedLinks(links);
+        return uncheckedLinks;
+    }
+
+    async goToPage(pageNum) {
+        await this.delay(Math.random() * (10000 - 3000) + 3000)
+        const htmlContent = await this.page.content();
+        const $ = cheerio.load(htmlContent); 
+    
+        const pageLinks = $('.strankovani a');
+        let targetHref = null;
+        pageLinks.each((index, element) => {
+            if ($(element).text().trim() === pageNum.toString()) {
+                targetHref = $(element).attr('href');
+            }
+        });
+    
+        if (targetHref) {
+            const targetSelector = `a[href="${targetHref}"]`;
+            console.log(`Navigating to page ${pageNum} with selector: ${targetSelector}`);
+            
+            const targetElement = await this.page.$(targetSelector);
+            if (targetElement) {
+                await this.delay(Math.random() * (3000 - 1500) + 1500);
+                await this.interactor.moveMouseToElement(targetSelector);
+                await this.delay(Math.random() * (1000 - 500) + 500);
+                await this.page.click(targetSelector);
+                console.log(`Successfully navigated to page ${pageNum}`);
+            } else {
+                console.error(`Target element for page ${pageNum} not found in Puppeteer!`);
+            }
+        } else {
+            console.error(`Page number ${pageNum} not found!`);
+        }
     }
 
     async startScraping(startId) {
         // fetch page html
-        await this.page.waitForSelector('.inzeraty.inzeratyflex a', { timeout: 10000 }); 
-        const htmlContent = await this.page.content();
-        const links = await this.getLinksToTraverse(htmlContent);
-        await this.traverseSomeLinks(links, startId);
+        let currentId = startId;
+        for (let i = this.startPage + 1; i <= this.endPage; i++) {
+            await this.page.waitForSelector('.inzeraty.inzeratyflex a', { timeout: 60000 }); 
+            const htmlContent = await this.page.content();
+            const links = await this.getLinksToTraverse(htmlContent);
+            const uncheckedLinks = await this.getUncheckedLinks(links);
+            await this.traverseSomeLinks(uncheckedLinks, currentId);
+            await this.goToPage(i);
+            currentId = currentId + uncheckedLinks.length;
+        }
     }
 
 }

@@ -15,7 +15,6 @@ class PgConnection {
         const pool = new Pool(dbConfig);
     
         try {
-            console.log('Connecting to the database...');
             const client = await pool.connect();
             const result = await client.query(`${query}`);
             client.release();
@@ -25,6 +24,29 @@ class PgConnection {
             await pool.end();
         }
     }
+
+    async getUncheckedLinks(links) {
+        const pool = new Pool(dbConfig);
+        const uncheckedLinks = [];
+        try {
+            for (const link of links) {
+                const client = await pool.connect();
+                const prefix = 'https://auto.bazos.sk';
+                const result = await client.query(`SELECT * FROM bazos_data_scraping WHERE link = '${prefix + link['href']}';`);
+                if (result.rowCount === 0) {
+                    uncheckedLinks.push(link);
+                }
+                client.release();
+            }
+        } catch (err) {
+            console.error('Error connecting to the database:', err.stack);
+            return [];
+        } finally {
+            await pool.end();
+        }
+
+        return uncheckedLinks;
+    } 
 }
 
 export default PgConnection;

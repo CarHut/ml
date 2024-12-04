@@ -47,7 +47,7 @@ async function closeTabs(browser) {
 
 async function interactAndScrapeAutoBazos(page, startPage, endPage, interactor) {
     const scraper = new BazosScraper(page, startPage, endPage, interactor);
-    await scraper.startScraping(2584);
+    await scraper.startScraping(3010);
 }
 
 const main = async () => {
@@ -77,7 +77,7 @@ const main = async () => {
     const interactionsWithBazos = new InteractionsWithBazos(page);
     await interactionsWithBazos.interactWithBazosMainMenuOptionsAndClickOnAutoBazos(5);
     await interactAndScrapeAutoBazos(page, 1, 15, interactionsWithBazos);
-    // page.close();
+    await browser.close();
 };
 
 main();
