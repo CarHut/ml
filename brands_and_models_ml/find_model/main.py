@@ -29,7 +29,7 @@ def load_models_for_brand(brand_name):
     return result
 
 def find_position_of_model_in_header(model_name, header_content):
-    position = header_content.find(model_name)
+    position = header_content.lower().find(model_name.lower())
     return position
 
 
@@ -101,16 +101,37 @@ def predict_brand_and_model(header_content):
     brand_models = load_models_for_brand(brand_prediction_fixed)
     pure_models = [row[1] for row in brand_models]
     matched_model = match_model(header_content, pure_models)
-    return (brand_prediction[0], matched_model)
+    return (brand_prediction_fixed, matched_model)
 
 
 def check_all_headers():
     headers = [row[1] for row in bazos_data] + [row[1] for row in autobazar_data]
+    # headers = ['Audi A5 Sportback 2.0 TDI 150 kW Quattro Matrix Webasto']
     treated_headers = [s.replace("\n", "") for s in headers]
+    labels = []
     for i in range(0, len(treated_headers)):
         car = predict_brand_and_model(treated_headers[i])
-        print(f'[{i}] - {treated_headers[i]} + " ->>> " + {car}')
+        if car is None:
+            print(f'[{i}] - {treated_headers[i]} + " ->>>  None')
+            labels.append('None')
+        else:
+            # Brand present model not
+            if car[0] is not None and car[1] is None:
+                print(f'[{i}] - {treated_headers[i]} + " ->>> " + {car[0]}')
+                labels.append(car[0])
+            else:
+                print(f'[{i}] - {treated_headers[i]} + " ->>> " + {car[0] + ' ' + car[1]}')
+                labels.append(car[0] + ' ' + car[1])
         print("----------------------\n")
+    return (headers, labels)
+
+def save_to_file(data, filename):
+    with open(filename, 'w', encoding='utf-8') as file:
+        for item in data:
+            file.write(f"{str(item)}\n")
 
 if __name__ == '__main__':
-    check_all_headers()
+    cars = check_all_headers()
+    save_to_file(cars[0], 'C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\X.txt') #headers
+    save_to_file(cars[1], 'C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\y.txt') #labels
+

@@ -47,7 +47,7 @@ async function closeTabs(browser) {
 
 async function interactAndScrapeAutoBazos(page, startPage, endPage, interactor) {
     const scraper = new BazosScraper(page, startPage, endPage, interactor);
-    await scraper.startScraping(3010);
+    await scraper.startScraping(3070);
 }
 
 const main = async () => {
@@ -64,6 +64,8 @@ const main = async () => {
             `--proxy-server=${proxies[randProxyNum]}`,
         ],
     });
+
+    console.log(`Using proxy: ${proxies[randProxyNum]}`);
 
     const page = await browser.newPage();
     await setPageHeaders(page, randProxyNum);
