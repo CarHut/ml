@@ -11,7 +11,6 @@ import InteractionsWithBazos from './interactions/user-bot-interactions-with-baz
 
 // Scraper
 import BazosScraper from './bazos-scraper/bazos-scraper.js';
-import path from 'path';
 
 const pageUrl = 'https://bazos.sk/'
 const dummyUrl = 'https://bot.sannysoft.com/'
@@ -47,7 +46,7 @@ async function closeTabs(browser) {
 
 async function interactAndScrapeAutoBazos(page, startPage, endPage, interactor) {
     const scraper = new BazosScraper(page, startPage, endPage, interactor);
-    await scraper.startScraping(3070);
+    await scraper.startScraping(3209);
 }
 
 const main = async () => {
@@ -78,7 +77,7 @@ const main = async () => {
     page.content()
     const interactionsWithBazos = new InteractionsWithBazos(page);
     await interactionsWithBazos.interactWithBazosMainMenuOptionsAndClickOnAutoBazos(5);
-    await interactAndScrapeAutoBazos(page, 1, 15, interactionsWithBazos);
+    await interactAndScrapeAutoBazos(page, 1, 16, interactionsWithBazos);
     await browser.close();
 };
 

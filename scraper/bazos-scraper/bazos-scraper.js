@@ -146,17 +146,23 @@ class BazosScraper {
     }
 
     async traverseSomeLinks(links, id) {
-        var currentOfferId = id;
+        var currentOfferIdBuffer = 0;
         const randomLinks = this.pickRandomLinks(links, 0, links.length);
+        // If links are length of 0 make some delay because it wont find next pages
+        if (randomLinks.length === 0) {
+            await this.delay(5000);
+        }
         for (const randomLink of randomLinks) {
             await this.delay(Math.floor(Math.random() * (15000 - 4500) + 4500));
             const parentSelector = `h2.nadpis:has(a[href^="${randomLink['href']}"])`;
             await this.interactor.moveMouseToElement(parentSelector);
             await this.delay(1000);
             await this.page.click(parentSelector);
-            await this.getPageContentAndReturn(randomLink, currentOfferId);
-            currentOfferId = currentOfferId + 1;
+            await this.getPageContentAndReturn(randomLink, id + currentOfferIdBuffer);
+            currentOfferIdBuffer = currentOfferIdBuffer + 1;
         }
+
+        return currentOfferIdBuffer;
     }
 
     pickRandomLinks(links, minThreshold, maxThreshold) {
@@ -181,6 +187,12 @@ class BazosScraper {
         const pgConnection = new PgConnection();
         const uncheckedLinks = await pgConnection.getUncheckedLinks(links);
         return uncheckedLinks;
+    }
+
+    async acceptCookies() {
+        await this.interactor.moveMouseToElement(`button[class="${'cc-nb-okagree'}"]`);
+        await this.delay(1500);
+        await this.page.click(`button[class="${'cc-nb-okagree'}"]`);
     }
 
     async goToPage(pageNum) {
@@ -218,14 +230,15 @@ class BazosScraper {
     async startScraping(startId) {
         // fetch page html
         let currentId = startId;
+        await this.acceptCookies();
         for (let i = this.startPage + 1; i <= this.endPage; i++) {
             await this.page.waitForSelector('.inzeraty.inzeratyflex a', { timeout: 60000 }); 
             const htmlContent = await this.page.content();
             const links = await this.getLinksToTraverse(htmlContent);
             const uncheckedLinks = await this.getUncheckedLinks(links);
-            await this.traverseSomeLinks(uncheckedLinks, currentId);
+            const buffer = await this.traverseSomeLinks(uncheckedLinks, currentId);
             await this.goToPage(i);
-            currentId = currentId + uncheckedLinks.length;
+            currentId = currentId + buffer;
         }
     }
 
