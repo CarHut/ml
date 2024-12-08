@@ -1,6 +1,5 @@
 import * as cheerio from 'cheerio';
 import PgConnection from '../postgres-util/pg-util.js';
-import { link } from 'fs';
 
 class BazosScraper {
     constructor(page, startPage, endPage, interactor) {
