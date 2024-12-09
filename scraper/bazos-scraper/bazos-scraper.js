@@ -8,7 +8,7 @@ class BazosScraper {
         this.endPage = endPage;
         this.interactor = interactor;
     }
-
+clea
     delay = (time) => new Promise((resolve) => setTimeout(resolve, time));
 
     async getLinksToTraverse(htmlContent) {
