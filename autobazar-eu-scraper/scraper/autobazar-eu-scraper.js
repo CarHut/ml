@@ -1,4 +1,5 @@
 import PgConnection from '../postgres-util/pg-util.js';
+import InteractionsWithAutobazarEu from '../interactions/user-bot-interactions-with-bazos.js';
 
 class AutobazarEuScraper {
     constructor (page, startPage, endPage, interactor, browser) {
@@ -14,10 +15,12 @@ class AutobazarEuScraper {
     async openRightTab(url) {
         await this.delay(5000);
         const pages = await this.browser.pages();
+        await this.delay(1000);
         for (const page of pages) {
             if (await page.url() === url) {
-                await page.bringToFront();
-                return;
+                page.bringToFront();
+                await this.delay(5000);
+                return page;
             }
         }
     }
@@ -51,9 +54,9 @@ class AutobazarEuScraper {
         await this.page.click(`button[id^="headlessui-listbox-button-:Rr92m2d7sm:"]`);
 
         await this.delay(Math.floor(Math.random() * (2000 - 1000) + 1000));
-        await this.interactor.moveMouseToElement(`img[alt^="Škoda"]`);
+        await this.interactor.moveMouseToElement(`img[alt^="${brandName}"]`);
         await this.delay(Math.floor(Math.random() * (1000 - 500) + 500));
-        await this.page.click(`img[alt^="Škoda"]`);
+        await this.page.click(`img[alt^="${brandName}"]`);
     }
     
     async confirmBrandSelection() {
@@ -116,18 +119,19 @@ class AutobazarEuScraper {
             await this.interactor.moveMouseToElement(parentSelector);
             await this.delay(1000);
             await this.page.click(parentSelector);
-            await this.openRightTab(randomLink);
-            await this.getPageContentAndReturn(randomLink, id + currentOfferIdBuffer);
+            const currentTab = await this.openRightTab(randomLink);
+            await this.getPageContentAndReturn(currentTab, randomLink, id + currentOfferIdBuffer);
             currentOfferIdBuffer = currentOfferIdBuffer + 1;
         }
 
         return currentOfferIdBuffer;
     }
 
-    async getHeader() {
+    async getHeader(currentTab) {
         try {
-            const h1 =  await this.page.$('h1');
+            const h1 =  await currentTab.$('h1');
             const header = await h1.evaluate(node => node.innerText);
+            console.log(header);
             return header;
         } catch (error) {
             console.log(error);
@@ -135,9 +139,9 @@ class AutobazarEuScraper {
         }
     }
 
-    async getPrice() {
+    async getPrice(currentTab) {
         try {
-            const priceElement = await this.page.$(`div[id="price"]`);
+            const priceElement = await currentTab.$(`div[id="price"]`);
             const price = await priceElement.evaluate(node => node.innerText);
             return price;
         } catch (error) {
@@ -146,282 +150,348 @@ class AutobazarEuScraper {
         }
     }
 
-    async getFuel() {
+    async getFuel(currentTab) {
         try {
-            const fuelSpan = await this.page.$eval('span', (el) => {
-                return el.textContent.includes('Palivo');
-            });
-            const previousSibling = await fuelSpan.evaluate(el => el.previousElementSibling);
-            const fuel = await previousSibling.evaluate(node => node.innerText);
-            return fuel;
+            const spans = await currentTab.$$('span');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Palivo')) {
+                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
+                    const text = await previousSibling.evaluate(node => node.innerText);
+                    return text;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getModelYear() {
+    async getModelYear(currentTab) {
         try {
-            const modelYearSpan = await this.page.$eval('span', (el) => {
-                return el.textContent.includes('Rok výroby');
-            });
-            const previousSibling = await modelYearSpan.evaluate(el => el.previousElementSibling);
-            const modelYear = await previousSibling.evaluate(node => node.innerText);
-            return modelYear;
+            const spans = await currentTab.$$('span');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Rok výroby')) {
+                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
+                    const text = await previousSibling.evaluate(node => node.innerText);
+                    return text;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getCcm() {
+    async getCcm(currentTab) {
         try {
-            const ccmSpan = await this.page.$eval('span', (el) => {
-                return el.textContent.includes('Objem motora');
-            });
-            const previousSibling = await ccmSpan.evaluate(el => el.previousElementSibling);
-            const ccm = await previousSibling.evaluate(node => node.innerText);
-            return ccm;
+            const spans = await currentTab.$$('span');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Objem motora')) {
+                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
+                    const text = await previousSibling.evaluate(node => node.innerText);
+                    return text;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getMileage() {
+    async getMileage(currentTab) {
         try {
-            const mileageSpan = await this.page.$eval('span', (el) => {
-                return el.textContent.includes('Kilometre');
-            });
-            const previousSibling = await mileageSpan.evaluate(el => el.previousElementSibling);
-            const mileage = await previousSibling.evaluate(node => node.innerText);
-            return mileage;
+            const spans = await currentTab.$$('span');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Kilometre')) {
+                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
+                    const text = await previousSibling.evaluate(node => node.innerText);
+                    return text;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getVIN() {
+    async getVIN(currentTab) {
         try {
-            const vinSpan = await this.page.$eval('span', (el) => {
-                return el.textContent.includes('VIN');
-            });
-            const previousSibling = await vinSpan.evaluate(el => el.previousElementSibling);
-            const vin = await previousSibling.evaluate(node => node.innerText);
-            return vin;
+            const spans = await currentTab.$$('span');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('VIN')) {
+                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
+                    const text = await previousSibling.evaluate(node => node.innerText);
+                    return text;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getBodyType() {
+    async getBodyType(currentTab) {
         try {
-            const bodyTypeSpan = await this.page.$eval('span', (el) => {
-                return el.textContent.includes('Karoséria');
-            });
-            const previousSibling = await bodyTypeSpan.evaluate(el => el.previousElementSibling);
-            const bodyType = await previousSibling.evaluate(node => node.innerText);
-            return bodyType;
+            const spans = await currentTab.$$('span');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Karoséria')) {
+                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
+                    const text = await previousSibling.evaluate(node => node.innerText);
+                    return text;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getGearbox() {
+    async getGearbox(currentTab) {
         try {
-            const gearboxSpan = await this.page.$eval('span', (el) => {
-                return el.textContent.includes('Prevodovka');
-            });
-            const previousSibling = await gearboxSpan.evaluate(el => el.previousElementSibling);
-            const gearbox = await previousSibling.evaluate(node => node.innerText);
-            return gearbox;
+            const spans = await currentTab.$$('span');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Prevodovka')) {
+                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
+                    const text = await previousSibling.evaluate(node => node.innerText);
+                    return text;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getPower() {
+    async getPower(currentTab) {
         try {
-            const powerSpan = await this.page.$eval('span', (el) => {
-                return el.textContent.includes('Výkon');
-            });
-            const previousSibling = await powerSpan.evaluate(el => el.previousElementSibling);
-            const power = await previousSibling.evaluate(node => node.innerText);
-            return power;
+            const spans = await currentTab.$$('span');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Výkon')) {
+                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
+                    const text = await previousSibling.evaluate(node => node.innerText);
+                    return text;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getPowerTrain() {
+    async getPowerTrain(currentTab) {
         try {
-            const powerTrainSpan = await this.page.$eval('span', (el) => {
-                return el.textContent.includes('Pohon');
-            });
-            const previousSibling = await powerTrainSpan.evaluate(el => el.previousElementSibling);
-            const powerTrain = await previousSibling.evaluate(node => node.innerText);
-            return powerTrain;
+            const spans = await currentTab.$$('span');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Pohon')) {
+                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
+                    const text = await previousSibling.evaluate(node => node.innerText);
+                    return text;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getColor() {
+    async getColor(currentTab) {
         try {
-            const colorSpan = await this.page.$eval('span', (el) => {
-                return el.textContent.includes('Farba');
-            });
-            const previousSibling = await colorSpan.evaluate(el => el.previousElementSibling);
-            const color = await previousSibling.evaluate(node => node.innerText);
-            return color;
+            const spans = await currentTab.$$('span');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Farba')) {
+                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
+                    const text = await previousSibling.evaluate(node => node.innerText);
+                    return text;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getVehicleState() {
+    async getVehicleState(currentTab) {
         try {
-            const vehicleStateH2 = await this.page.$eval('h2', (el) => {
-                return el.textContent.includes('Stav vozidla');
-            });
-            const followingSiblingHtml = await vehicleStateH2.evaluate(el => el.nextElementSibling ? el.nextElementSibling.outerHTML : 'null');
-            return followingSiblingHtml;
+            const spans = await currentTab.$$('h2');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Stav vozidla')) {
+                    const nextSibling = await span.evaluate(el => el.nextElementSibling.outerHTML);
+                    return nextSibling;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getSafetyFeatures() {
+    async getSafetyFeatures(currentTab) {
         try {
-            const featuresH3 = await this.page.$eval('h3', (el) => {
-                return el.textContent.includes('Bezpečnosť');
-            });
-            const followingSiblingHtml = await featuresH3.evaluate(el => el.nextElementSibling ? el.nextElementSibling.outerHTML : 'null');
-            return followingSiblingHtml;
+            const spans = await currentTab.$$('h3');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Bezpečnosť')) {
+                    const nextSibling = await span.evaluate(el => el.nextElementSibling.outerHTML);
+                    return nextSibling;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getComfortFeatures() {
+    async getComfortFeatures(currentTab) {
         try {
-            const featuresH3 = await this.page.$eval('h3', (el) => {
-                return el.textContent.includes('Komfort');
-            });
-            const followingSiblingHtml = await featuresH3.evaluate(el => el.nextElementSibling ? el.nextElementSibling.outerHTML : 'null');
-            return followingSiblingHtml;
+            const spans = await currentTab.$$('h3');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Komfort')) {
+                    const nextSibling = await span.evaluate(el => el.nextElementSibling.outerHTML);
+                    return nextSibling;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getOtherFeatures() {
+    async getOtherFeatures(currentTab) {
         try {
-            const featuresH3 = await this.page.$eval('h3', (el) => {
-                return el.textContent.includes('Ostatné');
-            });
-            const followingSiblingHtml = await featuresH3.evaluate(el => el.nextElementSibling ? el.nextElementSibling.outerHTML : 'null');
-            return followingSiblingHtml;
+            const spans = await currentTab.$$('h3');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Ostatné')) {
+                    const nextSibling = await span.evaluate(el => el.nextElementSibling.outerHTML);
+                    return nextSibling;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getMoreFeatures() {
+    async getMoreFeatures(currentTab) {
         try {
-            const featuresH3 = await this.page.$eval('h3', (el) => {
-                return el.textContent.includes('Ďalšia výbava');
-            });
-            const followingSiblingHtml = await featuresH3.evaluate(el => el.nextElementSibling ? el.nextElementSibling.outerHTML : 'null');
-            return followingSiblingHtml;
+            const spans = await currentTab.$$('h3');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Ďalšia výbava')) {
+                    const nextSibling = await span.evaluate(el => el.nextElementSibling.outerHTML);
+                    return nextSibling;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getNote() {
+    async getNote(currentTab) {
         try {
-            const noteH2 = await this.page.$eval('h2', (el) => {
-                return el.textContent.includes('Poznámka');
-            });
-            const followingSiblingHtml = await noteH2.evaluate(el => el.nextElementSibling ? el.nextElementSibling.outerHTML : 'null');
-            return followingSiblingHtml;
+            const spans = await currentTab.$$('h2');
+            for (const span of spans) {    
+                const textContent = await span.evaluate(el => el.innerText.trim());
+                if (textContent.includes('Poznámka')) {
+                    const nextSibling = await span.evaluate(el => el.nextElementSibling.outerHTML);
+                    return nextSibling;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getLocation() {
+    async getLocation(currentTab) {
         try {
-            const locationHref = await this.page.$eval('a', (el) => {
-                return el.href.includes('https://maps.google.com/');
-            });
-            const location = await locationHref.evaluate(el => el.href);
-            return location;
+            const aTags = await currentTab.$$('a');
+            for (const aTag of aTags) {
+                const hrefContext = aTag.evaluate(el => el.href);
+                if (hrefContext.includes('https://maps.google.com/')) {
+                    return hrefContext;
+                }
+            }
+            return 'null';
         } catch (error) {
             console.log(error);
             return 'null';
         }
     }
 
-    async getPageContentAndReturn(randomLink, id) {
+    async getPageContentAndReturn(currentTab, randomLink, id) {
         await this.delay(5000);
         await this.delay(Math.floor(Math.random() * (2000 - 500) + 500));
         const imagePath = `C:\\Users\\Johny\\Desktop\\autobazar-eu-images\\${id}.png`;
-        await this.page.screenshot({ path: imagePath });
-        const header = await this.getHeader();
-        const price = await this.getPrice();
-        const fuel = await this.getFuel();
-        const modelYear = await this.getModelYear();
-        const ccm = await this.getCcm(); 
-        const mileage = await this.getMileage();
-        const VIN = await this.getVIN();
-        const bodyType = await this.getBodyType();
-        const gearbox = await this.getGearbox();
-        const power = await this.getPower();
-        const powerTrain = await this.getPowerTrain();
-        const color = await this.getColor();
-        const vehicleState = await this.getVehicleState();
-        const safetyFeatures = await this.getSafetyFeatures();
-        const comfortFeatures = await this.getComfortFeatures();
-        const otherFeature = await this.getOtherFeatures();
-        const moreFeatures = await this.getMoreFeatures();
-        const note = await this.getNote();
-        const location = await this.getLocation();
+        await currentTab.screenshot({ path: imagePath });
+        const header = await this.getHeader(currentTab);
+        const price = await this.getPrice(currentTab);
+        const fuel = await this.getFuel(currentTab);
+        const modelYear = await this.getModelYear(currentTab);
+        const ccm = await this.getCcm(currentTab); 
+        const mileage = await this.getMileage(currentTab);
+        const VIN = await this.getVIN(currentTab);
+        const bodyType = await this.getBodyType(currentTab);
+        const gearbox = await this.getGearbox(currentTab);
+        const power = await this.getPower(currentTab);
+        const powerTrain = await this.getPowerTrain(currentTab);
+        const color = await this.getColor(currentTab);
+        const vehicleState = await this.getVehicleState(currentTab);
+        const safetyFeatures = await this.getSafetyFeatures(currentTab);
+        const comfortFeatures = await this.getComfortFeatures(currentTab);
+        const otherFeature = await this.getOtherFeatures(currentTab);
+        const moreFeatures = await this.getMoreFeatures(currentTab);
+        const note = await this.getNote(currentTab);
+        const location = await this.getLocation(currentTab);
         const pgConnection = new PgConnection();
-        await pgConnection.executePgQuery(`INSERT INTO autobazar_eu_pupp (id,header,link,image_path,price,fuel,model_year,ccm,mileage,vin,body_type,gearbox,power,power_train,color,vehicle_state,safety_features,comfort_features,other_features,more_features,note,location) VALUES (${id},${header},${randomLink},${imagePath},${price},${fuel},${modelYear},${ccm},${mileage},${VIN},${bodyType},${gearbox},${power},${powerTrain},${color},${vehicleState},${safetyFeatures},${comfortFeatures},${otherFeature},${moreFeatures},${note},${location});`); 
-        await this.randomizeBotInteractionWithOffer();    
-        await this.page.close();
+        await pgConnection.executePgQuery(`INSERT INTO autobazar_eu_pupp (id,header,link,image_path,price,fuel,model_year,ccm,mileage,vin,body_type,gearbox,power,power_train,color,vehicle_state,safety_features,comfort_features,other_features,more_features,note,location) VALUES (${id},'${header}','${randomLink}','${imagePath}','${price}','${fuel}','${modelYear}','${ccm}','${mileage}','${VIN}','${bodyType}','${gearbox}','${power}','${powerTrain}','${color}','${vehicleState}','${safetyFeatures}','${comfortFeatures}','${otherFeature}','${moreFeatures}','${note}','${location}');`); 
+        await this.randomizeBotInteractionWithOffer(currentTab);    
+        await currentTab.close();
     }
 
-    async randomizeBotInteractionWithOffer() {
-        await this.page.mouse.wheel({ deltaY: 300});
+    async randomizeBotInteractionWithOffer(currentTab) {
+        await currentTab.mouse.wheel({ deltaY: 300});
         await this.delay(Math.floor(Math.random() * (3000 - 1500) + 1500));
-        await this.interactor.scrollTo({ deltaY: 0 });
+        const interactor = new InteractionsWithAutobazarEu(currentTab);
+        await interactor.scrollTo({ deltaY: 0 });
         await this.delay(Math.floor(Math.random() * (2000 - 500) + 500));
-        await this.page.mouse.wheel({ deltaY: 1200} );
+        await currentTab.mouse.wheel({ deltaY: 1200} );
         await this.delay(Math.floor(Math.random() * (500 - 300) + 300));
-        await this.page.mouse.wheel({ deltaY: 1300 });
+        await currentTab.mouse.wheel({ deltaY: 1300 });
         await this.delay(Math.floor(Math.random() * (500 - 300) + 300));
-        await this.interactor.scrollTo({ deltaY: 1400 });
+        await interactor.scrollTo({ deltaY: 1400 });
         await this.delay(Math.floor(Math.random() * (20000 - 5000) + 5000));
-        await this.page.mouse.wheel({ deltaY: 0 });
+        await currentTab.mouse.wheel({ deltaY: 0 });
         await this.delay(Math.floor(Math.random() * (5000 - 2000) + 2000));
-        await this.page.goBack(); 
-        await this.delay(10000);
     }
 
     async goToPage(pageNum) {
