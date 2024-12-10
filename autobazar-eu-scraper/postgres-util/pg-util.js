@@ -31,7 +31,7 @@ class PgConnection {
         try {
             for (const link of links) {
                 const client = await pool.connect();
-                const result = await client.query(`SELECT * FROM autobazar_eu WHERE link = '${link['href']}';`);
+                const result = await client.query(`SELECT * FROM autobazar_eu WHERE link = '${link}';`);
                 if (result.rowCount === 0) {
                     uncheckedLinks.push(link);
                 }

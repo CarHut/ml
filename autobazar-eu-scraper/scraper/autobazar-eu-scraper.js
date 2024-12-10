@@ -113,6 +113,7 @@ class AutobazarEuScraper {
             await this.delay(5000);
         }
         for (const randomLink of randomLinks) {
+            console.log(`Currently on: ${randomLink}`);
             await this.delay(Math.floor(Math.random() * (15000 - 4500) + 4500));
             const fixedHref = randomLink.split("https://www.autobazar.eu")[1];
             const parentSelector = `a[href^="${fixedHref}"]`;
@@ -152,14 +153,11 @@ class AutobazarEuScraper {
 
     async getFuel(currentTab) {
         try {
-            const spans = await currentTab.$$('span');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Palivo')) {
-                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
-                    const text = await previousSibling.evaluate(node => node.innerText);
-                    return text;
-                }
+            const span = await currentTab.$('span ::-p-text(Palivo)');
+            if (span !== null && span !== undefined) {
+                const previousSibling = await currentTab.evaluateHandle(el => el.previousElementSibling, span);
+                const text = await previousSibling.evaluate(el => el.innerText);
+                return text;
             }
             return 'null';
         } catch (error) {
@@ -170,14 +168,11 @@ class AutobazarEuScraper {
 
     async getModelYear(currentTab) {
         try {
-            const spans = await currentTab.$$('span');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Rok výroby')) {
-                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
-                    const text = await previousSibling.evaluate(node => node.innerText);
-                    return text;
-                }
+            const span = await currentTab.$('span ::-p-text(Rok výroby)');
+            if (span !== null && span !== undefined) {
+                const previousSibling = await currentTab.evaluateHandle(el => el.previousElementSibling, span);
+                const text = await previousSibling.evaluate(el => el.innerText);
+                return text;
             }
             return 'null';
         } catch (error) {
@@ -188,14 +183,11 @@ class AutobazarEuScraper {
 
     async getCcm(currentTab) {
         try {
-            const spans = await currentTab.$$('span');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Objem motora')) {
-                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
-                    const text = await previousSibling.evaluate(node => node.innerText);
-                    return text;
-                }
+            const span = await currentTab.$('span ::-p-text(Objem motora)');
+            if (span !== null && span !== undefined) {
+                const previousSibling = await currentTab.evaluateHandle(el => el.previousElementSibling, span);
+                const text = await previousSibling.evaluate(el => el.innerText);
+                return text;
             }
             return 'null';
         } catch (error) {
@@ -206,14 +198,11 @@ class AutobazarEuScraper {
 
     async getMileage(currentTab) {
         try {
-            const spans = await currentTab.$$('span');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Kilometre')) {
-                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
-                    const text = await previousSibling.evaluate(node => node.innerText);
-                    return text;
-                }
+            const span = await currentTab.$('span ::-p-text(Kilometre)');
+            if (span !== null && span !== undefined) {
+                const previousSibling = await currentTab.evaluateHandle(el => el.previousElementSibling, span);
+                const text = await previousSibling.evaluate(el => el.innerText);
+                return text;
             }
             return 'null';
         } catch (error) {
@@ -224,14 +213,11 @@ class AutobazarEuScraper {
 
     async getVIN(currentTab) {
         try {
-            const spans = await currentTab.$$('span');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('VIN')) {
-                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
-                    const text = await previousSibling.evaluate(node => node.innerText);
-                    return text;
-                }
+            const span = await currentTab.$('span ::-p-text(VIN)');
+            if (span !== null && span !== undefined) {
+                const previousSibling = await currentTab.evaluateHandle(el => el.previousElementSibling, span);
+                const text = await previousSibling.evaluate(el => el.innerText);
+                return text;
             }
             return 'null';
         } catch (error) {
@@ -242,14 +228,11 @@ class AutobazarEuScraper {
 
     async getBodyType(currentTab) {
         try {
-            const spans = await currentTab.$$('span');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Karoséria')) {
-                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
-                    const text = await previousSibling.evaluate(node => node.innerText);
-                    return text;
-                }
+            const span = await currentTab.$('span ::-p-text(Karoséria)');
+            if (span !== null && span !== undefined) {
+                const previousSibling = await currentTab.evaluateHandle(el => el.previousElementSibling, span);
+                const text = await previousSibling.evaluate(el => el.innerText);
+                return text;
             }
             return 'null';
         } catch (error) {
@@ -260,14 +243,11 @@ class AutobazarEuScraper {
 
     async getGearbox(currentTab) {
         try {
-            const spans = await currentTab.$$('span');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Prevodovka')) {
-                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
-                    const text = await previousSibling.evaluate(node => node.innerText);
-                    return text;
-                }
+            const span = await currentTab.$('span ::-p-text(Prevodovka)');
+            if (span !== null && span !== undefined) {
+                const previousSibling = await currentTab.evaluateHandle(el => el.previousElementSibling, span);
+                const text = await previousSibling.evaluate(el => el.innerText);
+                return text;
             }
             return 'null';
         } catch (error) {
@@ -278,14 +258,11 @@ class AutobazarEuScraper {
 
     async getPower(currentTab) {
         try {
-            const spans = await currentTab.$$('span');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Výkon')) {
-                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
-                    const text = await previousSibling.evaluate(node => node.innerText);
-                    return text;
-                }
+            const span = await currentTab.$('span ::-p-text(Výkon)');
+            if (span !== null && span !== undefined) {
+                const previousSibling = await currentTab.evaluateHandle(el => el.previousElementSibling, span);
+                const text = await previousSibling.evaluate(el => el.innerText);
+                return text;
             }
             return 'null';
         } catch (error) {
@@ -296,14 +273,11 @@ class AutobazarEuScraper {
 
     async getPowerTrain(currentTab) {
         try {
-            const spans = await currentTab.$$('span');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Pohon')) {
-                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
-                    const text = await previousSibling.evaluate(node => node.innerText);
-                    return text;
-                }
+            const span = await currentTab.$('span ::-p-text(Pohon)');
+            if (span !== null && span !== undefined) {
+                const previousSibling = await currentTab.evaluateHandle(el => el.previousElementSibling, span);
+                const text = await previousSibling.evaluate(el => el.innerText);
+                return text;
             }
             return 'null';
         } catch (error) {
@@ -314,14 +288,11 @@ class AutobazarEuScraper {
 
     async getColor(currentTab) {
         try {
-            const spans = await currentTab.$$('span');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Farba')) {
-                    const previousSibling = await span.evaluate(el => el.previousElementSibling);
-                    const text = await previousSibling.evaluate(node => node.innerText);
-                    return text;
-                }
+            const span = await currentTab.$('span ::-p-text(Farba)');
+            if (span !== null && span !== undefined) {
+                const previousSibling = await currentTab.evaluateHandle(el => el.previousElementSibling, span);
+                const text = await previousSibling.evaluate(el => el.innerText);
+                return text;
             }
             return 'null';
         } catch (error) {
@@ -332,13 +303,12 @@ class AutobazarEuScraper {
 
     async getVehicleState(currentTab) {
         try {
-            const spans = await currentTab.$$('h2');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Stav vozidla')) {
-                    const nextSibling = await span.evaluate(el => el.nextElementSibling.outerHTML);
-                    return nextSibling;
-                }
+            const h2Tag = await currentTab.$('h2 ::-p-text(Stav vozidla)');
+            if (h2Tag !== null && h2Tag !== undefined) {
+                const nextSibling = await currentTab.evaluateHandle(el => el.nextElementSibling, h2Tag);
+                const outerHTML = await nextSibling.evaluate(el => el.outerHTML);
+                const finalText = outerHTML.replaceAll("'", "");
+                return finalText;
             }
             return 'null';
         } catch (error) {
@@ -349,13 +319,12 @@ class AutobazarEuScraper {
 
     async getSafetyFeatures(currentTab) {
         try {
-            const spans = await currentTab.$$('h3');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Bezpečnosť')) {
-                    const nextSibling = await span.evaluate(el => el.nextElementSibling.outerHTML);
-                    return nextSibling;
-                }
+            const h3Tag = await currentTab.$('h3 ::-p-text(Bezpečnosť)');
+            if (h3Tag !== null && h3Tag !== undefined) {
+                const nextSibling = await currentTab.evaluateHandle(el => el.nextElementSibling, h3Tag);
+                const outerHTML = await nextSibling.evaluate(el => el.outerHTML);
+                const finalText = outerHTML.replaceAll("'", "");
+                return finalText;
             }
             return 'null';
         } catch (error) {
@@ -366,13 +335,12 @@ class AutobazarEuScraper {
 
     async getComfortFeatures(currentTab) {
         try {
-            const spans = await currentTab.$$('h3');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Komfort')) {
-                    const nextSibling = await span.evaluate(el => el.nextElementSibling.outerHTML);
-                    return nextSibling;
-                }
+            const h3Tag = await currentTab.$('h3 ::-p-text(Komfort)');
+            if (h3Tag !== null && h3Tag !== undefined) {
+                const nextSibling = await currentTab.evaluateHandle(el => el.nextElementSibling, h3Tag);
+                const outerHTML = await nextSibling.evaluate(el => el.outerHTML);
+                const finalText = outerHTML.replaceAll("'", "");
+                return finalText;
             }
             return 'null';
         } catch (error) {
@@ -383,13 +351,12 @@ class AutobazarEuScraper {
 
     async getOtherFeatures(currentTab) {
         try {
-            const spans = await currentTab.$$('h3');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Ostatné')) {
-                    const nextSibling = await span.evaluate(el => el.nextElementSibling.outerHTML);
-                    return nextSibling;
-                }
+            const h3Tag = await currentTab.$('h3 ::-p-text(Ostatné)');
+            if (h3Tag !== null && h3Tag !== undefined) {
+                const nextSibling = await currentTab.evaluateHandle(el => el.nextElementSibling, h3Tag);
+                const outerHTML = await nextSibling.evaluate(el => el.outerHTML);
+                const finalText = outerHTML.replaceAll("'", "");
+                return finalText;
             }
             return 'null';
         } catch (error) {
@@ -400,13 +367,12 @@ class AutobazarEuScraper {
 
     async getMoreFeatures(currentTab) {
         try {
-            const spans = await currentTab.$$('h3');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Ďalšia výbava')) {
-                    const nextSibling = await span.evaluate(el => el.nextElementSibling.outerHTML);
-                    return nextSibling;
-                }
+            const h3Tag = await currentTab.$('h3 ::-p-text(Ďalšia výbava)');
+            if (h3Tag !== null && h3Tag !== undefined) {
+                const nextSibling = await currentTab.evaluateHandle(el => el.nextElementSibling, h3Tag);
+                const outerHTML = await nextSibling.evaluate(el => el.outerHTML);
+                const finalText = outerHTML.replaceAll("'", "");
+                return finalText;
             }
             return 'null';
         } catch (error) {
@@ -417,13 +383,12 @@ class AutobazarEuScraper {
 
     async getNote(currentTab) {
         try {
-            const spans = await currentTab.$$('h2');
-            for (const span of spans) {    
-                const textContent = await span.evaluate(el => el.innerText.trim());
-                if (textContent.includes('Poznámka')) {
-                    const nextSibling = await span.evaluate(el => el.nextElementSibling.outerHTML);
-                    return nextSibling;
-                }
+            const h2Tag = await currentTab.$('h2 ::-p-text(Poznámka)');
+            if (h2Tag !== null && h2Tag !== undefined) {
+                const nextSibling = await currentTab.evaluateHandle(el => el.nextElementSibling, h2Tag);
+                const outerHTML = await nextSibling.evaluate(el => el.outerHTML);
+                const finalText = outerHTML.replaceAll("'", "");
+                return finalText;
             }
             return 'null';
         } catch (error) {
@@ -434,12 +399,10 @@ class AutobazarEuScraper {
 
     async getLocation(currentTab) {
         try {
-            const aTags = await currentTab.$$('a');
-            for (const aTag of aTags) {
-                const hrefContext = aTag.evaluate(el => el.href);
-                if (hrefContext.includes('https://maps.google.com/')) {
-                    return hrefContext;
-                }
+            const aTag = await currentTab.$(`a[href^="https://maps.google.com/"]`);
+            if (aTag !== null && aTag !== undefined) {
+                const href = await aTag.evaluateHandle(el => el.href);
+                return href;
             }
             return 'null';
         } catch (error) {
@@ -494,12 +457,32 @@ class AutobazarEuScraper {
         await this.delay(Math.floor(Math.random() * (5000 - 2000) + 2000));
     }
 
-    async goToPage(pageNum) {
+    async goToPage(pageNum, brand) {
         try {
-            await this.delay(Math.random() * (10000 - 3000) + 3000)
-            const pageATag = await this.page.$eval('a', (el) => {
-                return el.innerText === pageNum;
-            });
+            var brandName = null;
+            switch (brand) {
+                case 'Škoda':
+                    brandName = 'skoda';
+                    break;
+                case 'Volkswagen':
+                    brandName = 'volkswagen';
+                    break;
+                case 'BMW':
+                    brandName = 'bmw';
+                    break;
+                case 'Audi':
+                    brandName = 'audi';
+                    break;
+                case 'Mercedes-Benz':
+                    brandName = 'mercedes-benz';
+                    break;
+                default:
+                    brandName = 'none';
+                    break;
+            }
+            await this.delay(Math.random() * (10000 - 3000) + 3000);
+            const pageATag = await this.page.$(`a[href^="/vysledky/osobne-vozidla/${brandName}/?page=${pageNum}"]`);
+            console.log(`a[href="/vysledky/osobne-vozidla/${brandName}/?page=${pageNum}"]`);
             await pageATag.click();
         } catch (error) {
             console.log(`Cannot go to the page: ${pageNum}`);
@@ -512,7 +495,8 @@ class AutobazarEuScraper {
         await this.delay(20000);
         await this.acceptCookies();
         await this.delay(Math.floor(Math.random() * (6000 - 5000) + 5000));
-        const wasBrandPicked = await this.pickCarBrandFromImages(carBrands[randCarBrandNum]);
+        const brand = carBrands[randCarBrandNum];
+        const wasBrandPicked = await this.pickCarBrandFromImages(brand);
         if (wasBrandPicked === true) {
             console.log('Brand was not found. Aborting scraping...');
             return;
@@ -525,7 +509,7 @@ class AutobazarEuScraper {
             const links = await this.getLinksToTraverse();
             const uncheckedLinks = await this.getUncheckedLinks(links);
             const buffer = await this.traverseSomeLinks(uncheckedLinks, currentId);
-            await this.goToPage(i);
+            await this.goToPage(i, brand);
             currentId = currentId + buffer;
         }
     }
