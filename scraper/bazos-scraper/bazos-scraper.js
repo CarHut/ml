@@ -189,9 +189,13 @@ clea
     }
 
     async acceptCookies() {
-        await this.interactor.moveMouseToElement(`button[class="${'cc-nb-okagree'}"]`);
-        await this.delay(1500);
-        await this.page.click(`button[class="${'cc-nb-okagree'}"]`);
+        try {
+            await this.interactor.moveMouseToElement(`button[class="${'cc-nb-okagree'}"]`);
+            await this.delay(1500);
+            await this.page.click(`button[class="${'cc-nb-okagree'}"]`);    
+        } catch (error) {
+            console.log(`Cannot accept cookies: ${error}`);
+        }
     }
 
     async goToPage(pageNum) {

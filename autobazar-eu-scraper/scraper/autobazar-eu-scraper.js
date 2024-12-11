@@ -481,8 +481,8 @@ class AutobazarEuScraper {
                     break;
             }
             await this.delay(Math.random() * (10000 - 3000) + 3000);
-            const pageATag = await this.page.$(`a[href^="/vysledky/osobne-vozidla/${brandName}/?page=${pageNum}"]`);
-            console.log(`a[href="/vysledky/osobne-vozidla/${brandName}/?page=${pageNum}"]`);
+            const pageATag = await this.page.$(`a[href$="&page=${pageNum}"]`);
+            console.log(`a[href$="&page=${pageNum}"]`);
             await pageATag.click();
         } catch (error) {
             console.log(`Cannot go to the page: ${pageNum}`);

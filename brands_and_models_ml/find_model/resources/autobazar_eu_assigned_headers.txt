@@ -1,0 +1,22 @@
+1;Škoda Kodiaq New Exclusive Selection 7seat, 5d, 142kW, 2.0 TDI 4x4 2024
+2;Škoda Kodiaq New Exclusive Selection 2024, 5d, 142 kW, 2.0 TDI 4x4
+3;Škoda Kodiaq 2.0 TDI SCR EVO 200 Sportline 4x4 DSG
+4;Škoda Enyaq iV Coupé 4x4 RS
+5;Volkswagen T5 Multivan 2.0 TDI 140k Startline
+6;Volkswagen Golf 1.6 TDI BMT 115k Edition Comfortline DSG
+7;Volkswagen T4 Caravelle 2,5 TDI kW65 M5
+8;Volkswagen CHROBAK 1,6 i , Benzin kW37
+9;Volkswagen Touran 1.6 TDI Comfortline DSG
+10;Volkswagen Passat Variant 2.0 TDI BMT Comfortline DSG
+11;Volkswagen Sharan 2.0 TDI Highline 7 miest. DSG
+12;Volkswagen Tiguan 2.0 TDI SCR BMT 190k 4MOTION Highline DSG
+13;Volkswagen Passat Variant VW 2,0 TDI R-LINE DSG
+14;Volkswagen Tiguan 2.0 TDI EVO Elegance 4Motion DSG
+15;Volkswagen Amarok 3.0 TDI V6 4Motion Aventura DSG
+16;Volkswagen T7 Multivan 2.0 TDI Style DSG
+17;Volkswagen Caddy Generation Four 2.0 TDI MAXI
+18;Volkswagen Passat 1.9 TDI Highline
+19;Volkswagen Passat 1.9 TDI Highline
+20;Mercedes S trieda 400 d 4MATIC A/T
+21;Mercedes-Benz S trieda Sedan 350 BlueTEC
+22;Mercedes-Benz Sprinter 210 2.9 TDi 2,8 t/3,0 m
