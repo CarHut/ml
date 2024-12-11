@@ -502,6 +502,7 @@ class AutobazarEuScraper {
             return;
         }
         await this.confirmBrandSelection();
+        await this.delay(Math.floor(Math.random() * 20000));
         await this.goToCarOffers();
         var currentId = startId;
         for (let i = this.startPage+1; i < this.endPage; i++) {

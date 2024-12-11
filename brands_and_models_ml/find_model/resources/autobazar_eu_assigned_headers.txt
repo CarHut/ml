@@ -20,3 +20,586 @@
 20;Mercedes S trieda 400 d 4MATIC A/T
 21;Mercedes-Benz S trieda Sedan 350 BlueTEC
 22;Mercedes-Benz Sprinter 210 2.9 TDi 2,8 t/3,0 m
+23;Mercedes CLC Iné 143kw Automat
+24;Mercedes-Benz C trieda Sedan 200 CDI Elegance, 85kW, M6, 4d.
+25;Mercedes GL trieda GL 420 CDI // 225 kW + offroad paket
+557;Mercedes C trieda 200 CDI Avantgarde A/T
+26;Mercedes GLC 220 d 4MATIC A/T
+27;Mercedes-Benz A trieda 200 CDI Elegance
+28;Mercedes-Benz Sprinter 210 2.9 TDi 2,8 t/3,0 m
+29;Mercedes A trieda 180 d A/T
+30;Mercedes AMG GT Sedan 270kw Automat
+31;Mercedes GLS 350 d 4-Matic
+32;Mercedes-Benz S trieda Sedan 350 BlueTEC
+33;Mercedes-Benz E trieda Sedan 350 BlueTEC Avatgarde 4matic
+489;Mercedes-Benz GLE SUV 300d 4MATIC A/T
+34;Mercedes-Benz Sprinter 314 CDI Standard A2 RWD
+35;Mercedes-Benz Sprinter 210 2.9 TDi 2,8 t/3,0 m
+36;Mercedes C trieda T 220d AMG-Line Night Edition A/T
+37;Mercedes AMG GT Sedan 270kw Automat
+491;Mercedes 200E Limuzína 75kw Automat
+38;Mercedes GLS 350 d 4-Matic
+39;Audi A6 3.0 TDI DPF 245k quattro S tronic
+40;Audi A4 Avant 35 2.0 TDI A4 S tronic
+41;Audi Q7 3.0 TDI 245k quattro tiptronic8 DPF
+42;Audi Q7 45 TDI mHEV S line quattro tiptronic
+43;Mercedes GL trieda GL 420 CDI // 225 kW + offroad paket
+44;Mercedes-Benz A trieda 200 CDI Elegance
+45;Mercedes-Benz Sprinter 210 2.9 TDi 2,8 t/3,0 m
+46;Mercedes-Benz C trieda Sedan 200 CDI Elegance, 85kW, M6, 4d.
+47;Mercedes A trieda 180 d A/T
+48;Mercedes CLA 200 CDI 4matic
+49;Mercedes C trieda T 220d AMG-Line Night Edition A/T
+50;Mercedes GLC 220 d 4MATIC A/T
+51;Mercedes AMG GT Sedan 270kw Automat
+52;Mercedes GLS 350 d 4-Matic
+53;Mercedes S trieda 400 d 4MATIC A/T
+54;Mercedes CLC Iné 143kw Automat
+55;Mercedes-Benz E 300 de 4MATIC sedan
+56;Mercedes-Benz GLS 350 d 4MATIC
+57;Mercedes-Benz S trieda Sedan 350 BlueTEC
+58;Mercedes-Benz GLE Kupé 400 4matic A/T
+59;Mercedes-Benz E trieda Sedan 350 BlueTEC Avatgarde 4matic
+60;Mercedes-Benz Sprinter 314 CDI Standard A2 RWD
+61;Mercedes-Benz C trieda Kombi C180 Diesel Automat A9
+84;Mercedes-Benz Vito 114 CDI extralang
+62;Mercedes GL trieda 350 CDI BlueTEC 4MATIC
+63;Mercedes-Benz E trieda Kombi 450 d 4MATIC A/T
+64;Mercedes-Benz E trieda Kombi 220 d A/T
+65;Mercedes-Benz CLA Shooting Brake 250e Progressive A/T, LED, Keyless, Ambient, Kamera, Lane Assist, M
+85;MERCEDES-BENZ V 300EXC/L/3200
+66;Mercedes-Benz A trieda A200 Facelift
+67;Mercedes G trieda 350 BlueTEC L
+68;Mercedes-Benz CLA Shooting Brake 200d Progressive A/T, LED Lights, Kamera, Keyless, NAVI
+69;Mercedes GLE trieda 350d 4matic A/T
+86;MERCEDES-BENZ V 300 EXC/L
+70;Mercedes E trieda 220 d mHEV 4MATIC A/T
+71;Mercedes S trieda 350 BlueTEC L 4matic
+72;Mercedes A trieda Mercedes Benz A200
+73;Mercedes E trieda 350 BlueTEC Elegance
+74;Mercedes GLC 300 e 4MATIC A/T
+75;Mercedes GLC Kupé 300 d mHEV 4MATIC A/T
+76;Mercedes GLE trieda 400 kupé 4matic A/T
+77;MERCEDES-BENZ V 300EXC/E/3430
+78;Mercedes-Benz GLE Kupé 350d 4matic A/T
+79;Mercedes-Benz C trieda Sedan AMG Line / Hyacinth Red by Designo / Distronic + / Keyless GO / Widescr
+80;Mercedes-Benz Unimog 424
+81;Mercedes-Benz E trieda Kombi 220 d All-Terrain 4MATIC A/T
+82;Mercedes GL trieda 350 CDI 4MATIC BlueEFFICIENCY
+83;Mercedes GLE SUV 63 s AMG 4MATIC+
+87;Mercedes GLS 350 d 4MATIC A/T
+88;Mercedes GLC AMG 43 4MATIC A/T
+89;Mercedes E trieda T 350 d A/T
+90;Mercedes GLS AMG GLS 63 4MATIC A/T
+91;Mercedes V trieda Van 155kw Automat
+92;Mercedes-Benz GLE Kupé 350d 4matic A/T
+93;Mercedes G trieda 350 BLUE
+94;Mercedes V trieda 250 d Style extralang A/T
+95;Mercedes 200 D Combi 118kw Automat
+96;Mercedes C trieda T 220 BlueTEC A/T
+97;Mercedes C trieda 200 d A/T
+98;Mercedes C trieda 220 d A/T
+99;Mercedes S trieda 63 AMG L 4matic
+100;Mercedes E trieda 400 d mHEV 4MATIC A/T
+101;Mercedes V trieda 300 d Exclusive lang 4MATIC A/T
+102;Mercedes V trieda Van 176kw Automat
+115;Mercedes GLC Combi 180kw Automat
+103;Mercedes GLS 580 mHEV 4MATIC A/T
+104;Mercedes C trieda 250 CDI BlueEFFICIENCY A/T
+105;Mercedes GLE trieda 350 d 4MATIC A/T
+106;Mercedes-Benz GLS Mercedes-Maybach 600 mHEV 4MATIC A/T
+116;Mercedes-Benz CLS Kupé 400 d 4matic A/T
+107;Mercedes V trieda 300 d extralang A/T 4MATIC. AMG
+108;Mercedes GLS 350 d mHEV 4MATIC A/T
+109;Mercedes CLA Shooting Brake Combi 85kw Manuál
+110;Mercedes M trieda 350 BlueTEC 4matic
+111;Mercedes GLE trieda 450 AMG kupé 4matic A/T
+112;Mercedes C trieda 200 4MATIC A/T
+113;Mercedes GLC 200 d 4MATIC A/T
+114;Mercedes E trieda 400 4MATIC A/T
+117;Mercedes V trieda 250 d kompakt 4MATIC A/T
+118;Mercedes GLE trieda 450 mHEV 4MATIC A/T
+119;Mercedes C trieda T 220 CDI BlueEFFICIENCY Classic
+120;Mercedes-Benz GLC SUV Mercedes 220d 4MATIC A/T
+121;Mercedes GLA trieda 200 d A/T
+122;Mercedes CLA Kupé 180 A/T
+123;Mercedes GLC Kupé 200 mHEV 4MATIC A/T
+124;Mercedes C trieda 400 4matic A/T
+125;Mercedes GLE kupé Coupé 228kw Automat
+126;Mercedes C trieda T 220 CDI BlueEFFICIENCY Classic
+127;Mercedes GLE kupé SUV/Coupé 190kw Automat
+128;Mercedes CLS Biturbo 450 4matic A/T
+133;Mercedes S trieda 350 BlueTEC 4matic extra long
+129;Mercedes G trieda 500 A/T
+130;Mercedes G trieda Mercedes-AMG G 63 A/T
+131;Mercedes-Benz A trieda 160 Style /T
+132;Mercedes M trieda 350 CDI BlueTEC
+134;Mercedes CLS 350 CDI BlueEFFICIENCY
+135;Mercedes C trieda T 200 d A/T
+136;Mercedes C trieda T 300 e A/T
+137;Mercedes E trieda Mercedes E220d 84tis.km
+158;Audi Q7 3.0 TDI 272k quattro tiptronic 8-st.
+138;Mercedes GLC 220d 4MATIC A/T
+139;Audi A5 Sportback 40 2.0 TDI mHEV S line quattro S tronic
+140;Audi Q5 40 2.0 TDI mHEV Advanced quattro S tronic
+141;Audi A6 3.0 TDI DPF 245k quattro S tronic
+142;Audi A4 Avant 2.0 TDI 190k Design S tronic
+143;Audi A4 Avant 35 2.0 TDI A4 S tronic
+144;Audi A4 Avant 30 2.0 TDI mHEV A4 113 tkm
+145;Audi Q7 3.0 TDI 245k quattro tiptronic8 DPF
+146;Audi A6 Avant 3.0 TDI 320k/230KW Quattro Tiptronic
+147;Audi A4 Avant 35 2.0 TDI S line Mhev Matrix Led
+148;Audi Q7 3.0 TDI 245k quattro tiptronic8 DPF
+149;Audi Q7 3.0 TDI 272k quattro tiptronic 8-st.
+163;Audi A4 40 2.0 TFSI mHEV Advanced S tronic
+150;Audi A7 AUDI A7 BITDI EXCLUSIVE B&O
+151;Audi Q5 Sportback 40 2.0 TDI mHEV S line quattro S tronic
+152;Audi A6 Avant 2.0 TDI DPF ultra S tronic
+153;Audi A3 1.6 TDI Design S tronic
+154;Audi Q7 45 TDI mHEV S line quattro tiptronic
+155;Audi A4 1.8 T, 110kW, M5, 4d.
+156;Audi A4 2.0 Premium
+157;Audi A3 Sportback 1.4 TFSI ultra AUTOMAT S tronic 150PS
+159;Audi A6 40 2.0 TDI mHEV Basis quattro S tronic
+160;Audi A6 Avant 40 2.0 TDI mHEV Sport quattro S tronic
+161;Audi Q8 50 3.0 TDI mHEV quattro tiptronic
+162;Audi Q3 35 2.0 TDI Business S-tronic, Tempomat, Lane Assist, Mŕtvy uhol, Kamera
+164;Audi A4 Avant 2.0 TDI Design S tronic
+165;Audi Q7 3.0 TDI 272k quattro tiptronic 8-st.
+166;Audi SQ8 4.0 TFSI Quattro TT8
+167;Audi SQ7 V8 TFSI v záruke
+183;BMW rad 7 730d xDrive A/T
+168;Audi Q5 2.0 TDI 177k DPF quattro
+169;Audi A5 Sportback 35 2.0 TDI A5 Sportback S tronic
+170;Audi SQ7 TFSI quattro tiptronic
+171;Audi A3 Sportback 1.6 TDI 116k Sport S tronic
+172;Audi S7 Sportback Diesel 350 PS / TOP Stav - skladom v BA!
+173;Audi RS5 Coupe 2.9 TFSI quattro. Laser, 360 kamera
+174;Audi RSQ3 400PS. Kúpené v SR. Matrix
+175;Audi A5 Sportback 2018 40 TDI 140kW Quattro
+176;Audi A4 Avant 40 2.0 TDI 140kw S tronic Virtual Koža Panorama
+177;Audi e-tron GT 60 quattro
+178;Volkswagen Passat 1.9 TDI Highline
+179;Volkswagen CHROBAK 1,6 i , Benzin kW37
+180;Volkswagen Arteon Shooting Brake R Line 4x4 147kw Automat DSG7
+181;BMW X3 xDrive 30e Advantage A/T, LED, ViruatlCockpit, Tempomat, El.Kufor, Vyhr.sedadla
+182;BMW M3 40i mHEV xDrive A/T
+184;BMW rad 6 GT 3.0 235kw A/T
+185;BMW X6 XDrive 40d
+186;BMW rad 7 740d mHEV xDrive A/T
+187;BMW X6 xDrive 30d mHEV A/T
+192;BMW X5 XDrive30d A/T
+188;BMW Rad 4 Cabrio
+189;BMW Rad 5 Touring 520d A/T
+190;BMW X5 xDrive30d A/T (F15)
+191;BMW rad 7 740d mHEV xDrive A/T
+193;BMW M3 M340i xDrive 285kW sedan
+194;BMW rad 6 GT 640i xD M-Sport ZÁRUKA zimná sada kolies masáž
+195;BMW rad 5 545e xDrive A/T
+196;BMW rad 7 730d xDrive A/T
+364;Mercedes GLS 350 d 4MATIC A/T
+197;BMW X1 XDrive 23i mHEV A/T
+198;BMW XM
+199;BMW rad 3 Touring 320d Touring xDrive Sport Line A/T
+200;BMW X5 XDrive30d A/T
+213;BMW M8
+201;BMW rad 2 Gran Tourer Combi 120kw Automat
+202;BMW rad 3 320 d 163k A/T
+203;BMW rad 3 Touring 318d Touring
+204;BMW X7 XDrive 40i A/T
+214;BMW X3 M40i A/T
+205;BMW X6 M SUV/Coupé 294kw Automat
+206;BMW Rad 3 330e M-Sport Hybrid A/T, M-Packet, Full LED, Alcantara, Ambient, Live Cockpit
+207;BMW X1 sDrive 16d A/T Sport Line, LED, Ambient, Kožený Interiér, SIGN+LANE Assist
+208;BMW Rad 5 530i A/T M-Packet, Bi-Xenon, Kožený interiér, Head-Up Display
+209;BMW i3s 184k 42kWh 120Ah
+210;BMW X5 XDrive30d A/T
+211;BMW X6 XDrive 40d M Sport Edition A/T
+212;BMW rad 7 730D
+215;BMW X4 XDrive30d M Sport X A/T
+216;BMW rad 8 Gran Coupé Sedan 390kw Automat
+217;BMW rad 5 Touring 530d xDrive A/T M-Sport
+218;BMW rad 3 GT 320d M Sport A/T xDRIVE
+219;BMW X3 XDrive30d M Sport A/T
+220;BMW rad 3 320d 184k xDrive A/T
+221;BMW X6 XDrive 30d Standard A/T
+222;BMW X5 XDrive30d A/T
+365;Mercedes GLE kupé Coupé 190kw Automat
+223;BMW rad 5 530d xDrive A/T
+224;BMW Rad 8 Gran Coupé M850i xDrive GC / Na splátky cez nájomnú zmluvu / Bez skúmania príjmu
+225;BMW Rad 7 M760e xDrive FULL / 570 HP - Kupované na Slovensku !
+226;BMW rad 6 Gran Coupé X6 XDRIVE40D Sports Activity Coupe
+227;BMW X3 M40i A/T
+228;BMW Rad 3 Touring 320d xDrive Sport Line A/T
+229;BMW X5 XDrive30d A/T
+230;BMW rad 7 730d xDrive A/T
+284;BMW X5 XDrive 40d mHEV A/T
+231;BMW rad 1 M 140i xDrive Shadow A/T
+232;BMW rad 7 745e
+233;BMW XM SUV/Off-road 480kw Automat
+234;BMW rad 3 Touring 320d Touring xDrive Luxury Line A/T
+239;BMW Rad 8 Gran Coupé 840i xDrive / Na splátky cez nájomnú zmluvu / Bez skúmania príjmu
+235;BMW i3s Hatchback 135kw Automat
+236;BMW Rad 5 Touring 520d A/T
+237;BMW rad 3 GT 318d Gran Turismo A/T
+238;BMW i7 xDrive60 / Na splátky cez nájomnú zmluvu / Bez skúmania príjmu
+248;BMW rad 6 Coupé Coupé 160kw Manuál
+240;BMW Rad 7 M760e xDrive / Na splátky cez nájomnú zmluvu / Bez skúmania príjmu
+241;BMW X3 XDrive20d A/T
+242;BMW rad 5 520d A/T
+243;BMW M5 A/T
+244;BMW i3s Sedan 135kw Automat
+245;BMW rad 3 GT 320d M Sport A/T .PERFORMANCE KIT
+246;BMW X5 XDrive30d A/T
+247;BMW X5 XDrive30d
+249;BMW rad 5 530d xDrive A/T
+250;BMW rad 8 Gran Coupé 840d xDrive
+251;BMW X6 XDrive 30d Standard A/T
+252;BMW X6 xDrive 30d mHEV A/T
+261;BMW X3 XDrive20d mHEV A/T
+253;BMW rad 3 318i A/T
+254;BMW rad 5 Touring 530 i A/T
+255;BMW X5 XDrive35d
+256;BMW rad 2 Active Tourer 214d Standard
+257;BMW rad 3 Touring 335i Touring M-Sport xDrive A/T
+258;BMW X1 XDrive 18d xLine A/T
+259;BMW i3 120 Ah
+260;BMW Rad 3 Touring 330e PHEV xDrive A/T, 215kW,A8 LASER LIGHT, Plug-in hybrid
+298;BMW rad 5 530e iPerformance A/T .KOŽA.SER.KNIŽKA.PLUG -IN HY
+262;BMW X6 SUV 195kw A/T
+263;BMW X5 XDrive30d A/T
+264;BMW X4 XDrive30i M Sport A/T
+265;BMW X5 XDrive45e A/T
+278;BMW rad 7 750d xDrive A/T
+266;BMW X5 XDrive 30d mHEV A/T
+267;BMW rad 8 Cabrio V záruke do 30.9.2024
+268;BMW X3 M X3M Competition F97
+269;BMW i8 Coupe
+270;BMW rad 5 530d xDrive A/T - Nezávisle kúr.. Odvetrávané sed.
+271;BMW rad 5 Touring 530d xDrive A/T
+272;BMW Rad 3 335i xDrive A/T
+273;BMW X6
+274;BMW Rad 7 740d xDrive A/T
+275;BMW X5 M50d A/T
+276;BMW rad 3 Touring 318d Touring A/T
+277;BMW X3 xDrive20i A/T
+283;BMW X7 XDrive 40d mHEV A/T
+279;BMW X5 XDrive40d A/T
+280;BMW Rad 5 Touring 530 xDrive G41 M-paket Exclusive edition
+281;BMW X6 XDrive 30d A/T
+282;BMW iX 40 xDrive
+285;BMW rad 8 850Ci
+286;BMW rad 5 Touring 525d xDrive
+287;BMW i3 94 Ah
+288;BMW X1 XDrive 20d M Sport A/T
+289;BMW rad 7 750d xDrive
+290;BMW X1 xDrive 25d M Sport A/T
+291;BMW X5 XDrive40d A/T
+292;BMW rad 2 Sedan 100kw Manuál
+293;BMW X3 XDrive20d xLine A/T
+294;BMW rad 5 525 d
+295;BMW rad 3 Touring 110kW/150k. A/T.INDIVIDUAL.2020 .super spotreba
+296;BMW rad 3 GT 320d xDrive GT Luxury Line A/T
+297;BMW rad 5 520i A/T Sport line
+299;BMW X5 xDrive40d A/T
+300;BMW rad 3 330i xDrive M Sport A/T
+301;BMW rad 5 Touring 520d A/T
+302;BMW rad 5 Touring 520d A/T
+303;BMW Rad 3 320d A/T
+304;BMW X5 BMW X5. xDrive30d
+305;BMW X1 xDrive 20i
+306;BMW Rad 5 520d xDrive 190k
+307;Mercedes-Benz C trieda Kombi 180 BlueTEC A/T
+308;Mercedes S trieda 400 Hybrid
+309;Mercedes-Benz Sprinter 314 CDI Standard A2 RWD
+310;Mercedes-Benz C trieda Kombi C180 Diesel Automat A9
+315;Mercedes CLA 200 CDI 4matic
+311;Mercedes-Benz A trieda 200 CDI Elegance
+312;Mercedes-Benz Sprinter 210 2.9 TDi 2,8 t/3,0 m
+313;Mercedes-Benz C trieda Sedan 200 CDI Elegance, 85kW, M6, 4d.
+314;Mercedes A trieda 180 d A/T
+316;Mercedes C trieda T 220d AMG-Line Night Edition A/T
+317;Mercedes GLC 220 d 4MATIC A/T
+318;Mercedes GL trieda GL 420 CDI // 225 kW + offroad paket
+319;Mercedes GLC 220 d 4MATIC A/T
+324;Mercedes-Benz E trieda Sedan 350 BlueTEC Avatgarde 4matic
+320;Mercedes CLC Iné 143kw Automat
+321;Mercedes-Benz GLS 350 d 4MATIC
+322;Mercedes-Benz S trieda Sedan 350 BlueTEC
+323;Mercedes-Benz GLE Kupé 400 4matic A/T
+351;Mercedes E trieda 220 D
+325;Mercedes GLC 250d 4MATIC A/T
+326;Mercedes A trieda 180 A/T
+327;Mercedes GLC Kupé 63 S AMG
+328;Mercedes-Benz GLC SUV 300e AMG Line 4MATIC A/T, Full LED, Webasto, Panorama, Alcantara, Keyless
+329;Mercedes-Benz E trieda Kombi 450 d 4MATIC A/T
+330;Mercedes-Benz GLC SUV 300de 4MATIC Exclusive 9G-Tronic, ACC, Lane Assist, 360° Kamera, Webasto
+331;Mercedes-Benz CLA Shooting Brake 200d A/T AMG Line, LED Lights, Alcantara, Kamera
+332;Mercedes E trieda Sedan 190kw Automat
+333;Mercedes GLC Kupé 250d 4MATIC A/T AMG packet
+334;Mercedes X trieda Pick up 190kw Automat
+335;Mercedes G trieda 350 BlueTEC L
+336;Mercedes S trieda 580 L mHEV 4MATIC A/T
+337;Mercedes GLS Maybach GLS 600 mHEV 4MATIC A/T
+338;Mercedes-Benz CLA Shooting Brake 250e Progressive A/T, LED, Keyless, Ambient, Kamera, Lane Assist, M
+339;Mercedes-Benz A trieda A200 Facelift
+340;Mercedes GLC 350d 4MATIC A/T
+341;Mercedes E trieda 220 d mHEV 4MATIC A/T
+352;Mercedes-Benz E trieda Kombi 200d 9AT AMG Line 143kW (Multibeam LED, športové sedadlá, Car Play)
+342;Mercedes GLE SUV SUV/Off-road 243kw Automat
+343;Mercedes GLE SUV BRABUS 500 - 368kw Plná výbava
+344;Mercedes-Benz GLC SUV 220d 4MATIC A/T
+345;Mercedes-Benz CLA Shooting Brake 200d Progressive A/T, LED Lights, Kamera, Keyless, NAVI
+346;Mercedes GLE trieda 350d kupé 4matic A/T
+347;Mercedes A trieda Mercedes Benz A200
+348;Mercedes A trieda 180 d A/T
+349;Mercedes CL 63 AMG
+350;Mercedes GLC 300 e 4MATIC A/T
+353;MERCEDES-BENZ V 300EXC/E/3430
+354;Mercedes-Benz GLC SUV Mercedes Benz 250d 4matic A/T
+355;Mercedes-Benz Unimog 424
+356;Mercedes GLC Kupé 300 de 4MATIC A/T
+357;Mercedes GL trieda 350 CDI 4MATIC BlueEFFICIENCY
+358;Mercedes E trieda Sedan 185kw Automat
+359;Mercedes S trieda 400 d 4MATIC L A/T
+360;Mercedes GLE SUV 63 s AMG 4MATIC+
+361;MERCEDES-BENZ V 300EXC/L/3200
+362;MERCEDES-BENZ V 300EXC/L/3200
+363;Mercedes GLE trieda 450 AMG kupé 4matic A/T
+366;Mercedes-Benz E trieda Sedan 400 d 4MATIC A/T
+367;Mercedes GLC AMG 43 4MATIC A/T
+368;Mercedes C trieda 220 d A/T
+369;Mercedes S trieda 350 d 4MATIC L A/T
+370;Mercedes V trieda ML 280 CDI
+371;Mercedes V trieda Van 155kw Automat
+372;Mercedes-Benz GLE Kupé 350d 4matic A/T
+373;Mercedes V trieda 250 d Style extralang A/T
+374;Mercedes 200 D Combi 118kw Automat
+375;Mercedes C trieda 220 d A/T
+376;Mercedes S trieda 63 AMG L 4matic
+377;Mercedes E trieda 400 d mHEV 4MATIC A/T
+378;Mercedes GLE SUV 350 d 4MATIC A/T
+379;Mercedes GLS 350 d mHEV 4MATIC A/T
+380;Mercedes V trieda Van 176kw Automat
+381;Mercedes GLS 580 mHEV 4MATIC A/T
+382;Mercedes-Benz GLS Mercedes-Maybach 600 mHEV 4MATIC A/T
+387;Mercedes-Benz GLE Kupé Mercedes-AMG 63 S 4matic A/T
+383;Mercedes V trieda 300 d extralang A/T 4MATIC. AMG
+384;Mercedes GLS 400 d 4MATIC A/T
+385;Mercedes M trieda 320 CDI AMG Packet
+386;Mercedes GLA trieda 180 A/T
+388;Mercedes EQE 350 EDITION ONE AMG packet / Natáčanie zadnej nápr
+389;Mercedes V trieda 250 d Avantgarde lang A/T 4MATIC
+390;Mercedes S trieda 400 d 4MATIC A/T
+391;Mercedes GLS AMG GLS 63 mHEV 4MATIC+ A/T
+404;BMW X5 xDrive40d
+392;Mercedes Viano 3.0 CDI Fun Lang A/T
+393;Mercedes E trieda 220 d 4MATIC A/T
+394;Mercedes GLC 220d 4MATIC A/T
+395;Mercedes E trieda 350 d AMG 4MATIC
+396;Mercedes GLB 200d 4MATIC A/T
+397;Mercedes M trieda 63 AMG
+398;Mercedes E trieda 200 d A/T
+399;BMW X5 xDrive40i
+400;BMW M5 Sedan
+401;BMW X5 xDrive50e
+402;BMW X5 xDrive30d
+403;BMW 330i xDrive Touring
+405;BMW X5 xDrive40d
+406;BMW 530d xDrive Sedan
+407;BMW i5 eDrive40 Sedan
+408;BMW X5 xDrive30d
+409;BMWi iX xDrive50
+410;BMW X1 sDrive18d
+411;BMW X7 xDrive40d
+412;BMW X3 XDRIVE30I
+413;BMW M2 Coupe
+414;BMW X5 xDrive40i M-Paket A/T
+415;BMW i3 120Ah
+416;BMW 120i Hatch
+417;BMW 530e xDrive Touring
+418;BMW 540d xDrive Touring
+419;BMW X5 xDrive30d
+420;BMW M440i xDrive Gran Coupe
+421;BMW 540d xDrive Sedan
+422;BMW M3 Competition M xDrive Touring
+423;BMW X5 xDrive30d
+424;BMW X5 xDrive40i
+425;BMW X5 M50d
+426;BMW iX3
+427;BMW 520d xDrive Sedan
+428;BMW XM
+429;BMW X5 xDrive40d
+430;BMW X4 xDrive20d
+431;BMW M4 Competition M xDrive Convertible
+432;BMW X4 xDrive30d
+433;BMW i3s Hatchback 135kw Automat
+434;BMW X5 XDrive40d A/T
+435;BMW rad 5 Touring 540i mHEV xDrive A/T
+436;BMW X1 xDrive23d
+437;BMWi iX xDrive40
+438;BMW i7 xDrive60 Sedan
+439;BMW rad 3 GT 318d Gran Turismo A/T
+440;BMW rad 3 GT 320d M Sport A/T .PERFORMANCE KIT
+441;BMW rad 8 Gran Coupé 840d xDrive
+442;BMW X3 xDrive 30e Advantage A/T, LED, ViruatlCockpit, Tempomat, El.Kufor, Vyhr.sedadla
+443;BMW X5 xDrive30d A/T (F15)
+444;BMW Rad 3 316i (E46)
+445;BMW rad 7 740d xDrive
+446;BMW rad 5 Touring 530d xDrive
+447;BMW rad 5 530d xDrive A/T
+448;BMW rad 7 730d xDrive A/T
+453;BMW M3 40i mHEV xDrive A/T
+449;BMW rad 6 GT 3.0 235kw A/T
+450;BMW X7 XDrive M50i A/T
+451;BMW X7 XDrive M50d A/T
+452;BMW X6 XDrive 40d
+454;BMW X7 XDrive 30d A/T
+455;BMW Rad 3 320 d 163k
+456;BMW X6 xDrive 30d mHEV A/T
+457;BMW Rad 4 Cabrio
+458;BMW X5 xDrive30d
+459;BMW Rad 5 Touring 520d A/T
+460;BMW Rad 3 325d
+461;BMW rad 7 740d mHEV xDrive A/T
+462;BMW X5 XDrive30d A/T
+467;BMW XM
+463;BMW rad 7 730d A/T
+464;BMW M3 M340i xDrive 285kW sedan
+465;BMW rad 6 GT 640i xD M-Sport ZÁRUKA zimná sada kolies masáž
+466;BMW rad 7 750d xDrive
+468;BMW rad 1 118i A/T
+469;BMW rad 3 Touring 320d Touring xDrive Sport Line A/T
+470;BMW rad 2 Gran Tourer Combi 120kw Automat
+471;BMW rad 3 318d
+484;BMW 530d Touring
+472;BMW X1 XDrive 23i mHEV A/T
+473;BMW X7 XDrive 40i A/T
+474;BMW X1 sDrive18d
+475;BMW X6 xDrive30d
+476;BMW 540d xDrive Touring
+477;BMW 223i xDrive Active Tourer
+478;BMW X6 xDrive30d
+479;BMW X7 xDrive40i
+480;BMW X1 xDrive20d
+481;BMW X5 xDrive40d
+482;BMW X1 xDrive20d
+483;BMW X7 xDrive40d
+485;BMW 120
+486;BMW M135 xDrive
+487;BMW M2 Coupé
+488;BMW X5 xDrive45e
+490;Mercedes C trieda 300d mHev AMG 4 Matic
+492;Mercedes C trieda 220 d AMG Line 4MATIC A/T
+493;Mercedes GLC 220 d 4MATIC A/T AMG Line
+494;Škoda Octavia Combi 1.6 Elegance
+495;Škoda Octavia Combi 2.0 TDI Elegance/Style
+496;Škoda Octavia Combi Style DSG 2,0 TDI 110kW
+497;Škoda Octavia Combi Ambition Plus 2,0 TDI 110kW
+498;Škoda Octavia Combi Ambition Plus 2,0 TDI 110kW
+499;Škoda Octavia Active Plus TSI 85kW
+547;Mercedes-Benz C trieda Sedan 220
+500;Škoda Octavia 1.5 TSI ACT Active
+501;Škoda Octavia 1.6 Elegance
+502;Škoda Octavia Combi 2.0 TDI SCR Sportline
+503;Škoda Octavia Combi 1.6 TDI Ambition
+504;Škoda Octavia Combi 2.0 TDI SCR Ambition
+505;Škoda Octavia Combi SCOUT2.0 TDI DSG 4x4
+506;Škoda Octavia Combi 1.6 TDI 115k Style DSG EU6
+507;Škoda Octavia Combi 2.0 TDI RS DSG
+508;Škoda Octavia 2.0 TSI RS DSG
+509;Škoda Octavia Combi 2.0 TDI 184k Style DSG 4x4
+510;Škoda Octavia Combi 2.0Tdi SCR 85kw M6.kúp.SR..1.maj.
+511;Volkswagen Golf GTI 7.5 Performance Facelift 2.0 TSI 180 kW
+512;Volkswagen Golf Cabrio 1,6i 53kW MT5
+513;Volkswagen Golf Variant 1.0 eTSI 110k Life DSG
+514;Volkswagen Golf 1.5 eTSI ACT 150k Style DSG
+515;Volkswagen Golf Variant
+516;Volkswagen Golf Variant Alltrack 2.0 TDI BMT 4MOTION DSG
+517;Volkswagen Golf GTI "TCR" 2.0 TSI DSG
+518;Volkswagen Golf 2.0 TDI R-Line DSG
+519;Volkswagen Golf e- A/T, LED, Kamera, VirtualCockpit, Vyhr. čelné sklo, CCS, PDC
+520;Volkswagen Golf VW GTD
+534;Mercedes-Benz C trieda Kupé
+521;Volkswagen Golf 1.2 BMT Comfortline Slovakia EU6
+522;Volkswagen Golf 2.0 TSI 245k GTI DSG
+523;Volkswagen Golf 2.0 TSI 300k GTI Clubsport DSG
+524;Volkswagen Golf 2.8 VR6
+525;Volkswagen Golf 1.6 TDI BMT 115k Edition Comfortline EU6
+526;Volkswagen Golf 1.4 TSI Trendline DSG
+527;Mercedes C trieda 180 d A/T
+528;Mercedes-Benz C 220 d 4MATIC All-Terrain
+529;Mercedes C trieda 180 A/T
+530;Mercedes C trieda Kupé Coupé 375kw V8 Biturbo AMG
+531;Mercedes C trieda T 300 E
+532;Mercedes C trieda 250 AMG Line 9G
+533;Mercedes-Benz E trieda Sedan 220 d 4MATIC A/T
+535;Mercedes E trieda T 200 d A/T
+536;Mercedes E trieda 350 d 4MATIC A/T TOP STAV+BENEFITY
+537;Mercedes C trieda Mercedes-AMG C 43 4MATIC A/T
+538;Mercedes E trieda 320 CDI Avantgarde A/T
+539;Mercedes E trieda 200 A/T
+540;Mercedes E trieda T 450 d 4MATIC A/T
+541;Mercedes E trieda T 350 CDI BlueTEC Avantgarde 4matic
+542;Mercedes E trieda Coupé Coupé 180kw Automat
+543;Mercedes E trieda 200 mHEV A/T
+544;Mercedes C trieda T 300 e A/T plug-in Hybrid
+545;Mercedes C trieda T C 180 Kombi Kompressor
+546;Mercedes-Benz E trieda Sedan 200 Kompresssor Classic A/T
+548;Mercedes-Benz E trieda Kombi 220 CDI Classic A/T
+549;Mercedes C trieda Sportcoupé 1.8
+550;Mercedes C trieda T c270
+551;Mercedes C trieda Sportcoupé 220 CDI A/T
+552;Mercedes-Benz C trieda Sedan 220 CDI Classic A/T
+553;Mercedes C trieda 220 CDI Elegance
+554;Mercedes E trieda T 3.2 V6
+555;Mercedes C trieda T 220 CDi
+556;Mercedes C trieda 1.8
+558;Mercedes C trieda Combi 150kw Automat
+559;Mercedes E trieda T 2.1
+560;Mercedes-Benz E trieda Sedan 123 200B 72kW Piano
+561;Mercedes-Benz C trieda Sedan 180 BlueEFFICIENCY Avantgarde A/T
+566;Mercedes C trieda T Combi Classic
+562;Mercedes C trieda T 220 CDI Avantgarde A/T
+563;Mercedes E trieda 2.0
+564;Mercedes-Benz E trieda Sedan Klasse D250
+565;Mercedes-Benz E trieda Kombi 250 CDI BlueTEC Avantgarde 4matic
+567;Mercedes C trieda T 200 CDi 100
+568;Mercedes C trieda 320 CDI Avantgarde AMG optic 4-matic A/T
+569;Mercedes E trieda 500 Avantgarde A/T 4-matic
+570;Mercedes C trieda T 2.1
+571;Mercedes E trieda T 220 CDi
+572;Mercedes C trieda T c250 CDi Elegance
+573;Mercedes-Benz C trieda Sedan 180 CDI AVANGARDE BLUEEFICIENCY 7AT
+574;Mercedes C trieda T c200 CDi
+575;Mercedes-Benz E trieda Sedan 420 CDI Elegance A/T
+576;Mercedes E trieda Mercedes E220 CDI 125kw Automat
+577;Mercedes-Benz E trieda Kupé 350 CDI Blue
+578;Mercedes-Benz E trieda Kombi 350 CDI T BlueEfficiency Avantgarde
+579;Mercedes C trieda 350CDi CR 4x4
+580;Mercedes C trieda T 2.1
+581;Mercedes E trieda 350 BlueTEC 4-Matic
+582;Mercedes-Benz C trieda Kombi 300 CDI BlueEFFICIENCY Elegance 4matic A/T
+583;Mercedes-Benz E trieda Sedan 350 CDI Blue Elegance 4matic
+596;Mercedes E trieda T 250 CDI 4matic Blue Elegance
+584;Mercedes C trieda Sportcoupé 1.8
+585;Mercedes E trieda T e220 CDi Combi
+586;Mercedes E trieda W212 E350 CDI 195kw 4matic a/t 7g tronic
+587;Mercedes C trieda T 2.1
+588;Mercedes-Benz Třídy E 2,1 CDI 300 Bluetec Avantgarde
+589;Mercedes-Benz E trieda Sedan 200 CDI BlueTEC Elegance A/T
+590;Mercedes E trieda 350 CDI BlueEFFICIENCY Elegance 4matic
+591;Mercedes C trieda 200 CDI BlueEFFICIENCY Elegance A/T
+592;Mercedes-Benz E trieda Sedan 350 CDI BlueEFFICIENCY Avantgarde 4matic
+593;Mercedes C trieda T 220 CDI BlueEFFICIENCY Avantgarde A/T
+594;Mercedes E trieda 350 CDI Blue Elegance 4matic
+595;Mercedes C trieda T 2.2 CDi
+597;Mercedes C trieda T 1.6
+598;Mercedes-Benz C trieda Kombi 250 CDI BlueEFFICIENCY Classic 4matic A/T
+599;Mercedes C trieda 220 CDI BlueEFFICIENCY A/T
+600;Mercedes C trieda 250 CDi 4-Matic
+601;Mercedes E trieda 350 CDI BlueEFFICIENCY Elegance
+602;Mercedes-Benz Třídy C 180 CGI Coupe AMG Paket
+603;Mercedes-Benz C trieda Kombi
+604;Mercedes-Benz C trieda Kombi 200 d A/T
+605;Mercedes-Benz C trieda Kombi 300 CDI BlueEFFICIENCY Avantgarde 4matic A/T

@@ -46,7 +46,7 @@ async function closeTabs(browser) {
 
 async function interactAndScrapeAutobazarEu(page, startPage, endPage, interactor, browser) {
     const scraper = new AutobazarEuScraper(page, startPage, endPage, interactor, browser);
-    await scraper.startScraping(527);
+    await scraper.startScraping(533);
 }
 
 const main = async () => {
