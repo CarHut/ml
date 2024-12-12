@@ -1,0 +1,980 @@
+1;2019 Škoda Octavia Combi 1.5 TSI 110kw SPORTLINE DSG l DPH
+2;Volkswagen Golf VII Variant 1.5 TSI DSG HIGHLINE
+3;2017 Volkswagen Golf Variant 2.0 TDI 135kw GTD DSG
+4;Škoda Superb Combi 2.0 TDI 140KW Style DSG
+5;Mercedes-Benz S trieda Sedan 400d 4Matic AMG LONG DPH
+6;Volkswagen Golf 8 1.0 TSI 110k,2024,4 tisíc km
+7;Škoda Superb Combi 3 Facelift 2.0 TDI DSG 110kW°ODPOČET DPH°
+8;Octavia Combi 1.6 TDI 115k Style DSG EU6
+9;FlAT 500 1.2 Sporting
+10;Honda CR-V 2.0i-Executive-r.v2011-181000km-4x4
+11;VOLKSWAGEN TIGUAN 2.0TSI 169KW/230PS 4X4 2019 HIGHLINE
+12;Fabia Combi 1.0TSI Ambition-70kW-r.v 2018-91000km
+13;Volkswagen Golf Variant 2.0 TDI BMT 150k Highline 4MOTION EU
+14;Škoda Octavia 2.0TDi DSG Style LED Ťažné - Odpočet DPH -
+15;TOYOTA COROLLA 2.0 GR-SPORT,HYBRID,AT,8/2021,135327KM,ZÁRUKA
+16;SEAT LEON ST, 1,6 TDI, MANUÁL, 8/2017, 188 230KM
+17;Škoda Octavia Combi 1.8 TSI Business DSG F1 4x4 180PS
+18;Opel Vivaro -B 1.6 Mauál 6 Kvalt 2018
+19;Volkswagen Golf Variant 1.6TDI Edition
+20;Škoda Octavia Combi 1.6 TDI M5 Ambition Navi DVD Ťažné R17
+21;Predám Škoda Superb combi Style 2.0 Tdi DSG
+22;Ford Focus Kombi ST 2.0 EcoBoost   250PS  TOP STAV
+23;Skoda Octavia 4 Combi 2.0 TDI 150K DSG 2020
+24;Opel Zafira 1.6 XER Essentia 7 Miestne
+25;Bmw x5 f15 najezd 136tis rok 2016
+26;Volkswagen Golf7-2016-1.majiteľ-kúpené v SR-61300km
+27;Mazda CX3
+28;Seat Ateca 2.0 TDI CR Style 4Drive
+29;Audi A4 35TDi | 2019 | AVANT | AUTOMAT | EL.Kufor
+30;Škoda SUPERB 2.0TDi WEBASTO|DSG|4X4|ŤAŽNÉ|MATRIX|PANO
+31;Škoda Superb 2.0TDi 140kw DSG 4x4 Facelift - Odpočet DPH -
+32;Škoda Rapid Spaceback 1.2 Tsi, benzín, 1. Majiteľ
+33;Volkswagen Tiguan 2.0 TDI 4MOTION DSG,96 tisíc km
+34;ŠKODA KODIAQ 2.0 TDI / DSG SPORTLINE VIRTUAL
+35;ŠKODA KODIAQ, SPORTLINE, 2.0TDi 110KW, VIRTUAL
+36;VOLKSWAGEN UP, 1,0 MPI, 7/2018, 125 908 KM
+37;KIA CEED 1,4 MPI, SILVER,BENZÍN, KÚPENA NA SK, 91 542 KM
+38;Seat Ateca Xperience 2.0 Tdi M6
+39;AUDI A4, 50 TDI, ALLROAD, QUATTRO, WEBASTO
+40;AUDI A4, 40 TDI, ALLROAD, QUATTRO, WEBASTO
+41;Seat Ateca Xperience 2.0 Tdi M6
+42;AUDI A4, 50 TDI, ALLROAD, QUATTRO, WEBASTO
+43;AUDI A4, 40 TDI, ALLROAD, QUATTRO, WEBASTO
+44;Škoda Karoq 2.0 TDI DSG 110kW 4x4 °FULL LED°ODPOČET DPH°
+45;Škoda Octavia Combi 3 facelift 2.0 TDI Scout DSG 4x4
+46;Škoda Kodiaq 1.5 Tsi-110kw-Exclusive-model 2020-161700km
+47;KIA SPORTAGE 2.0 CRDI 4X4 SPIRIT
+48;Škoda Superb Combi 2.0 TDI 140kW Style°4x4°DSG°Virtual°DPH°
+49;ŠKODA KAROQ 2.0TDI / DSG 4x4 SPORTLINE VIRTUAL
+50;ŠKODA OCTAVIA II 1.9 TDI 77KW FACELIFT
+51;ŠKODA OCTAVIA COMBI, STYLE, 1,5 TSI, AUTOMAT - DSG, 10/2019
+52;AUDI A4 AVANT, 35 TDI, AUTOMAT, 4/2019, 137 244 KM
+53;Volkswagen Tiguan R-Line 2.0 TSI  190k 4MOTION
+54;✳️Škoda Yeti ✳️1.2 TSI // 4 valec ✳️2010 // Iba 185 TISIC KM
+55;KIA CEED SW, 1,5 T-GDi, SILVER, 6/2023, 18 658KM,ZÁRUKA,DPH
+56;Kia Rio Sporty edition 1.4, benzín , kúpené na SK
+57;VOLKSWAGEN PASSAT VARIANT, 2,0TDI, AUTOMAT - DSG, 6/2015
+58;Audi A5 Sportback 2.0 TDI 150 kW Quattro Matrix Webasto
+59;Kia Ceed 1.5 T-GDi 118kw Silver,1Majiteľ,DPH
+60;Volkswagen Passat R-Line 2.0 TSI 140kw DSG
+61;ŠKODA KODIAQ SPORTLINE 2.0TDI 140KW/190PS 7MIESTNY 4x4
+62;Volkswagen Tiguan rline 2.0 TDI 4x4 DSG Virtual F1 Panorama
+63;Volkswagen Arteon R-Line 2.0TDI 140kw 4Motion Webasto Pano
+64;Mercedes-Benz C trieda Sedan 180 Avantgarde
+65;Volkswagen Passat 2.0TDi DSG Facelift - Odpočet DPH -
+66;VW GOLF 2.0 TDI 2020 DSG HIGHLINE///13.299,-EUR///
+67;Škoda Octavia Combi 4x4 2.0TDI BMM Laurin&Klement Swiss TOP
+68;Volkswagen Touran 2.0 TDI SCR 150k Edition Highline DSG
+69;Škoda Fabia Hatchback Elegance 1.9 TDi 74Kw-101K-CH
+70;MERCEDES-BENZ ATEGO 1224 SKLÁPAČ VYKLÁPAČ TROJSTRANNÝ KIPPER
+71;IVECO DAILY 35C15 3.0 SKLÁPAČ VYKLÁPAČ TROJSTRANNÝ do 3.5t
+72;MERCEDES-BENZ ATEGO 1218 HÁKOVÝ NOSIČ KONTAJNEROV UZÁVIERKA
+73;MERCEDES-BENZ ATEGO 816 VYKLÁPAČ HYDRAULICKÁ RUKA HIAB
+74;MERCEDES-BENZ ATEGO 1222 HÁKOVÝ NOSIČ HYDRAULICKÁ RUKA HIAB
+75;Audi A4 3.0 TDI Quattro S-Line Bangolufsen
+76;Land Rover Discovery 3.0L TD6 HSE Luxury / MOŽNÝ ODPOČET DPH
+77;ŠKODA FABIA COMBI, 1,0TSI, AUTOMAT - DSG, 12/2017, 172 288KM
+78;KIA SPORTAGE, 2,0 CRDi, 135KW (184PS), AUTOMAT, 4x4
+79;Vw Touareg 3.0TDI V6 KING KONG
+80;Audi Q7 3.0TDI Quattro Tiptronic S-line
+81;SEAT Altea Freetrack 2.0TDi 4x4
+82;Škoda Octavia Combi II Facelift 2.0 TDI 4x4 103 kW/140PS/L&K
+83;Mercedes b250 4matic amg
+84;Peugeot Boxer Valník2.2hdi-88kw-1.majiteľ-kúpené naSlovensku
+85;Volkswagen Polo 1.4 benzín, 2008, kúpené na SK
+86;VOLKSWAGEN GOLF 1,6 tdi 77kw BLUEMOTION HIGHLINE
+87;⚠️ VOLKSWAGEN TOURAN 2.0 TDI HIGHLINE - 7 MIESTNA VERZIA
+88;Predám autoprepravnik Lorries , prives Lorries 3500kg PL35
+89;❇️ KIA SPORTAGE BLACK EDITION 1.6CRDi MHEV 100KW•11/2021•DPH
+90;Audi Q3 35 2.0 TDI Advanced S tronic
+91;Volkswagen Touran 1.6 TDI 7 miest. Comfortline
+92;SUZUKI SAMURAI SJ410, 1,0 BENZÍN, 4X4, ZACHOVALÝ
+93;Škoda Superb Combi 2.0 TDI SCR Scout 4x4 DSG Webasto
+94;Jeep Renegade 2.0 MJT 140 A/T 4X4
+95;Volkswagen Touareg  3.0 V6 TDI BMT 4XMOTION VZDUCH
+96;Volkswagen Golf Sportsvan 2.0 TDI BMT 150k Comfortline
+97;❇️ ŠKODA SUPERB COMBI 2.0 TSI 200KW DSG L&K 4x4 2019•VIRTUAL
+98;Škoda Kodiaq Style 2.0 Tsi 4x4 DSG
+99;Škoda Fabia 1.9 TDi
+100;BMW rad 3 F30 316d/320d  A/T 2012 Sport Edition
+101;Škoda Karoq 1.5 TSI DSG°50.000KM°1.MAJITEĽ°ODPOČET DPH°
+102;VW Passat Alltrack r.v 2021 2.0TDi DSG 4x4 - Odpočet DPH -
+103;VW Passat 2.0tdi 110kw DSG
+104;Mercedes-Benz C trieda Sedan 300 de A/T AMG-Packet
+105;Volkswagen Golf 2.0 TDI R-Line Comfortline DSG
+106;Škoda Superb Combi 2.0 TDI Style
+107;Volkswagen Golf VII 2.0 TDI BMT 150k Highline DSG CUP Editio
+108;Volkswagen Touran 1.6 TDI Comfortline BlueMotion
+109;Škoda Kodiaq Scout 2.0 TSI 4x4 , Virtual , Odp. DPH.
+110;Octavia 4 | Škoda Octavia 4 | Octavia Combi
+111;Volkswagen Passat Variant 2.0 TDI Comfortline
+112;MAN TGM 18.290  s hydralickým čelom
+113;Škoda Superb III, 2.0TDI 140kw, 4x4
+114;Škoda Octavia Combi 2.0TDI DSG Style
+115;Volkswagen Tiguan 2.0 TDi CR  - mod. 2014 - 4Motion
+116;PEUGEOT 5008 1.5 HDI 2018 ///14.999,- EUR///
+117;LAND ROVER RANGE ROVER EVOQUE POLARIS WHITE-JE AKO NOVE
+118;Škoda Octavia Facelift DSG 7/2019 - Odpočet DPH -
+119;ŠKODA OCTAVIA COMBI RS 2,0 TFSI,MODEL 2008,SLOVENSKÉ ŠPZ
+120;Volkswagen Tiguan 1.5 TSI R-Line°R19°VIRTUAL°ACC°ODPOČET DPH
+121;Volkswagen Tiguan 1.5 TSI R-Line°R19°VIRTUAL°ACC°ODPOČET DPH
+122;Škoda Octavia Combi RS II - 2.0 TFSi 147Kw 200Ps. +Xenon.
+123;REZERVÁCIA | 2017 Škoda Octavia Combi TDI | Canton výhrevy
+124;Volkswagen Sharan 2.0 TDI 125kw/170PS DSG Highline Bussines
+125;Seat Alhambra 2.0 TDI Style 177 PS 7-Miestne
+126;Audi A4 Allroad 40TDI Quattro140kw Nav Kamera
+127;Volkswagen tiguan R-line 2.0TDI DSG 4Motion 140KW Webasto
+128;Seat Ateca 2.0 TDI FR°R19°VIRTUAL°FULL LED°ACC°ODPOČET DPH°
+129;Škoda Octavia Combi RS ll 2.0Tdi 125Kw
+130;Škoda Octavia combi,2.0Tdi, 110kw, DSG, Virtual kokpit
+131;Škoda Superb Combi 1.5 TSI ATC Style Virtual 2019
+132;FORD GALAXY 2.0 TDCI GHIA
+133;Audi A3 2.0 TDI M6 Attraction Koža Navi Xenón ťažné R16
+134;Audi A4 Avant 40 - 2.0TDi - 140 kW Quattro - Odpočet DPH
+135;Audi Q7 55TFSi Etron hybrid 2021/4 - Odpočet DPH -
+136;Seat Ateca 1,5TSI FR, 20.000km, rv.2022
+137;Volkswagen Golf Variant 2.0 TDI BMT 150k Highline
+138;Opel Insignia 2.0 CDTI 120 kW Automat Sedan kúp. na SK
+139;Škoda octavia Combi 1.9 Tdi 77 KW-KOD-MOTORA-BXE-BEZ—DPF
+140;Škoda octavia 1.5tsi 150ps-1.majiteľ-2023-záruka-odpočet DPH
+141;ŠKODA OCTAVIA IV FIRST EDITION  2,0 TDI 110KW DSG
+142;Toyota Corolla 1.4 VVT-i E12 sedan Linea Terra
+143;Škoda OCTAVIA 3, 2.0TDI 110kW, 7st.DSG, 2019, STYLE, WEBASTO
+144;VW Passat Variant 2.0 TDI
+145;❇️ LAND ROVER RANGE ROVER VELAR 3.0D V6 300K R-DYNAMIC 4x4
+146;Kodiaq Sportline 4x4 7miest Nardo Grey Virtual Pano 83t. km
+147;2016 Volkswagen Golf VII. Variant GTD 2.0TDI 135kw
+148;Škoda Karoq sportline 4x4/DSG/ virtual
+149;BMW X6 M40d xDrive - mod. 2021 - Odpočet DPH
+150;Volkswagen Arteon SB - R-Line - 2.0 TDi DSG - Odpočet DPH
+151;AUDI Q5 2.0 TDI S-tron QUATTRO SPORT REZERVOVANE ⛔️
+152;ŠKODA OCTAVIA 2 FACELIFT SCOUT 4x4 2.0 TDI KOD-BMM
+153;Volkswagen Passat B5 1.9 TDI Automat
+154;Honda CRV 4x4 2.2 i-CTDi diesel 103kW, M/6 // BEZ KOROZIE//
+155;Škoda Kodiaq 2.0 TDI 4x4 DSG Style
+156;Škoda Octavia Combi 2.0 TDI RS DSG za 29.990 € s DPH
+157;Škoda Octavia Combi 2.0 TDI Joy Plus DSG za 23.990 € s DPH
+158;VOLKSWAGEN SHARAN 2.0TDi 130KW 4x4 4motion+2021+WEBASTO+ TOP
+159;VW Golf Variant VIII (MK8), 2.0 TDI 110 kW, DSG7, 2021
+160;Octavia Combi Style, 2.0 TDI 110kW, DSG7, 2020/02, Virtual
+161;Volkswagen Touran 1.9 TDI Trendline
+162;Skoda Karoq 1.5tsi Sportline , r.v. 6/2021, 183000km
+163;Škoda Karoq 1.6 TDi Style 12.499,- EUR + DPH
+164;Škoda Octavia 2 SCOUT 4x4 2.0 TDI 103kw XENON
+165;Audi Q3 Sportback 40 2.0 TFSI S line quattro S tronic
+166;Volkswagen T-Roc 2.0 TSI BMT Sport 4Motion DSG
+167;Audi A4 Avant 3.0 TDI S Line
+168;Seat Leon SP FR 1,5 eTSI 150 7DSG
+169;F0RD S-MAX 2.0tdci  velmi pekny
+170;BMW X5 xDrive A/T Mpacket - Slovenské auto - Odpočet DPH -
+171;Škoda Superb Premium 4x4 Virtual/Matrix/Canton/Panorama
+172;Opel Movano 2.3 Dvojmontáž
+173;---SEAT ALTEA 1,6TDI CR  edition COPA---
+174;Volkswagen Sharan 2.0 TDI Comfortline 7-miest
+175;Volkswagen Caddy Maxi 2.0 TDi - 7-Miest - Odpočet DPH
+176;Škoda Octavia Combi 4x4 2.0 TDI Laurin&Klement SWISS
+177;JEEP GRAND CHEROKEE WJ 2.7CRD A/T //196tis.km // BEZ KOROZIE
+178;Škoda Octavia Combi 2.0 TDI SCR Style DSG
+179;Volkswagen Tiguan 2.0TDI DSG 4-motion 2013 TOP
+180;Predam Iveco Daily - CNG r.v.2022 naj.14 800km ⭐ODPOČET DPH⭐
+181;Octavia 86000KM ÙPRAVA ZŤP/invalid,vozíčkar
+182;-REZERVE-Škoda octavia Combi 1.9 Tdi 77 KW
+183;VW Passat B8 2.0TDi EVO | AUTOMAT | VIRTUAL | Ťažné
+184;Seat Ateca 2.0 TDI 110kW DSG STYLE 2019
+185;KIA CARENS, 1,7 CRDI, 7-MIESTNE, 2/2018, KÚPENÉ NA SLOVENSKU
+186;Škoda Karoq Style 4x4 2.0TDi DSG mod. 2021 - Odpočet DPH -
+187;VOLKSWAGEN TIGUAN Track&Field 2.0 CR TDI, DSG 4x4, 2009
+188;SKODA KAROQ 1.6 TDI FULL LED EXCLUSIVE
+189;Kodiaq 1,5 TSi Ambition, M6 ,r.v. 2020,217xxx Km. TOP stav
+190;SEAT ATECA  STYLE 2.0TDI
+191;ŠKODA FÁBIA 1.2 47kW benzin LEN 110 000KM 1.majitel top stav
+192;ŠKODA KODIAQ 2.0TDi / DSG STYLE VIRTUAL/ŤAŽNE
+193;Chrysler Voyager 2.8CRD 110kw A/T //BEZ KOROZIE////7miestne
+194;Škoda Kodiaq Sportline 1.5 Tsi-110kw-Model 2021-158950km
+195;Citroen C-Elysee 1.2i 80 600km 2018
+196;AUDI E-TRON 50 QUATTRO ADVANCED / MOŽNÝ ODPOČET DPH
+197;Audi A5 2.0 TDi 2012 Automat Facelift
+198;Komplet Repasovaný motor G4FD / G4FA // G4FG  KIA / HYUNDAI
+199;Volkswagen Caddy 2.0 TDi - Trendline - Odpočet DPH
+200;Volkswagen Arteon RLine 2.0TDI 176kw 4Motion Webasto DCC
+201;Škoda Octavia Combi 2.0 TDI 110kw DSG
+202;Suzuki SX4 1.6Benzin 4x4 + SERGIO CELLANO+147tis km+TOP
+203;Seat Alhambra 4X4 2.0TDi | 148 000km | 12/2017 | ŤAŽNÉ
+204;Volkswagen Tiguan 2.0 TDI EVO Life DSG
+205;BMW 520d XDrive 140kw r.v 07/2021 - Odpočet DPH -
+206;❗ŠKODA KODIAQ 2.0TDI SPORTLINE DSG MRTVE BODY,TAžNE,ACC,PDC
+207;Predám BMW 525 xDrive
+208;BMW 520 F10 135kw
+209;Seat Ateca FR-4x4 Virtual R19 DSG 2.0 TDI Navi Black Edition
+210;✅Škoda Rapid 1.2tsi 63kw (141000km) r.v.2014 ✅
+211;Škoda Octavia Combi 2.0 TDI RS DSG 4x4 LED
+212;Škoda Fabia II 1.2 htp
+213;Volkswagen Passat 2020 Facelift 2.0TDI
+214;BMW 530d xDRIVE 195kW,r.v.2018, 170.000KM,NOVÉ PNEU,ODP. DPH
+215;MERCEDES ATEGO TROJSTRANNÝ SKLÁPAČ + HYDR. RUKA  EURO5 12T
+216;MERCEDES ATEGO 1224 TROJSTRANNÝ SKLÁPAČ + HYDR. RUKA EURO5
+217;MERCEDES ATEGO 1524 TROJSTRANNÝ SKLÁPAČ + HYDR. RUKA EURO4
+218;MAN TGS 18.320 TROJSTRANNÝ SKLÁPAČ + HYDR. RUKA EURO4
+219;MERCEDES AXOR 1829 - TROJSTRANNÝ SKLÁPAČ + HYDR. RUKA EURO4
+220;MERCEDES AXOR 1828 - TROJSTRANNÝ SKLÁPAČ + HYDR. RUKA EURO4
+221;MERCEDES AXOR 1828 - TROJSTRANNÝ SKLÁPAČ + HYDR. RUKA EURO4
+222;MAN TGA 18.280 - 4X4 TROJSTRANNÝ SKLÁPAČ + HYDR. RUKA // EU4
+223;SCANIA R380 - 4X4 TROJSTRANNÝ SKLÁPAČ + HYDR. RUKA // EURO4
+224;MAN TGL 12.180 - TROJSTRANNÝ SKLÁPAČ // VYKLÁPAČ // EURO4
+225;MAN TGM 15.290 - 4X4 TROJSTRANNÝ SKLÁPAČ // IBA 68.000KM EU5
+226;MERCEDES AXOR 1824 TROJSTRANNÝ SKLÁPAČ // VYKLÁPAČ // EURO4
+227;Volkswagen Arteon 2.0 TDI R-Line,Manuál
+228;SEAT ATECA 1.6TDI CR STYLE.
+229;Volvo V60 T4 Momentum A/T,2020,1Majiteľ
+230;Škoda Superb Combi 2.0 TDI 190k 4x4 Sportline DSG
+231;Škoda Octavia Combi IV 2.0 TDI DSG F1 Style DVD Kamera R17
+232;Fiat 500 1.2 Benzín M5 Edition Color Theraphy IVORY R15
+233;Škoda Octavia Combi 2.0 TDI Style110 DSG ODPOČET DPH
+234;Cupra Formentor eHybrid
+235;Mazda 6 Wagon 2.2 Skyactiv-D 110 kW
+236;ŠKODA OCTAVIA COMBI 3 / III 1.5 tsi DSG ❗️❗️❗️ 83000 ❗️❗️❗️
+237;ŠKODA OCTAVIA 3 SOLEIL 2019 110KW FULL LED - ŤAŽNÉ - KESSY
+238;DODGE CHALLENGER R/T 5.7 V8 2023/3 28800km
+239;Volkswagen Tiguan 2.0TDi DSG r.v 2020 - Odpočet DPH -
+240;Peugeot 508 SW 1.5 BlueHDi 8st Aut.
+241;Peugeot 508 SW 1.5 BlueHDi 8st Aut.
+242;Renault Master Maxi Valnik 2.5 DCi - 88kW - 2009 - 7Miest
+243;Seat Arona 1.0 TGI--rv:2020--71500km-bez dph 9.916e
+244;Škoda Octavia Combi 4 1.0 TSI-81kw-Model 2021-Virtual
+245;Odťahovka + autoprepravník, WV Crafter + GALA
+246;Audi SQ8 4.0TDi V8 320kw r.v2020 - Odpočet DPH -
+247;✅️BMW Rad 5 GT 530d Gran Turismo,ŤAŽNÉ,PANORÁMA,TOP STAV✅️
+248;Opel Mokka 1.4 16V Turbo 4x4 Cosmo
+249;ŠKODA SUPERB SCOUT 4x4 140KW MATRIX / VIRTUAL / ŤAŽNÉ
+250;Škoda Octavia Combi II Scout 4×4 - 2.0TDi 103Kw 140Ps...
+251;Hyundai i20 1.2 benzín 105000KM
+252;AUDI Q5, 40 2.0 TDI, QUATTRO, S-TRONIC
+253;BMW 520 - poškozeno
+254;ŠKODA OCTAVIA COMBI 2,0 TDI DSG
+255;Škoda Superb 2.0TDi Combi DSG ///12.999,- EUR + Dph///
+256;SEAT ALHAMBRA  2.0 TDI 110kw 150PS EXCELENT 7MIES M.2019
+257;Volkswagen Sharan 2.0 TDI 4-Motion Highline
+258;VW Passat Variant GTE, r.v.2021
+259;Audi A6 C8 2.0TDI mHEV 150 kW, 11/2018, 176 000km PO SERVIS
+260;SEAT LEON ST, 2.0 TSI, CUPRA 300 PS ,4DRIVE, 66 602KM,7/2020
+261;VOLKSWAGEN TOURAN 1.9TDI UNITED, 7 MIESTNY
+262;Ford Focus 2.5 ST swiss 166KW
+263;Škoda YETI 4x4 2.0TDi 103kW 2010 CR Webasto BI-Xenón
+264;REZERVÁCIA | 2017 Seat Ateca 2.0 TDI 110 kW 4x4
+265;Škoda Yeti 1.2 TSi 105k M6
+266;Volkswagen Touran 2.0 TDI SCR 150k Highline LED KAMERA
+267;Audi E-Tron 2020 50 quattro business
+268;Predám Octaviu 3, pohon 4x4, 1,6 TDI, r.v. 2017
+269;Prívesný vozík
+270;Ford C-max 1.6tdci-druhý majiteľ-Top stav-6stupňový manuál
+271;Volkswagen Sharan 2.0 TDI 4-Motion (4x4)
+272;Audi Q7 3.0 TDI 200kw/272PS Quattro S-Line Virtual F1
+273;Opel Insignia ST, BiTURBO, 154 KW, 4x4, 5/2018
+274;Volkwagen golf 7 fl dsg 1.4 benzin 92 kw full led
+275;VW Crafter 2.0TDI 103kw L3H3 - Odpočet DPH -
+276;Volkswagen Tiguan 2.0 TDi Sport &Style 4x4
+277;ŠKODA KODIAQ 2.0 TSI SCOUT 4X4 DSG EU6
+278;REZERVOVANE SEAT LEON, 2.0TDI(150ps), DSG(7st.), 145tis.KM,
+279;Volkswagen Touran 2.0 TDI DSG°ODPOČET DPH°1.MAJITEĽ°
+280;Predam odtahovku Fiat Ducato 2.3JTD
+281;Škoda Kodiaq 1.5 TSI-Style-Sportline-110kw-CANTON-DSG-
+282;VOLKSWAGEN ARTEON 1.5 TSI 110KW R-LINE-DSG-VIRTUAL-PANORAMA
+283;Škoda Kodiaq Sportline 1.5 Tsi-110kw-rv:21.2.2020-TOP VYBAVA
+284;Volvo XC90, T8 Twin Engine AWD plná výbava
+285;BMW 740d xDrive M-Sport
+286;BMW 216i Gran Tourer benzín 5/2019 159t.km 7-miest
+287;Hyundai Tucson 1.6 GDi Style
+288;VW Passat Variant Business B8.5 2.0 TDI
+289;Volkswagen Touran 1,9TDI 77kw
+290;Skoda Octavia RS 2.0 TDi
+291;Volkswagen Touran Comfortline 2.0 TDI--DSG 2020
+292;BMW X5 E70 3.0 XD 173kw xdrive automat čierna metalíza
+293;Volkswagen Passat B8 Highline Biturbo 2.0bitdi 176kw 4x4
+294;Audi A5 sportback 3x S-LINE 3.0TDI 176kw
+295;ŠKODA OCTAVIA COMBI 2.0 TDi 103KW, 4x4 SPORTLINE,ŤAŽNÉ,ŤA
+296;Volkswagen multivan t5 1.9tdi
+297;Rozpredám toledo 81kw
+298;Kodiaq Style 4x4 2.0tdi 140kw DSG - úver bez akontácie
+299;Volkswagen Touareg 3.0 TDI 176KW XENON PANORAMA
+300;Bmw f30 320xdrive
+301;VW Passat Alltrack r.v 2021/5 2.0TDi DSG 4x4 - Odpočet DPH -
+302;MAN TGS 35.480 8x6
+303;Ford Focus ST 2.5 DURATEC (166Kw-225Ps)NÁDHERNY KUS Top Stav
+304;Audi A4 Sline 2.0 tdi DSG Matrix Led
+305;Audi A4 113 tisíc km  2.0 TDI DSG
+306;Škoda OCTAVIA 4 IV Style, MATRIX,VIRTUAL,NAVI,3/2021 SK auto
+307;Volkswagen Caddy Maxi 7 miestna
+308;Mercedes-Benz GLC 63 S AMG 4Matic+, odpočet 21% DPH
+309;Sieť batožinového priestoru / deliaca mreža na Audi A4
+310;Fiat Doblo 1,6 Multijet 88kw r.v. 2019
+311;MOTOR 3.6 FSI 191 KW CDVA
+312;FIAT DUCATO L1H1, 2,0 JTD, 10/2011, LEN 106 084 KM
+313;Can Am Maverick Predám pneu MAXXIS 32x10 R15, 30x10 R15
+315;Predám prepravník na dve auta.
+316;Obytný automobil,PRO 8 OSOB.SOLAR vůz lmc liberty2.5tdi.
+317;VW TIGUAN 2.0 TSI R-LINE 4MOTION DSG
+318;ŠKODA OCTAVIA 2.0 TDI BUSINESS DSG
+319;Škoda Octavia Combi 1.6 TDI 115k Ambition
+320;NAHRADNE DIELY VW TOURAN 2.0 TDI MANUAL
+321;PREVODOVKA 4X4 2.0 TDI 6 KVALT MANUAL
+322;NAHRADNE DIELY VW PASSAT B6 COMBI 2.0 TDI CR
+323;NAHRADNE DIELY SKODA SUPERB 2 COMBI 4x4
+324;NAHRADNE DIELY AUDI Q7 3.0 TDI QUATTRO S-LINE
+325;Volkswagen Arteon Shooting Brake R-Line 4x4 206kw TSI DPH
+326;NAHRADNE DIELY SKODA SUPERB 2 COMBI 2.0 TDI
+327;NAHRADNE DIELY SKODA SUPERB 2 2.0 TDI SEDAN
+328;BMW 530d xDrive LUXURY_LINE 4X4_AT_72_000_KM_SR_DPH
+329;Škoda Octavia 1.6 TDI DSG Business Navi DVD Keyless R16
+330;Fiat 500 C 1.2 Benzín M5 Edition Pure o2 Koža Cabrio
+331;HYUNDAI i20 2013 benzín
+332;Škoda Octavia 1.9 TDI 77KW DSG / AUTOMAT  ELEGANCE BEZ DPF
+333;Predám IVECO DAILY do 3,5 T
+334;Honda CRV Executive 2.2 CTDI 103Kw 4x4 , Rok 2007, Ťažné
+335;VW GOLF 2.0TDI DSG 110KW XENON
+336;Volkswagen Touran 2.0 TDI Edition DSG°1.MAJITEĽ°ODPOČET DPH°
+337;Audi Q5 Model 2021 2.0tdi 150kw Quattro S-Tronic Odpočet DPH
+338;MAN TGL12.240 SKLÁPAČ TROJSTRANNÝ VYKLÁPAČ, 6 VALEC, 3 miest
+339;MERCEDES-BENZ ATEGO REŤAZOVÝ / RAMENOVÝ NOSIČ KONTAJNEROV
+340;MERCEDES-BENZ ATEGO 1218 NOVÝ HÁKOVÝ NAKLADAČ NA KONTAJNERY
+341;MERCEDES-BENZ ATEGO 1218 NOVÝ HÁKOVÝ NAKLADAČ NA KONTAJNERY
+342;VOLVO FL240 rv.2010 SKLÁPAČ S3 + HYDRAULICKÁ RUKA HIAB 105-2
+343;MERCEDES-BENZ ATEGO 1222 SKLÁPAČ S3 + HYDRAULICKÁ RUKA HIAB
+344;TOYOTA VERSO 1.6 EDITION BENZÍN 7 MIESTNE
+345;Kia Optima SW SPORTWAGON 2.0 i PLUG IN HYBRID P-HEV 205PK DC
+346;Seat Leon ST 2.0 TDI 150 Style DSG 2020 FULL LED, KAMERA TOP
+347;itroën C4 Grand Picasso BlueHDi 120 S S Best of 7 MIESTNE
+348;AUDI A6 COMBI, 3.0 TDI, 170KW/231PS, QUATTRO, S-LINE, DPH
+349;Passat b5,5 96kw /74kw
+350;Škoda Fabia II 1.4i 16V ELEGANCE (63kW)
+351;Škoda Superb 3 Facelift Sportline Dsg TDI Panoráma Webasto
+352;MERCEDES -BENZ A 45 AMG 4- matic
+353;Volkswagen Golf 7,5 Combi,DSG,2019/5
+354;-2017- Volkswagen UP 1.0 55kW - AUTOMAT - 76.691KM -
+355;VW GOLF 7 1.2 tsi 77KW PATDVEROVY
+356;Mercedes-Benz CLS 400 d 4matic,AMG LINE
+357;Audi A6 Avant 40 2.0 TDI Sport quattro,2021,DPH,Záruka
+358;SEAT LEON 1.4TSI FR 110KW COMBI LED
+359;Karavan Compass
+360;MERCEDES ATEGO 1218 HÁKOVÝ NOSIČ KONTAJNEROV HYDR. RUKA EU5
+361;MERCEDES ATEGO 1318 HÁKOVÝ NOSIČ KONTAJNEROV EURO-4
+362;MERCEDES ATEGO NOVÝ HÁKOVÝ NOSIČ KONTAJNEROV HYDR.RUKA / EU5
+363;MERCEDES ATEGO 1222 HÁKOVÝ NOSIČ KONTAJNEROV HYDR. RUKA EU4
+364;Mercedes ML 350 4matic
+365;Mitsubishi Eclipse Cross 4x4 AUTOMAT SK
+366;Tiguan 1.5Tsi R-Line-RV:19.6.2019-Virtual Cockpit-Kamera-LED
+367;Seat Ateca Xperience 4x4 2.0TDI
+368;ŠKODA SUPERB Combi 155.818 km
+369;BMW 3 touring
+370;Škoda Octavia Combi 2.0 TDI  Style DSG Virtual ODPOČET DPH
+371;Fiat Punto Evo Twinair
+372;BMW Rad 5 GT 530d xDrive Gran Turismo adaptive led panorama
+373;5x112 r19 Mercedes w222
+374;S 320cdi 218tkm org cebia servisni kniha
+375;ŠKODA OCTAVIA COMBI STYLE 2,0 TDI 110KW DSG
+376;ŠKODA RAPID SPACEBACK 1.4TDI 66KW ELEGANCE 147000KM
+377;Land Rover Range Rover Sport 3.0 SDV6 HSE
+378;VW Golf VII Variant 2,0 TDI GTD DSG 135kw / Odpočet DPH
+379;Škoda Superb III SPORTLINE Combi DSG 140 kw / TOP
+380;Opel Insignia Sports Tourer Automat 2021 Business
+381;Škoda Octavia Combi Sportline 2,0 TDI DSG / 2021 / TOP
+382;Volkswagen Golf 1.4TSi | DSG | ŤAŽNÉ | PARKOVACÍ ASISTENT
+383;Audi A4 ALLROAD 3.0TDi | QUATTRO | AUTOMAT | ŤAŽNÉ | KOŽA
+384;Iveco eurocrgo 90e
+385;Škoda Karoq 2.0 TDI Style 4x4
+386;Rozpredám Bmw e46 328i automat
+387;Predám Volvo XC90 D5 A/T kúpené SK, VAM R1
+388;ŠKODA SUPERB 2 2.0TDI 125KW 4X4 OUTDOOR 2013
+389;Seat Leon
+390;Škoda Fabia 1.4tdi TOP STAV
+391;Seat LEON FR 2.0 TDI 135 kw -  automat
+392;Seat Altea XL 2.0TDI 4x4 I-TECH-103kW-r.v2014-133000km
+393;Mercedes-Benz GLE 300d 4Matic AMG-RV:22.11.2021-58.500KM
+394;BMW Rad 5 Touring 520i
+395;Iveco
+396;DS 7 Crossback 1.5 BlueHDi 96kW - možný odpočet DPH
+397;226 50 r17 BMW
+398;BMW X6 XDrive 35sd
+399;245 45 r20/275 35 r20 zimne
+400;Audi A5 Cabriolet 1.8TFSi S-line S-tronic 177k za 19.990 €
+401;Audi A5 Cabriolet 1.8TFSi S-line S-tronic 177k za 19.990 €
+402;Tiguan Allspace 2.0TDI 4x4 R-Line DSG 200k za 36.990 € s DPH
+403;Volkswagen Passat Var. R-line 2.0TDI 147kW 4Mot. DSG 10/2021
+404;Ford Mondeo 2,0ECOBlue Business AT
+405;Škoda Superb Combi 2.0 TDI SCR Sportline DSG
+406;Skoda Koliesko multifunkcie volant ovládanie rádia a telefón
+407;Volkswagen Golf 2.0 TDI 103kW
+408;REPASOVANÉ MOTORY
+409;Seat leon
+410;PREDÁM ŠKODA OCTAVIA 1.6 TDI STYLE
+411;Ford Focus 2.0 TDCi VIGNALE-MAX. VÝBAVA //11.167,-EUR+ DPH//
+412;BMW X6 XDrive 40d mHEV A/T M PACKET
+413;Peugeot Boxer 2.0 HDI L4H3
+414;Seat Leon FR 2.0 TDi 170k
+415;Ford Transit 2.0 TDCi 130 Trend L3H2 T310 FWD odp. DPH
+416;DS 4 CROSSBACK  1.6 HDI Chic
+417;Alfa Romeo Giulia 2.2 Diesel 180 AT Super
+418;Citroën Jumper 2.2 BlueHDi 165k 35+ L4H3 Odp.DPH
+419;Volvo fh 500
+420;Škoda Karoq 2022 Benzín 110KW
+421;Škoda Karoq 2022 Benzín 110KW
+422;Fiat Freemont 2.0 MultiJet Lounge
+423;Mercedes GLE 350d AMG Line, 4Matic, r.v. 12/2015, 133.100km
+424;Chevrolet Camaro iroc-z 28 5.0 v8 TBI 1988 coupe manuál
+425;Škoda Kodiaq 2.0 TDI SCR EVO 200 Style 4x4 DSG
+426;Skoda Octavia 2.0TDI 110Kw DSG
+427;Mercedes-Benz E 200 d AMG - Business - SK ŠPZ - Odpočet DPH
+428;►►Volkswagen Golf Variant 1.6 TDI R-Line◄◄
+429;Škoda Karoq 1.6TDI r.v2020 - Odpočet DPH -
+430;❇️ ŠKODA KODIAQ RS 2.0TDI 176KW DSG 4x4 2019•WEBASTO•7 MIEST
+431;Volkswagen Golf Variant 2.0 TDI Highline 4x4 DSG
+432;Škoda Octavia II Combi 1.9TDI (77kw) 4x4 ELEGANCE FACELIFT
+433;⭐️ BMW F32 440i xDrive, 360kW, 700Nm, 500 koni, veľa úprav
+434;Citroën Jumpy, 1,6Hdi, r.v.2016 , 73800km, L1H1
+435;SEAT ATECA 1.6TDi-rv:20.2.2019--183.320km
+436;BMW 530e iPerformance Plug-in hybrid-2018-174tis km
+437;Tiguan 1.4Tsi-150ps-rv:2018-Možnosť leasingu
+438;Mercedes Benz  SPORTcoupe C200 benzin panorama BEZ KOROZIE /
+439;Škoda Octavia Combi II Facelift 1.6 TDI Elegance DSG
+440;Volkswagen Sharan 7 Miestny
+441;Citroen c3 Shine
+442;Škoda Octavia Combi Scout 4×4 - 2.0 TDi 103Kw 140PS
+443;Kolesá 20" na Porsche Cayenne 3, Tuareg, Audi Q7 elektróny.
+444;COROLLA VERSO D-4D 2,2 TD
+445;ŠKODA OCTAVIA 2 II 1.6 Mpi 2007
+446;Bmw 320 D touring Xdrive
+447;Škoda Octavia RS Combi 4x4 2.0 TDI 147kw DSG Webasto
+448;VOLKSWAGEN GOLF 5 COMBI 1.9TDI 77KW BEZ DPF
+449;KIA SPORTAGE, PLATINUM, 1,7 CRDI, MANUÁL, 137 612 KM,11/2014
+450;MOTOR 1.6 TDI CLH
+451;MOTOR 2.0 TDI 125KW CBB,CBD,CBA,CEG
+452;MOTOR 2.0 TDI 125 KW CFGB
+453;MOTOR 2.0 TDI 103 KW CFFB
+454;Škoda Superb Combi 2.0 TDI SCR Style DSG
+455;Volkswagen Touran 2.0 TDI SCR 150k Comfortline DSG
+456;ŠKODA OCTAVIA I 1.8T RS MODEL 2003 JEDEN MAJITEĽ TOP
+457;OPEL ASTRA SPORTS TOURER+ 1.6CDTI MODEL 2018
+458;Volkswagen Passat variant 2,0tdi 103kw R-LINE
+459;Skoda octavia 4x4 1.9 tdi 74kw
+460;Volkswagen Sharan 2.0 TDI CR Highline 4x4 7-miestny
+461;JEEP COMPASS 1.6L MJET 120 2WD LONGITUDE
+462;MERCEDES-BENZ E TRIEDA KOMBI 220 D A/T
+463;VOLKSWAGEN TIGUAN 2.0 TDI SCR BMT COMFORTLINE DSG
+464;Iveco Eurocargo ML75E15
+465;VW Tiguan 2.0tdi 147kw Model 2021 4x4 DSG
+466;Mitsubishi L200 2.4 DI-D 133kW Manual 4x4 + Superselect
+467;☝️☝️Peugeot 3008 Style Automat 1.5 HDI 96 KW.130PS.2020
+468;Mercedes benz GLE SUV 350D
+469;❔Škoda superb 2017 L&K ‼️
+470;Fiat 500C 0.9 TwinAir AUTOMAT 97 000km
+471;BMW E60 520d  130kw-177Ps
+472;Predám Tatra815 poloos
+473;ŠKODA YETI 2.0 TDI L K 4X4 DSG E6
+474;Mercedes-Benz C 180 - SK vozidlo - Odpočet DPH - 73tis km
+475;Škoda Octavia Combi 1.6 TDI 115k Ambition DSG
+476;Cupra Formentor 1.4 TSI eHybrid 245k DSG Veloz
+477;BMW X3 xDrive30d M Sport A/T adaptiv LED
+478;Audi A6 Avant 3.0 TDI DPF  quattro MATRIX ADAPTIV LED NAVI
+479;VW Caddy 2.0 TDi, 75kW r.v.:9/2019
+480;VOLKSWAGEN CADDY MAXI 1.9TDI 77KW BEZ DPF
+481;Mazda 3 2015 2.2-Skyactiv-D 150ps
+482;Mercedes-Benz GLE450 Kupé 4matic AMG
+483;Volkswagen Tiguan 2.0TDi DSG - Odpočet DPH -
+484;#82 Elektróny originál Škoda 5x112 r18
+485;BMW 320d+mHev touring2021-1.majiteľ-90tis.km-odpočet DPH-4x4
+486;Hyundai Santa Fe 2.2 CRDi Premium 4x4 A/T 7 miest
+487;Volkswagen Golf Variant 1.6 TDI, 2015
+488;Volkswagen Golf VII
+489;AUDI A7 3.0 TDI QUATTRO, ALU R19, FÓLIE, NAVI, XENÓNY, KOŽA
+490;►Volkswagen Polo 1.2 TSI Highline◄
+491;AUDI Q7 3.0 TDI 160KW/218PS QUATTRO VIRTUAL  COCKPIT 2017
+492;Audi A4 B8 2.0tdi 110kw
+493;OPEL INSIGNIA , diesel , TOP STAV , 2017
+494;VW CADDY , 1. Majitel , 100000 km , diesel ,
+495;Ford 1.0 ecoboost
+496;Volkswagen golf7 alltrack 2,0l
+497;Škoda Superb 2 Facelift 2.0tdi CR 2015 125KW 4x4 DSG
+498;Preverené✅ Škoda Superb III L&K, 2.0TDI, 140Kw, DSG, 2016
+499;Predám BMW rad 7 740d xDrive 230kw / CIC / Šiber / Webasto
+500;215/65 R 17 CELOROČNE  PNEUMATIKY MICHELIN
+501;AUDI A6 3.0 TDI, QUATTRO, ALLROAD, MATRIX
+502;Mini Cooper  F56 Benzin 100kw
+503;Citroën C3 Pure Tech 82 E6.2 Feel, panoramatická strecha
+504;✅️ŠKODA SUPERB SCOUT 4x4 2.0.TDI, DSG, WEBASTO,KAMERA,DCC✅️
+505;Audi Q7 TDI QUATTRO
+506;SEAT ALHAMBRA 2.0 CR TDI R.V 2013 ECOMOTIVE
+507;Kia Ceed 1.4 CRDi Active 6MT, Diesel 66 kW
+508;Škoda Kamiq - 1.5 TSI - Style
+509;Seat ATECA FR 4x4 Dsg
+510;Transit Connect 89tis
+511;Bmw 530d F10 - xDrive - Black Sapphire Metallic
+512;Škoda Kodiaq  1.5 Tsi-110kw-DSG-Panorama-Canton-El.tazne
+513;Predam Volvo v60
+514;Audi A4 Avant 30 2.0 TDi Sline 2020
+515;Predám VW T6 Multivan. Full Led, DSG.
+516;Audi q7 ,rok 2006,km265tkm,tazne,5miest
+517;Suzuki Vitara 1.6 DDiS Premium AllGrip Koža Navi ťažné ACC
+518;BMW 118d 2.0 105kw 2010
+519;Skoda Kodiaq 2.0 TDI M6 4x4 Style DVD Kamera Ťažné LED OrigK
+520;Volkswagen Touran 2.0 TDI SCR 150k Edition Comfortline
+521;VW Golf 7 combi 2.0 TDI DSG
+522;Tatra Phoenix - 2018 - L E S O V O Z
+523;✅PEUGEOT 407 1.6 HDI 80KW LIMUZÍNA✅
+524;SEAT TARRACO 4x4 Xcellence 2.0TDi 140kw Dsg VIRTUAL/ŤAŽNÉ
+525;GOLF 1,6 TDI 77kW
+526;Toyota Hilux Executive
+527;Renault Trafic možný odpočet DPH  ťažné zariadenie
+528;Škoda Octavia Style 1.0TSI DSG -Odpočet DPH-
+529;Škoda Superb Combi Sportline 2.0 TDI, 146000 km, odpočet DPH
+530;Grand espace 2dci 127kw 2012 závěs 2000kg 170tkm
+531;porsche panamera v8 4S
+532;SEAT IBIZA ST STYLE 1.4 16V 63KW
+533;REZERVOVANÉ Seat Tarraco Xcellence 7M 147kw 4x4 DSG 2021
+534;Volkswagen Crafter 2.0 TDi - L3H3 - Odpočet DPH
+535;Škoda Superb Combi 2.0 TDI  Sportline 4x4 DSG Webasto Matrix
+536;Originál kolesá BMW Styling 648M G11 R20 Dvojrozmer
+537;Škoda Karoq 1.5Tsi-DSG-Model 2020-full LED-kamera
+538;Tiguan 1.5Tsi-RV:2020
+539;VOLKSWAGEN TOURAN 2.0TDI SCR COMFORTLINE, DSG
+540;MERCEDES-BENZ ATEGO 1218 SKLÁPAČ TROJSTRANNÝ VYKLÁPAČ KIPPER
+541;MERCEDES-BENZ ATEGO 1224 SKLÁPAČ S3 HYDRAULICKÁ RUKA KIPPER
+542;Mitsubishi Colt 1.2 benzín
+543;Lexus RX350 2007
+544;Tesla S Performanc - Raven 599KW/815ps
+545;Škoda KODIAQ RS 4x4 2.0TDi DSG 176kW VIRTUAL/ŤAŽNÉ/WEBASTO
+547;BMW X3 xDrive20d xLine 8A/T LED NAVI KAMERA full servis
+548;BMW Rad 5 Touring 530d xDrive A/T adaptiv led panorama ACC
+549;AUDI A6 45 3.0TDI S-LINE QUATTRO 170KW/231PS VIRTUAL
+550;ŠKODA OCTAVIA IV SPORT PACKET 2.0tdi 110kw M6 Webasto
+551;►►►Škoda Superb DSG 4x4 STYLE◄◄◄
+552;Rozpredám volkswagen passat b6 combi 2,0 tdi 16V
+553;Mercedes sprinter, čelo, dvojmontáž, kontajner, 150tkm
+554;Predané
+555;Škoda Octavia 4 2020  2.0 TDI 110kw Možný odpočet DPH
+556;Škoda Superb Combi 2020  2.0 TDI 140kw 4x4 DSG-Odpočet DPH
+557;BMW 650i xDrive, 4.4, 330KW/449PS, Coupe, 4x4
+558;ŠKODA FABIA COMBI III 1.4 TDI, TEMPOMAT, XENÓN,CUVACÍ SENZOR
+559;Skoda Octavia 4 STYLE+ 2.0tdi 110kw DSG 2020 1.majiteľ
+560;Škoda Octavia Combi Laurin & Klement 4x4-2.0TDi 103Kw 140Ps.
+561;KIA CEED 1.6Crdi 2013 Automat PLNE POJAZDNÉ
+562;#81 Nové elektróny originál VW T5, T6 r17
+563;AUDI A4 45TDI  QAUTTRO 170KW S LINE
+564;MERCEDES BENZ CUOPE E350 CDI 170KW
+565;Škoda Roomster 1.2 TSI Panorama 93 000 km
+566;Seat Tarraco FR 2.0tdi 147kw 4x4 2021 Webasto  1.majiteľ
+567;Rezervovane:Predam Volkswagen Tiguan 1.5 TSI--41408 km.
+568;❇️ BMW 6 GT 630d GRAN TURISMO A/T LUXURY LINE 10/2018•DPH
+569;Seat Alhambra 2.0 TDI CR DPF Style 7 MIESTNA
+570;Audi A4 avant 1.9TDI PD 85kw nová STK  gar.km /BEZ KOROZIE /
+571;Škoda Octavia
+572;Peugeot 308 Break/SW 1.6 BlueHDi, automatická prevodovka
+574;ŠKODA FÁBIA 1.2benzin ročník:2010 199 000KM sadnúť a jazdiť✅
+575;Škoda Octavia Combi 2.0 TDI DSG Style plus
+576;PEUGEOT 2008, E-GT , 13000KM , ELEKTRO, MOZNY ODPOCET DPH
+577;Hyundai I10 , benzin, prvy majitel , 66000 KM
+578;PEUGEOT EXPERT, 8 MIESTNE pravidelne servisovane vozidlo
+579;OPEL ASTRA, 1.majitel, kupovane na SR, 118900 KM, TOP STAV
+580;Mercedes GLC , 1.majitel, kupovane na SR, 111000 KM TOP STAV
+581;ŠKODA SUPERB COMBI, 4X4, DSG , PRAVIDELNE SERVISOVANE
+582;PEUGEOT BOXER - Valnik ,
+583;ŠKODA OCTAVIA COMBI, 2.0 DIESEL, ZACHOVALE VOZIDLO, SERVISNA
+584;Mercedes c 220d AMG
+585;MERCEDES BENZ GLE KUPE, 1.majitel, kupovane na SR, 96000 KM,
+586;Volkswagen Tiguan 4X4 , 2.0 TSI , TOP STAV
+587;FORD FOCUS 1.4i ●1.majitel●Servisná knižka●137000●
+588;Volkswagen Transporter , zachovale vozidlo
+589;Land Rover Range Rover Evoque 2.0 Td4 150 SE Plus AT
+590;MERCEDES CLS, 1. majitel, kupovane na SR, 64350 KM
+591;Nissan Juke, 1.majitel, kupovane na SR, servisna historia ,
+592;❇️ MERCEDES X 250d 4MATIC 140KW 4/2018•83 TISÍC KM•DPH
+593;Renault Megane CC KARMANN 2.0 16V 136ps 172TKM KEYLESS KOŹA
+594;Mitsubishi pinin 2.0GDI
+595;Citroen C5 AIRCROSS, 1.majitel, kupovane na SR, v zaruke
+596;BMW X6, 1.majitel, Kupovane na SR, KOMPLET SERVISOVANE
+597;Škoda Octavia III 1,6 tdi, Style
+598;BMW GT640XDRIVE , 1.majitel, kup. na SR, mozny odpocet DPH
+599;BMW RAD5 XDRIVE, KOMPLET SERVIS
+600;BMW RAD4 , Kupovane na SR
+601;AUDI Q7, KUPOVANE NA SR, komplet servisna historia
+602;AUDI A6 AVANT, 3.0 DIESEL, AUTOMAT, 4X4
+603;Espace 1.6 dci
+604;AUDI A6 ALLROAD , TOP STAV
+605;Kia Ceed SW 1.5 T-GDi Gold
+606;Kia Ceed SW 1.5 T-GDi Gold
+607;Predám Peugeot boxer 7 miest 2,0 BHDi L4H2 160k 2018
+608;Audi S3/RS3 Sportback 370KW/500HP
+609;VW Arteon ShootingBreak R-line 2.0TDI  200PS 4x4 ODPOČET DPH
+610;Opel Astra 1.6 CDTI COMBI 2017///7.399EUR////
+611;Peugeot 207 Active 1.4 16V Benzin  Facelift len 85 000km
+612;Jeep Wrangler Unlimited
+613;OCTAVIA III LIFT 1.5TSI 110KW ELEGANCE MODEL 2020 SR VOZIDLO
+614;ŠKODA SUPERB 2.0TDI COMBI●125KW●CR●SERV.KNIHA●
+615;Volkswagen Passat Variant 2.0 TDI EVO Business DSG odpočet
+616;Hyundai Tucson 1.6 T-GDi Mild Hybrid Premium 4x4 A/T odpočet
+617;✅️VW Touran 2.0.TDI, 103KW, M6, webasto✅️
+618;Škoda Superb Combi 2.0 TDI SCR L&K DSG,2020
+619;Citroën C3 PureTech 82 Best of Shine
+620;Motor 1,9 tdi 77 kw kod motora BXE
+621;ŠKODA YETI 2,0TDI DSG JOY 4x4 CR 110kw /150k✅️
+622;Volvo S60 D5
+623;AUDI A1 1.2 TFSI, 2012, ELEKTRÓNY R17, TEMPOMAT, 114.544 KM
+624;Suzuki Jimny 1.3 4x4 63.000 KM
+625;Peugeot Partner XL 1.6 HDI 2017 3.miestna Tempomat
+626;Fabia rs
+627;Predám Peugeot 2008, naj. 1200 km, zakúpený v SR v 10/2023
+628;Volkswagen Passat B7 2.0 TDI DSG Higline
+629;Hankook 225/55 R19 zimné
+630;Citroen BX 18.TD 66kw Palllas r.v.1994
+631;Toyota Corolla 1,6i-LPG Executive MDS
+632;BMW Rad 3 GT 320d xDrive M Sport A/T
+633;Mercedes C300de kombi plug in hybrid
+634;MERCEDES ML 320CDI 165KW 4 MATIC
+635;Škoda Octavia 2, Nová STK/EM
+636;VW PASSAT VARIANT 2.0 TDI EVO BUSINESS DSG
+637;#80 Nové elektróny originál Audi 5x112 r19
+638;#79 Elektróny originál Škoda 5x112 r17
+639;#78 Elektróny originál Audi 5x112 r18
+640;FABIA 3 1.4TDi 2018 TOP STAV
+641;#78 Elektróny originál Audi 5x112 r18
+642;FABIA 3 1.4TDi 2018 TOP STAV
+643;Seat Ateca 1.5Tsi-FR-360° kamery-Full led
+644;Hyundai i30 combi
+645;Jaguar XE, R-Sport 2.5t 2015 Benzín
+646;Tiguan R-Line
+647;RENAULT TRAFIC 2,0DCi  - Odpocet DPH
+648;VOLVO V40 2,0D ... Top stav ...
+649;Toyota RAV4 2.2l D-4D 150 Sol
+650;Toyota Yaris 1.5 Dynamic Force⭐6337KM⭐ODPOČET DPH⭐
+651;Toyota Yaris 1.5 Dynamic Force⭐ODPOČET DPH⭐
+652;Škoda Fabia Combi 1.4 TDI Style⭐ODPOČET DPH⭐
+653;Škoda Fabia Combi 1.4 16V Elegance⭐ODPOČET DPH⭐
+654;Renault Kadjar Energy dCi 110 Adventure EDC⭐AUTOMAT⭐
+655;Porsche Macan S 3.0 Diesel AT7⭐PREVERENÉ VOZIDLO⭐
+656;Porsche Cayenne Diesel Platinum Edition II FL
+657;Peugeot Partner L1 1.6 HDi 16V 90k⭐ODPOČET DPH⭐
+659;Peugeot 308 1.6 e-HDi Business Stop&Start⭐ODPOČET DPH⭐
+660;Peugeot 308 1.5 BlueHDi S&S GT Line EAT8⭐ZÁRUKA 3 ROKY⭐
+661;Škoda Octavia 3 RS DSG 135kw 2017
+662;Peugeot 3008 2.0 BlueHDi 180 S&S GT EAT6⭐ZÁRUKA 3 ROKY⭐
+663;Opel Zafira 1.9 DT Elegance⭐7Miest na sedenie⭐
+664;Nissan Micra 1.5 dCi 90 Visia+
+665;Suzuki Grand Vitara 1.6 benzín  3 dverová 4X4 VX ABS A/C
+666;ŠKODA OCTAVIA COMBI  II 2.0 TDI CR   MODEL 2011
+667;Nissan Juke DIG-T 115 N-Connecta⭐PREVERENÉ VOZIDLO⭐
+668;Seat Leon 5F FR
+669;MULTICAR FUMO M30A 3St.SKLÁPAČ
+670;AUDI Q7 3.0TDI 3X S-LINE
+671;Mini One 1.4 Benzín 55KW,3D⭐PREVERENÉ VOZIDLO⭐
+672;Mini One D 1.6D
+673;Mini Countryman Cooper SD ALL4⭐PREVERENÉ VOZIDLO⭐
+674;Mini Countryman Cooper 1.6D Edition⭐ZÁRUKA 3 ROKY⭐
+675;Mercedes-Benz Vito 114 CDI lang⭐ODPOČET DPH⭐
+676;--REZERVOVANÉ--Mercedes-Benz Sprinter Valník 315 CDI Lang
+677;Mercedes-Benz ML 320CDI,A7,5d, AMG OPTIC
+678;Mercedes-Benz CLA Kupé 180 A/T⭐ZÁRUKA 3 ROKY⭐
+679;Mercedes-Benz CL 600 AMG A/T⭐PREVERENÉ VOZIDLO⭐
+680;Mercedes-Benz A trieda 180 CDI BlueEFFICIENCY Style /T
+681;Mercedes-Benz A trieda 180 CDI BlueEFFICIENCY Style /T
+682;Mazda 6 Combi (Wagon) 6 2.2 Skyactiv-D Attraction A/T
+683;Maserati Levante Diesel Edition
+684;Land Rover Range Rover Sport 3.0 TDV6 HSE Dynamic
+685;Mini Cooper 1.5 TWIN POVER TURBO 5dv,Hatchback,Automat
+686;Land Rover Range Rover 3.0L TDV6 Vogue AUTOBIOGRAPHY 183KW,A
+687;Land Rover Discovery Sport 2.0L TD4 HSE Luxury AT
+688;Kia Sportage 1.6 Benzín-LPG⭐PREVERENÉ VOZIDLO⭐
+689;Jeep Renegade 1.6 MJT 120 Longitude⭐ZÁRUKA 3 ROKY⭐
+690;Jaguar XE 2.0 I4D 180k Prestige AT ⭐106340KM⭐
+691;Audi A6 Avant 45 3.0 TDI mHEV Sport quattro tiptronic
+692;Jaguar F-Pace 2.0D I4 180k R-Sport AWD A/T⭐ZÁRUKA 3 ROKY⭐
+693;Jaguar F-Pace 2.0D I4 180k AWD A/T⭐SERVIS LEN JAGUAR⭐
+694;Iveco Daily 35S11 78KW, Valník⭐ODPOČET DPH⭐
+695;Iveco Daily 35S11,78KW, Mraziarenská nadstavba⭐ODPOČET DPH⭐
+696;Iveco Daily 35S11 2,3L 78KW⭐ODPOČET DPH⭐
+697;VOLKSWAGEN CADDY 1,9TDi LIFE 77KW BEZ DPF
+698;Iveco Daily 35S11 2,3L 78KW⭐3ST.SKLÁPAČ⭐ODPOČET DPH⭐
+699;Ford Transit Custom 2.0 TDCi EcoBlue 130 Ambiente L1H1 T340
+700;BMW 530d Touring-xDrive-V6-195kw-2018-118tis.km-Odpočet DPH
+701;BMW 530d Touring-xDrive-V6-195kw-2018-118tis.km-Odpočet DPH
+702;Ford Kuga 2.5 Duratec,Plug-In HYBRID Titanium X,CVT,112KW,A1
+703;Ford Kuga 2.0 TDCi Duratorq Titanium 4X4 AUTOMAT
+704;Volkswagen polo 1.2i
+705;Fiat Scudo 2.0 16V L2H1⭐MOŽNÝ ODPOČET DPH⭐ZÁRUKA 3 ROKY⭐
+706;Fiat Dobló Cargo 1.6 MultiJet L2 SX MAXI⭐ODPOČET DPH⭐
+707;Fiat Dobló Cargo 1.6 MultiJet L2⭐ODPOČET DPH⭐
+708;Fiat Dobló Cargo 1.6 MultiJet L2H2 Base⭐ODPOČET DPH⭐
+709;Fiat 500L 1.3 16V MultiJet Plus
+710;Fiat 500 1.2 Sport
+711;Citroën Berlingo 1.6 HDi 90k L1 Confort⭐Odpočet DPH⭐
+712;Audi SQ7 4.0 TDI QUATRO 565PS ABT POWER R⭐ODPOČET DPH⭐
+713;Audi A6 Avant 3.0 TDI DPF 272k quattro S tronic⭐ODPOČET DPH⭐
+714;Mercedes GLS 350d 4MATIC
+715;Chevrolet Aveo T250 1.2 S-Tec 53 kW ❗LEN 61 TIS. KM❗
+716;Mercedes Benz Sprinter 319cdi 3.0 V6 140kw 10pal
+717;Škoda Octavia Combi 2020 2.0 TDI 110kW DSG - Odpočet DPH
+718;Seat Ateca 2017 2.0 TDI 140kW DSG Xcellence 4x4
+719;BMW Rad 2 Active Tourer 218i 103kW 2018
+720;Volkswagen Golf Variant 2.0 TDI 110kW - Možný odpočet DPH
+721;Seat Ateca 2017 2.0 TDI 140kW DSG Xcellence 4x4
+722;BMW Rad 2 Active Tourer 218i 103kW 2018
+723;Volkswagen Golf Variant 2.0 TDI 110kW - Možný odpočet DPH
+724;Volkswagen Tiguan 2021 2.0 TDI 110kW DSG - Možný odpočet DPH
+725;MERCEDES GLE 350d 4 MATIC AMG
+726;Rozpredám volkswagen passat b7 combi 2,0 tdi 103 kw
+727;✅️VW ID.3 Performance Pro 1st Edition,62kWh,150KW,Kamera✅️
+728;IVECO DAILY 3.0 130KW ODŤAHOVÝ ŠPECIÁL ŤAŽNÉ WEBASTO NAVIJÁK
+729;VOLKSWAGEN PASSAT VARIANT B7 2.0TDI 103kw/140PS 05/2013
+730;VW CADDY MAXI 1.9 TDI, NAVI, ELEKTRÓNY R16,ŤAŽNÉ, 7 SEDADIEL
+731;Audi A6 C8 3.0TDi Sline Quattro r.v 2020 - Odpočet DPH -
+732;Audi SQ5 3.0 TDI Quattro, 2020
+733;Kia Magentis 2,7 V6
+734;Iveco Euro Cargo Hydraulická Ruka
+735;SEAT LEON ST, 2.0 TSI, CUPRA 300 PS ,MANUÁL, 114 177 KM
+736;Škoda Karoq 2.0 TDI Style DSG
+737;VW GOLF 7 VARIANT ALLTRACK 4x4 2.0TDi 184PS DSG ACC LED
+738;Predám Mitsubishi Pajero 1 2.5 TD
+739;2018 ŠKODA OCTAVIA 3 RS – 2.0TDi 184PS – FULL LED
+740;Lexus RX450h Znizena cena o2tis.€
+741;2018 ŠKODA OCTAVIA 3 RS – 2.0TDi 184PS – FULL LED
+742;Lexus RX450h Znizena cena o2tis.€
+743;Subaru XV 2.0i, Exclusive, 110kw., 4x4, Xenon, Tažné, Manuál
+744;VW Golf VII / 7 Sportsvan 1.6 TDI, 81kw., 2017, Navi, Tažné.
+745;VW ID.3 PERFORMANCE WEBASTO KLIMA FULL LED - ELEKTRO
+746;VW ID.4 PERFORMANCE WEBASTO 30.500km 
+747;VW T6 MULTIVAN LONG 2.0TDi  BILSTEIN VESTAVBA - TOP
+748;VW T6 MULTIVAN LONG 2.0TDi DSG FULL-LED 2xWEBASTO 
+749;Škoda Octavia 2 RS combi 2.0 TDI 2011
+750;Volkswagen Touareg 3.0 V6 TDI DPF Tiptronic  RV.2007
+751;MINI COOPER S – 1.6 SuperCharger – AIRRIDE D2 - CUSTOM
+752;MINI COUNTRYMAN JCW – WORKS – 1.6Turbo - 218PS – 4x4
+753;ŠKODA Octavia 1,6 TDI DSG, 81 kW, nadštandardná výbava
+754;Mitsubushi Outlander 4x4 Benzín 148kw
+755;Ford Focus 1.6 benzin
+756;Škoda Superb Combi 2.0 TDI  L&K 4x4 DSG VIRTUAL MATRIX
+757;Škoda superb 3 2.0tdi DSG po servise
+758;Volkswagen Multivan 2.0 TDI Startline-75kW-r.v2011-236000km
+759;Ranger 2.2 TDCi 4x4 DoubleCab XLT-110kW-r.v12/2015
+760;ŠKODA KODIAQ SPORTLINE 4x4 2.0 TDI
+761;DSG 4x4 6st. Superb 2 PQS
+762;Škoda Octavia 3 Facelift 2.0 TDI DSG//ROK 2018//ŤAŽNÉ //
+764;Predam Honda 2.2i 110kw Automat
+765;BMW X1 2.0d x-drive 4x4 165 tkm.
+766;PORSCHE PANAMERA 4 -FACELIFT-4X4-MOZNA VYMENA
+767;Škoda Kodiaq 2.0 TDI 190k Sportline DSG 4×4 – 7 miestne Virt
+768;Nissan Navara 2.5td
+769;Škoda Rapid 1.2 TSi, 81kw/110k, Style, Plná výbava, Nebúrané
+770;Škoda Fabia Combi 1.4 16v 59kw 99000km
+771;Disky pre SUV - Touareg, Multivan, Transporter, Q7, Macan
+772;ŠKODA OCTAVIA COMBI 1,6TDi 66kw AMBITION
+773;Škoda Octavia RS 2.0TDI 125KW
+774;Audi A7 Sportback 55 3.0 TFSI mHEV quattro S tronic
+775;I30
+776;Volvo XC 60 T8 plug in hybrid 235 kW
+777;Audi A6 Avant Sport 35TDI
+778;Suzuki Vitara 1.6i 2017 88kw PLNE POJAZDNÉ
+779;Volkswagen ID.4 GTX 77kWh 4Motion za 38.900 € s DPH
+780;Škoda Octavia Combi 2.0 TDI Drive DSG
+781;Volkswagen ID.4 GTX 77kWh 4Motion za 38.900 € s DPH
+782;Škoda Octavia Combi 2.0 TDI Drive DSG
+783;SKODA FABIA II,  1,2 HTP Benzin,   klimatizácia,  147.800km
+784;Skoda superb 3 , 2.0 tdi 140kw
+785;predám seat Alhambra 4x4 Stylance
+786;Volkswagen Passat Alltrack 2.0TDI 140kW DSG6 4Motion 03/2016
+787;prenájom 9 miestne vozidlo
+788;KIA CEED 1.6 CRDI VISION / MOŽNÝ ODPOČET DPH
+789;ŠKODA KODIAQ 2.0 TDI SCR L&K DSG/ MOŽNÝ ODPOČET DPH
+790;Toyota C-HR 1.8 Hybrid Active Seat E-CVT FWD 2018
+791;Volkswagen Touran Match 1.6TDI LED/Xenon/2012
+792;Predám BMW  rad5 535d F11 X-Drive TOP STAV
+793;Volkswagen Arteon 2.0 TDI SCR BMT 190k R-Line DSG
+794;Hyundai i20 1.2 benzin — 1 majitel - 96 tis km - Kupene v SR
+795;⏩ Volkswagen Golf Variant 1.6 TDI BMT 115k Edition Trendline
+796;Mercedes G 350 GD Turbo
+797;BMW 520d Touring G31 M-Packet, Led ❗️76.000KM❗️
+798;Škoda Fabia Combi Scout II - 1.6i 16v 77Kw 105Ps Webasto
+799;Ioniq 5 . Virtual Co., Full LED,
+800;Volkswagen passat 1.9 tdi 96kw,nova stk
+801;Citroen C4, rv 2009, kúpené SR
+802;FIAT 500L Living
+803;Opel Vivaro 1.9dci ●nová stk/ek●3 miestna verzia●
+804;Audi a3 Sportback 1.9 TDI DSG Facelift
+805;Audi Q3 1.4 TFSI S tronic Sport SK 1 majiteľ  odpočet DPH
+806;Vstrekovacie trysky volkswagen group 2,0 tdi 103 kw
+807;Škoda Superb 2 Combi Elegance DSG 2013
+808;Zimny set pre BMW 3 (G20)
+809;Lakovacia kabína USI s komplet dokumentáciou a povoleniami
+810;SEAT ATECA XCELLENCE 2.0TDi dsg ACC/ŤAŽNÉ/KESSY/MŔTVY/BEATS
+811;VOLKSWAGEN GOLF 7 VARIANT 1.6 TDI 77KW
+812;VOLKSWAGEN GOLF 6 VARIANT MACH 1.2 TSI 77KW
+813;Predám Mitsubishi pajero 3.2
+814;Mercedes Benz trieda A 180d A/T TOP stav
+815;Volkswagen Touran 2.0 TDi  - Comfortline - Odpočet DPH
+816;Volkswagen Passat Variant  2.0 TDi DSG- 2021 - Odpočet DPH
+817;Volkswagen Sharan
+818;Mini Cooper Countryman S ALL4 JCW A/T
+819;ŠKODA YETI, 1,2 TSI, BENZÍN, MANUÁL, 11/2010, 196 131KM
+820;Mercedes GLS volant
+821;Predám Audi A3 1,6TDI automat r.v.2018
+822;Volkswagen transporter t4
+824;AUDI A6 C6 SEDAN 3.0 TDI QUATTRO 4x4 +SLINE
+825;Predam zatazove disky volkswan Group5x112 R16 C a zimne gumy
+826;Mercedes-Benz ML
+827;Škoda Karoq 1.5 TSI ACT Ambition DSG
+828;Pneumatiky zimné na ALU diskoch R17, 225-60, 103V
+829;BMW 5 520d xDrive A/T M-Packet
+830;Volkswagen Golf 2.0 TDI BMT 150k Highline
+831;Škoda Kodiaq 2020 STYLE 105 tisíc km 2.0tdi DSG 1.majiteľ
+832;Škoda Superb Combi 2.0 TDI DSG
+833;Škoda Octavia Combi 1.6 TDI CR
+834;Skoda Octavia 2.0 TDI Elegance 4x4
+835;Audi A4 40 2.0 TDI Advanced S tronic, 140kw A7, kúp. v SR
+836;Škoda Superb 2.0 TDI Elegance ❗NOVÁ STK❗BEZ HRDZE
+837;BMW 520d xDrive-140KW-rv:1.12.2016-Panorama-Webasto-Tažne
+838;Volkswagen Crafter valnik 120kw diesel
+839;Volkswagen Passat R-Line 2.0TDI 110kw
+840;AUDI A4 AVANT 2020 35TDI M-HEV S-tronic, FULL Servis AUDI
+841;AUDI A4 AVANT 2020 35TDI M-HEV S-tronic, FULL Servis AUDI
+842;Nova cena Mitsubishi Lancer sedan 1.6 mivec 2018
+843;Dovoz GB Skoda Octavia 1.6 TDI CR
+844;MERCEDES BENZ V 250 D 4matic 9g Exclusive AMG / odp.DPH ✅️
+846;Cupra Formentor VZ5 Matt Blau, Carbon CUP, PPFfolia, DPH
+847;Predam Ford Mondeo
+848;Audi a4 allroad 2.0tdi 130kw automat
+849;Mercedes Benz GLK 220cdi 125kw 4matic r.2015
+850;Roomster 1.2TSI Ambition-63kW-r.v 2012
+852;Dsg 7 DQ381 SWV TDJ UAX USA UEN
+853;Volkswagen 6 Golf Plus 1.4 TSI Benzín DSG HIGHLINE
+854;SUZUKI JIMNY 2009 BENZIN 4X4 + REDUKCIA
+855;Audi A6 3.0 BiTDI-3x S line
+856;Audi A4 B8.5 Facelift 3.0TDI 180kw diesel 4x4 quattro čiern
+857;Skoda SuperB2 2.0 tdi 125kw 2012 automatická prevodovka
+858;Mazda Päťka 2.0Di 2010
+859;Toyota RAV4 4x4 Benzín Automat
+860;Škoda Rapid 1.0 tsi
+861;Škoda Rapid 1.0 tsi
+863;Motor 2,0 tdi 110 kW Ckf volkswagen group
+864;Volkswagen Passat B8.5 R-LINE Combi 2.0 TDI 147kw DSG
+865;Škoda Kodiaq L&K 2.0 TDI 147kw 4x4 DSG
+867;Predam dodavku fiat Ducato
+868;Subaru Forester
+869;Volkswagen T-Roc 1.0 TSI
+870;TATRA PHOENIX 8x8 a 8x6 530 Hp AUT S3 VS-mont
+872;Citroën C1 1.0i Plus
+874;Audi Q7
+875;X1
+876;Škoda Octavia II combi 1.6TDI 4x4 CR 77kw Facelift
+877;škoda octavia 4x4 Kombi Elegance 2014
+878;Škoda octavia Combi 1.9 TDI 77 KW  BEZ-DPF
+879;Volkswagen Arteon Shootingbrake R-line 2.0tdi 147kw DSG 1maj
+880;Audi A3 Sportback 35 TDI 2.0 TDI 110 kw S tronic 2021
+881;Škoda superb 3 1.6 TDI DSG
+882;Volkswagen Golf Alltrack 4X4
+883;Mercedes-Benz E200 CDI W212 facelift 2014 216000km
+884;Suzuki Grand Vitara 1.6 benzin 4x4 bez korozie
+885;Audi A5 3.0TDI quattro S-line
+886;4x4 benzín Suzuki Jimny 2010
+887;Toyota Proace 2.0 D-4D 180 Comfort L1 Extra A/T
+888;Predám letné pneumatiky 205/55/R16
+889;XC60  T5  R-Design
+890;Peugeot 301 2021 (31000KM)
+891;Predám: Ford Transit Custom 2.0
+892;Toyota avensis t25 2.0d
+893;Seat Leon ST FR 1.4TSi, 110kw., 2016, FULL LED, ACC, Servis.
+894;MAN TGS 33.480 (6x6), trojstranný sklápač
+895;Fiat 500 1.2 Benzin Lift 2016
+896;Suzuki vitara 1.6 JLX 16v..benzín bez hrdze ťažné top stav
+897;Škoda Superb combi 2,DSG 125kw, 11/2013
+898;RENAULT TRAFIC L1H1 1.6 Dci 88kw
+899;Škoda Fabia 3 Monte Carlo, 1.2 TSI, 81kw/110k, 47000km, SR
+900;Volkswagen Touran...TDi...7miestne... Top stav ...
+901;Opel Meriva 1.4 16V Essentia
+902;Peugeot 407 coupe 2.0 HDI
+903;Škoda Octavia Combi Scout 2.0 TDI 4x4 Xenon Alcantara
+904;Fiat Ducato L2H2 2017
+905;❇️ TOYOTA PROACE VERSO 2.0 D-4D 130KW 2020 A8•7 MIESTNE
+906;MAN TGS 26.440 (6x2), hákový nosič HYVA
+907;BMW rad 3 Touring 318d Touring A/T INDIVIDUAL
+908;BMW  530e iPerformance A/T .KOŽA.SER.KNIŽKA.PLUG -IN HYBRID
+909;Audi a4 2.0 TDi 110kw
+910;Subaru Forester 2.0 Comfort (SK vozidlo)
+911;Škoda Fabia 1.0 TSI 110k Monte Carlo
+913;Mercedes-Benz V trieda V250 d lang Avantgarde 4MATIC A/T
+914;Audi elektróny R19
+915;BMW 840d xDrive Gran Coupe - mod. 2021 - Odpočet DPH
+916;Volkswagen Passat Variant B8 2.0 TDI R-Line 4MOTION DSG
+917;Volkswagen Tiguan 2.0 TDi 4x4 M6 - KESSY - WEBASTO (573381)
+918;Ford Kuga 2.0 TDCi EcoBlue 190k ST-Line  A/T AWD
+919;Volkswagen Tiguan 2.0 TDi - 4x4 - M6 - SPORT - NAVI (508699)
+920;BMW X1 23d xDrive AT Sportpaket - Po servise
+921;Škoda Octavia Combi 1.6 TDI, DSG, 2019
+923;Predám Mini Cooper S
+924;Volkswagen Passat Variant 2.0 TDI EVO EXECUTIVE DSG
+925;SEAT TARRACO 4 DRIVE  EXCELLENCE  2.0  140KW REZERVOVANE 
+926;Rozpredám škoda octavia 2 combi
+927;Škoda Superb lift 2,0tdi DSG Panoráma
+928;Volkswagen Passat Highline 2.0tdi DSG
+929;Vw Passat 2,0 DSG ACC, Lane assist,Značky,Mrtvy uhol,Matrix
+932;VW PASSAT VARIANT 2.0 TDI
+933;Mitsubishi Outlander 2.2 Di-D Intense+ 4WD / 7-miestne
+934;ŠKODA OCTAVIA 1,9 TDI 4x4
+935;Vw Tiguan tsi 4x4 NAVI
+937;Mazda 6 2.5 141kw Sports Line
+938;BMW 520d Touring G31
+939;Volkswagen Passat B8.5  Combi 2.0 TDI 140kw DSG, 97500 KM
+940;Bmw 7 G11 740d xDrive Facelift model 2020 Exclusive
+941;podvozok KW Variant 3 - Audi A1, Polo, Ibiza, Fabia
+942;Opel INSIGNIA
+943;Suzuki Swift
+944;Bmw 520d touring F11 2015
+945;Volkswagen Transporter T4 Long TDI 65kw 2000
+946;Octavia RS nové zimné pneu/stk,ek/vyservisované
+947;ŠKODA CITIGO 1.0 MPI 44KW ABIENTE
+948;BMW rad 3GT F34  320d M - Sport A/T PERFORMANCE KIT X-DRIVE
+949;CHEVROLET CAMARO_2018_KESSY_CarPLAY
+951;Mercedes Benz ML 270 CDI w163 AT 4x4  // BEZ KOROZIE //
+952;zimna sada 215 60 R16 ET 41 plechace
+953;VOLKSWAGEN CADDY 1.6 TDI 75KW EDITION 30 2014
+954;Škoda Superb Sportline 2.0tdi BLACK
+956;Mitsubishi Pagero 3,2DI-D
+958;Škoda Kodiaq RS 2.0 TDI 4x4 DSG 176kw  CANTON VIRTUAL 360°
+959;Land Rover Discovery HSE 3.0 Diesel 4x4, sedemmiestne
+960;Audi A4 B9 Avant 2.0TDI, 110KW, 7-stupňový automat
+961;Espace 5 2015
+962;Vw golf 6 1.4tsi Dsg Highline
+963;Predám náhradné diely na Škoda Octavia II 2 predfacelift
+964;Predám bmw X3 e83 3.0SD 210kw
+965;Predám BMW 640d Grand Coupe
+966;Škoda fabia combi 1.6 tdi 66kw rok 2011
+967;Golfové autíčko EZGO RXW
+968;Audi a5 sportback s line
+970;Škoda Superb sportline 2.0TDI 140kw 4x4 -- REZERVEEE-----
+971;LMC Munsterland
+972;Suzuki Jimny 1.3 JLX
+973;FIAT DUCATO 2,3MultiJet 96kW,r.v11/2014, 140.077km,SK TP,ŠPZ
+974;Honda CR-V 2.2 i-DTEC Executive Automat 4x4
+975;Mercedes E Trieda 200 A/T
+976;Mercedes Benz S 450 Long verzia 4Matic + odpočet DPH
+977;5x112 r17 Audi original.
+978;Mitsubishi L200 2.5 DI-D 4X4 SUPER SELECT UZÁVIERKA
+979;BMW RAD 3 TOURING 320D MHEV XDRIVE A/T / MOŽNÝ ODPOČET DPH
+980;Toyota Landcruiser 3.0 TD UZÁVIERKA LIMITED EDITION
+981;Mitsubishi L200 2.5 DI-D 4X4 SUPER SELECT UZÁVIERKA
+982;BMW RAD 3 TOURING 320D MHEV XDRIVE A/T / MOŽNÝ ODPOČET DPH
+984;KIA CEED 1.0 T-GDI SILVER/ MOŽNÝ ODPOČET DPH
+985;Renault Trafic1 .6dci 107 kw super stav odpis DPH
+986;Audi A4 B6 Avant 1.9 TDI, 96 kW, r. v. 2001
+987;✅ 2014 BMW 525d xDrive lci Mpacket, nové v SR
+989;❇️ AUDI A6 ALLROAD 3.0 TDI V6 QUATTRO 235 KW A8•2017•MATRIX
+990;ŠKODA RAPID 1.6 TDI 77Kw GREENLINE
+991;BMW X3 2.0d automat
+992;ŠKODA KODIAQ 2.0 TDI SCR EVO STYLE DSG 4X4/MOŽNÝ ODPOČET DPH
+993;Predám škoda superb 2
+994;PREDAM ALU disky + zimne pneu na Mazda CX 5
+995;KIA Cee’d 1.4 CRDi WGT Silver
+996;✅️ŠKODA KODIAQ RS 176KW 4x4, 2021,CANTON,DCC,360°,KAMERY✅️
+997;Hyundai Getz
+998;Tatra 815 Mix r.v.1987
+999;Motor Tatra 813 (12-ti válec)
+1000;Motor Tatra 815 (8-mi válec) T1
+1001;Motor Tatra 815 EURO II
+1002;Škoda Superb Premium facelift 2021 Webasto
+1003;Volkswagen Tiguan 2021 Highline

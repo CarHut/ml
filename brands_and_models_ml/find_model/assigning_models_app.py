@@ -20,6 +20,14 @@ header_ids = []
 header_label = tk.Label(window, text=f'[{current_header_count}]: {''}', font=('Arial', 25))
 brand_and_model_box = tk.Text(window, height=5, width=40)
 
+def sort_headers_by_ids_asc():
+    header_ids.sort()
+    conn = connect_to_postgresql()
+    cur = conn.cursor()
+    for _id in header_ids:
+        cur.execute(f'SELECT * FROM bazos_data_scraping WHERE id = {_id} LIMIT 1')
+        headers.append(cur.fetchone()[1])
+
 def connect_to_postgresql():
     connection = psycopg2.connect(
         database='postgres', user='postgres', password='janik', host='localhost', port='5432'
@@ -38,22 +46,21 @@ def update_header():
 
 def add_labels(brand_and_model):
     brand_and_model = brand_and_model.replace("\n", "").replace("\r", "")
-    with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_assigned_headers.txt', 'a', encoding="utf-8") as the_file:
+    with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\bazos_assigned_headers.txt', 'a', encoding="utf-8") as the_file:
         the_file.write(f'{header_ids[current_header_count]};{headers[current_header_count]}\n')
 
-    with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_assigned_labels.txt', 'a', encoding="utf-8") as the_file:
+    with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\bazos_assigned_labels.txt', 'a', encoding="utf-8") as the_file:
         the_file.write(f'{brand_and_model}\n')
 
     print(f'{headers[current_header_count]}: {brand_and_model}')
 
 def set_headers():
-    cursor = connect_to_postgresql().cursor()
-    cursor.execute('SELECT * FROM autobazar_eu_pupp')
     global headers
     global header_ids
-    headers = [row[1] for row in cursor.fetchall()]
-    cursor.execute('SELECT * FROM autobazar_eu_pupp')
+    cursor = connect_to_postgresql().cursor()
+    cursor.execute('SELECT * FROM bazos_data_scraping')
     header_ids = [row[0] for row in cursor.fetchall()]
+    sort_headers_by_ids_asc()
 
 def predict_brand_and_model(header):
     global next_prediction
@@ -67,7 +74,7 @@ def init():
     global headers
     global header_ids
     try:
-        with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_assigned_headers.txt', 'r') as f:
+        with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\bazos_assigned_headers.txt', 'r', encoding="utf-8") as f:
             last_line = f.readlines()[-1]
         file_last_id = last_line.split(";")[0]
         index_of_id = header_ids.index(int(file_last_id))

@@ -11,6 +11,7 @@ import InteractionsWithBazos from './interactions/user-bot-interactions-with-baz
 
 // Scraper
 import BazosScraper from './bazos-scraper/bazos-scraper.js';
+import PgConnection from './postgres-util/pg-util.js';
 
 const pageUrl = 'https://bazos.sk/'
 const dummyUrl = 'https://bot.sannysoft.com/'
@@ -44,9 +45,18 @@ async function closeTabs(browser) {
     }
 }
 
+async function getIdFromPg() {
+    const pg = new PgConnection();
+    const id = await pg.getLastModelId();
+    console.log(id);
+    return id;
+}
+
 async function interactAndScrapeAutoBazos(page, startPage, endPage, interactor) {
     const scraper = new BazosScraper(page, startPage, endPage, interactor);
-    await scraper.startScraping(3320);
+    let id = await getIdFromPg();
+    id = parseInt(id);
+    await scraper.startScraping(id + 1);
 }
 
 const main = async () => {

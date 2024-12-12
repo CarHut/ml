@@ -25,6 +25,21 @@ class PgConnection {
         }
     }
 
+    async getLastModelId() {
+        try {
+            const pool = new Pool(dbConfig);
+            const client = await pool.connect();
+            try {
+                const result = await client.query('SELECT MAX(id) AS max_id FROM bazos_data_scraping;');
+                return result.rows[0]?.max_id || null;
+            } finally {
+                client.release(); 
+            }
+        } catch (err) {
+            console.error('Error connecting to the database:', err.stack);
+            return null;
+        }
+    }
     async getUncheckedLinks(links) {
         const pool = new Pool(dbConfig);
         const uncheckedLinks = [];

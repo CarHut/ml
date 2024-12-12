@@ -46,7 +46,7 @@ async function closeTabs(browser) {
 
 async function interactAndScrapeAutobazarEu(page, startPage, endPage, interactor, browser) {
     const scraper = new AutobazarEuScraper(page, startPage, endPage, interactor, browser);
-    await scraper.startScraping(533);
+    await scraper.startScraping(606);
 }
 
 const main = async () => {
@@ -75,7 +75,7 @@ const main = async () => {
     await delay(10000);
     await page.goto(pageUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
     const interactionsWithAutobazarEu = new InteractionsWithAutobazarEu(page);
-    await interactAndScrapeAutobazarEu(page, 1, 17, interactionsWithAutobazarEu, browser);
+    await interactAndScrapeAutobazarEu(page, 1, 18, interactionsWithAutobazarEu, browser);
     await delay(60000);
     await browser.close();
 };

@@ -603,3 +603,17 @@
 603;Mercedes-Benz C trieda Kombi
 604;Mercedes-Benz C trieda Kombi 200 d A/T
 605;Mercedes-Benz C trieda Kombi 300 CDI BlueEFFICIENCY Avantgarde 4matic A/T
+606;Audi A4 Allroad 40 2.0 TDI mHEV Quattro S-tronic, 360 kamera, Ťažné, LED, KeylessGO, Virtual
+607;Audi A4 Avant 40 2.0 TDI quattro S tronic
+608;Audi A3 Sportback 30TFSI 6M
+609;Audi A4 Avant 35 2.0 TFSI Sport, FULL LED, El.Kufor, Kamera, Tempomat, Ťažné, KLIMA
+610;Audi A3 Sportback 35 2.0 TDI Basis S tronic
+611;Audi A4 Avant 2.0 TDI CR Manager Multitronic
+612;Audi A3 Hatchback 90kw Automat
+613;Audi A4 Avant 2.0 TDI 105 kw Panorama KEYLESS
+614;Audi A4 2.0 TDI 190k Sport quattro S tronic
+615;Audi A4 Avant 2.0 TDI 150k SportPacket+
+616;Audi A4 40 2.0 TDI mHEV S line S tronic
+617;Audi A4 Avant B7 171kw Automat
+618;Audi A3 Sedan 1.6 TDI 116k Basis S tronic
+619;Audi A4 Avant 40 2.0 TDI A4 quattro S tronic
