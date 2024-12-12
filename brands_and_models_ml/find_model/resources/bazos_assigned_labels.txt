@@ -978,3 +978,518 @@ Brand was not found None
 Brand was not found None
 Škoda Superb
 Volkswagen Tiguan
+Volkswagen Arteon
+BMW 320
+Škoda Superb
+Škoda Octavia
+Škoda Superb
+Škoda Kodiaq
+Mazda CX-3
+Volkswagen Arteon
+Volvo None
+MINI Cooper Clubman
+Volkswagen Crafter
+Volvo V60
+Škoda Superb
+BMW 325
+Volvo XC60
+Peugeot Expert
+Škoda Superb
+Volkswagen Golf
+Brand was not found None
+Škoda Octavia
+Mercedes-Benz C 43
+Škoda Superb
+Audi A3
+BMW 330
+Škoda Superb
+Seat Ibiza
+Audi RSQ3
+Mercedes-Benz GLC 220
+BMW 530
+Škoda Superb
+Ford S-Max
+Audi A3
+BMW X5
+BMW None
+Opel Frontera
+Škoda Superb
+Mercedes-Benz Citan
+Škoda Superb
+Peugeot Boxer
+Peugeot Boxer
+Peugeot 308
+Land Rover Range Rover
+Renault Kangoo
+Audi A5
+Škoda Fabia
+Peugeot Boxer
+Škoda Kodiaq
+Land Rover Discovery
+Volkswagen Golf
+Škoda Octavia
+BMW X3
+BMW 640
+Brand was not found None
+Dacia Dokker
+Audi A5
+Volkswagen Arteon
+Škoda Superb
+Brand was not found None
+Fiat Ducato
+Honda CR-V
+Mercedes-Benz E 200
+Honda CR-V
+Mercedes-Benz E 200
+Mercedes-Benz S 450
+Audi None
+Mitsubishi L200
+BMW 320
+Toyota Landcruiser
+Kia ceed
+Audi A4
+Volkswagen Passat
+Audi A6
+Škoda Rapid
+BMW X3
+Škoda Kodiaq
+Škoda Superb
+Brand was not found None
+Kia ceed
+Škoda Kodiaq
+Hyundai Getz
+Škoda Superb
+Volkswagen Tiguan
+BMW 320
+Škoda Superb
+Škoda Octavia
+Škoda Superb
+Škoda Kodiaq
+Mazda CX-3
+Volkswagen Arteon
+MINI Cooper Clubman
+Volkswagen Crafter
+Volvo V60
+BMW 325
+Volvo XC60
+Peugeot Expert
+Škoda Superb
+Brand was not found None
+Brand was not found None
+Škoda Octavia
+Mercedes-Benz C 43
+Škoda Superb
+Audi A3
+BMW 330
+Škoda Superb
+Seat Ibiza
+Audi RSQ3
+Mercedes-Benz GLC 220
+BMW 530
+Škoda Superb
+Ford S-Max
+BMW X5
+BMW None
+Škoda Superb
+Mercedes-Benz Citan
+Škoda Superb
+Peugeot Boxer
+Peugeot Boxer
+Peugeot 308
+Land Rover Range Rover
+Renault Kangoo
+Audi A5
+Škoda Fabia
+Nissan Juke
+BMW 640
+BMW 530
+Audi A6
+Ford Transit
+Škoda Superb
+Citroën Jumpy
+Volkswagen Crafter
+Fiat Panda
+Alfa Romeo 147
+Volkswagen Passat
+Mercedes-Benz S 63
+Škoda Octavia
+Škoda Octavia
+Ford Kuga
+Chevrolet Lacetti
+Audi Q2
+Citroën C5
+BMW X1
+Škoda Octavia
+Škoda Kodiaq
+Škoda Octavia
+Volkswagen T5 Transporter
+Ford Galaxy
+Škoda Superb
+Renault Trafic
+Brand was not found None
+Jeep Grand Cherokee
+Brand was not found None
+Škoda Fabia
+Škoda Scala
+Volkswagen Passat
+Citroën C3
+Citroën C3
+BMW 550
+Volkswagen Arteon
+Brand was not found None
+Volkswagen Tiguan
+Renault Trafic
+Peugeot 3008
+Opel Insignia
+Škoda Octavia
+Seat Leon
+Audi A5
+Škoda Superb
+Jeep Compass
+Suzuki SX4
+Volkswagen Tiguan
+Volkswagen None
+Mercedes-Benz None
+Peugeot 308
+Škoda Kodiaq
+Mercedes-Benz A 200
+Škoda Kodiaq
+Mercedes-Benz A 200
+BMW 525
+Brand was not found None
+Land Rover Range Rover
+Škoda Fabia
+Toyota Avensis
+Škoda Octavia
+Mercedes-Benz GLS 400
+Mercedes-Benz C 200
+Volkswagen Passat
+Audi A6
+Škoda Octavia
+Mercedes-Benz G 500
+Volkswagen Touareg
+Brand was not found None
+Volkswagen Passat
+Seat Ibiza
+Škoda Superb
+MAN None
+Iveco None
+Brand was not found None
+Opel Cascada
+Audi A4
+Volkswagen Passat
+Škoda Superb
+Ford Focus
+Volkswagen T6 Multivan
+Audi A6
+Škoda Octavia
+Škoda Karoq
+Volvo V40
+Seat Leon
+BMW X3
+Škoda Superb
+Mercedes-Benz GLC 300
+Hyundai i30
+Škoda Octavia
+Volkswagen Passat
+Toyota Yaris
+Toyota Yaris
+BMW 125
+Škoda Octavia
+BMW None
+BMW X6
+Škoda Fabia
+Škoda Octavia
+Seat Leon
+Škoda Octavia
+Volkswagen Passat
+Brand was not found None
+Ford Fiesta
+Volvo XC60
+Audi A4
+Kia pro ceed
+Audi A6
+BMW 428
+Volvo XC60
+Mercedes-Benz GLC 350
+Toyota Yaris
+Mercedes-Benz GLC 350
+Toyota Yaris
+Kia Sportage
+Mercedes-Benz A 180
+Nissan Terrano
+Audi A6
+Mercedes-Benz GLC 250
+Volkswagen Golf
+Opel Zafira
+Volkswagen Golf
+Volkswagen Passat
+Brand was not found None
+Škoda Octavia
+Mercedes-Benz GLE 350
+Citroën C8
+Škoda Octavia
+Škoda Superb
+BMW 730
+Toyota Auris
+Volvo V90
+Audi Q7
+Volkswagen Golf
+Škoda Octavia
+Volkswagen Passat
+Suzuki Grand Vitara
+Volkswagen Golf
+Škoda Karoq
+Mitsubishi Eclipse Cross
+Volkswagen Passat
+Škoda Octavia
+Volkswagen Golf
+Alfa Romeo Stelvio
+Kia Sorento
+Brand was not found None
+Škoda Octavia
+Suzuki Grand Vitara
+BMW 320
+Renault Trafic
+BMW X5
+Škoda Yeti
+Škoda Yeti
+Škoda Superb
+Škoda Superb
+Fiat Ducato
+Volkswagen Jetta
+Volkswagen Passat
+Brand was not found None
+Iveco None
+Ford Transit
+Peugeot 307
+Brand was not found None
+Škoda Karoq
+Seat Alhambra
+Fiat Ducato
+Brand was not found None
+Fiat Ducato
+Brand was not found None
+Fiat Ducato
+Iveco None
+Jeep Cherokee
+Iveco None
+Jeep Cherokee
+Peugeot Rifter
+Brand was not found None
+Fiat 500
+Suzuki Grand Vitara
+Renault Talisman
+Kia Sportage
+Kia Venga
+Ford Transit
+Škoda Kodiaq
+Škoda None
+Dodge RAM
+MAN None
+Nissan Juke
+Volkswagen Touran
+Opel Combo
+Škoda Kodiaq
+Kia Sportage
+Kia Sportage
+Škoda Octavia
+Brand was not found None
+Škoda None
+BMW None
+Opel Corsa
+Jeep Cherokee
+Renault Thalia
+Ford Focus
+Volkswagen Golf
+Kia ceed
+Volkswagen Passat
+Škoda Octavia
+Škoda Superb
+Ford Transit
+Kia ceed
+Volkswagen Passat
+Volkswagen Passat
+Ford Focus
+Kia Rio
+Ford Mondeo
+Brand was not found None
+Volkswagen Sharan
+Volkswagen Passat
+Opel Insignia
+Volkswagen Passat
+Volkswagen Tiguan
+Brand was not found None
+Brand was not found None
+Jeep Renegade
+Suzuki SX4
+Audi A6
+Fiat Ducato
+Volkswagen Touran
+BMW 318
+Brand was not found None
+Hyundai i30
+Brand was not found None
+Mercedes-Benz V 300
+BMW 420
+Seat Ateca
+Škoda Fabia
+Volkswagen Amarok
+Kia Sportage
+BMW X5
+Škoda Kodiaq
+Volkswagen Golf
+Seat Leon
+Audi A4
+Audi Q8
+BMW X6
+Volkswagen T-Roc
+Jeep Wrangler
+Brand was not found None
+Volkswagen None
+Brand was not found None
+Jeep Renegade
+Volkswagen Tiguan
+Brand was not found None
+Seat Leon
+Seat Leon
+Brand was not found None
+Renault Grand Scenic
+Peugeot 207
+MINI Cooper
+BMW 530
+BMW None
+Brand was not found None
+Volkswagen Touran
+Volvo S60
+Brand was not found None
+Volkswagen Golf
+Škoda Fabia
+Škoda Superb
+Volkswagen Golf
+Škoda Fabia
+Toyota Corolla
+Toyota RAV 4
+Volkswagen Passat
+Volkswagen Passat
+Škoda Fabia
+Toyota Corolla
+Toyota RAV 4
+Volkswagen Passat
+Volkswagen Passat
+Škoda Octavia
+Fiat Freemont
+Volkswagen Golf
+Seat Leon
+Opel Combo
+Renault Trafic
+Brand was not found None
+Brand was not found None
+Fiat Ducato
+Škoda Octavia
+Brand was not found None
+Brand was not found None
+Škoda Kodiaq
+Volkswagen Tiguan
+BMW 730
+Škoda Kodiaq
+Volkswagen Tiguan
+BMW 730
+Nissan None
+Jeep Grand Cherokee
+Renault Master
+Brand was not found None
+Suzuki SX4
+Volkswagen Golf
+Audi e-tron
+Kia XCeed
+Lada Niva
+Volkswagen Touareg
+Škoda Octavia
+Peugeot Boxer
+Škoda Superb
+Peugeot Rifter
+Audi A1
+Volkswagen Passat
+Audi A6
+Peugeot Rifter
+Audi A1
+Volkswagen Passat
+Audi A6
+Ford C-Max
+Škoda Kodiaq
+Škoda Kodiaq
+Volkswagen Passat
+Tesla Model 3
+Brand was not found None
+Škoda Superb
+Škoda Fabia
+Fiat Ducato
+Ford Fusion
+Volkswagen Golf
+Renault Clio
+Renault Clio
+Škoda Superb
+Audi A4
+Škoda Superb
+Volkswagen Sharan
+Volkswagen Touran
+Škoda Superb
+Volkswagen None
+Ford Transit
+Ford Fiesta
+BMW X6
+Škoda Octavia
+Brand was not found None
+Volkswagen Golf
+Renault Arkana
+Peugeot 508
+Škoda Superb
+Ford C-Max
+Škoda Octavia
+Audi A4
+Audi Q8
+Brand was not found None
+Brand was not found None
+Opel Astra
+Volkswagen Golf
+Renault Master
+Audi A3
+BMW X3
+Seat Leon
+Audi A5
+MAN None
+Mercedes-Benz GLC 300
+MAN None
+Peugeot 206
+Peugeot 301
+MAN None
+Volvo XC90
+BMW 530
+Škoda Octavia
+Audi A6
+Isuzu D-Max
+Škoda Roomster
+Isuzu D-Max
+Škoda Roomster
+BMW 525
+Volkswagen Golf
+Volkswagen Golf
+Brand was not found None
+Brand was not found None
+Mazda MX-5
+Seat Leon
+BMW 320
+MINI Cooper
+Škoda Enyaq
+Volkswagen Passat
+Škoda Kodiaq
+Škoda Superb
+Volkswagen Golf
+Škoda Octavia
+MAN None
+Brand was not found None
+Renault Master
+Škoda Octavia
+Brand was not found None
+Brand was not found None
