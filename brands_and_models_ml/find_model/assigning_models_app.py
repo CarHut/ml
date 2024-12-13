@@ -1,5 +1,4 @@
 import tkinter as tk
-from xml.etree.ElementTree import tostring
 
 import psycopg2
 import joblib

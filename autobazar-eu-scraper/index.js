@@ -11,6 +11,7 @@ import InteractionsWithAutobazarEu from './interactions/user-bot-interactions-wi
 
 // Scraper
 import AutobazarEuScraper from './scraper/autobazar-eu-scraper.js';
+import PgConnection from './postgres-util/pg-util.js';
 
 const pageUrl = 'https://autobazar.eu/'
 const dummyUrl = 'https://bot.sannysoft.com/'
@@ -46,7 +47,16 @@ async function closeTabs(browser) {
 
 async function interactAndScrapeAutobazarEu(page, startPage, endPage, interactor, browser) {
     const scraper = new AutobazarEuScraper(page, startPage, endPage, interactor, browser);
-    await scraper.startScraping(606);
+    let id = await new PgConnection().getLastModelId();
+    id = parseInt(id)
+    await scraper.startScraping(id + 1);
+}
+
+async function getIdFromPg() {
+    const pg = new PgConnection();
+    const id = await pg.getLastModelId();
+    console.log(id);
+    return id;
 }
 
 const main = async () => {
@@ -75,7 +85,7 @@ const main = async () => {
     await delay(10000);
     await page.goto(pageUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
     const interactionsWithAutobazarEu = new InteractionsWithAutobazarEu(page);
-    await interactAndScrapeAutobazarEu(page, 1, 18, interactionsWithAutobazarEu, browser);
+    await interactAndScrapeAutobazarEu(page, 1, 26, interactionsWithAutobazarEu, browser);
     await delay(60000);
     await browser.close();
 };

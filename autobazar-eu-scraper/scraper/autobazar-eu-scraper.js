@@ -457,32 +457,11 @@ class AutobazarEuScraper {
         await this.delay(Math.floor(Math.random() * (5000 - 2000) + 2000));
     }
 
-    async goToPage(pageNum, brand) {
+    async goToPage(pageNum) {
         try {
-            var brandName = null;
-            switch (brand) {
-                case 'Škoda':
-                    brandName = 'skoda';
-                    break;
-                case 'Volkswagen':
-                    brandName = 'volkswagen';
-                    break;
-                case 'BMW':
-                    brandName = 'bmw';
-                    break;
-                case 'Audi':
-                    brandName = 'audi';
-                    break;
-                case 'Mercedes-Benz':
-                    brandName = 'mercedes-benz';
-                    break;
-                default:
-                    brandName = 'none';
-                    break;
-            }
             await this.delay(Math.random() * (10000 - 3000) + 3000);
-            const pageATag = await this.page.$(`a[href$="&page=${pageNum}"]`);
-            console.log(`a[href$="&page=${pageNum}"]`);
+            const pageATag = await this.page.$(`a[href$="page=${pageNum}"]`);
+            console.log(`a[href$="page=${pageNum}"]`);
             await pageATag.click();
         } catch (error) {
             console.log(`Cannot go to the page: ${pageNum}`);
@@ -490,18 +469,18 @@ class AutobazarEuScraper {
     }
 
     async startScraping(startId) {
-        const carBrands = ['Škoda', 'Volkswagen', 'Mercedes-Benz', 'Audi', "BMW"];
-        const randCarBrandNum = Math.floor(Math.random() * 5);
+        // const carBrands = ['Škoda', 'Volkswagen', 'Mercedes-Benz', 'Audi', "BMW"];
+        // const randCarBrandNum = Math.floor(Math.random() * 5);
         await this.delay(20000);
         await this.acceptCookies();
         await this.delay(Math.floor(Math.random() * (6000 - 5000) + 5000));
-        const brand = carBrands[randCarBrandNum];
-        const wasBrandPicked = await this.pickCarBrandFromImages(brand);
-        if (wasBrandPicked === true) {
-            console.log('Brand was not found. Aborting scraping...');
-            return;
-        }
-        await this.confirmBrandSelection();
+        // const brand = carBrands[randCarBrandNum];
+        // const wasBrandPicked = await this.pickCarBrandFromImages(brand);
+        // if (wasBrandPicked === true) {
+        //     console.log('Brand was not found. Aborting scraping...');
+        //     return;
+        // }
+        // await this.confirmBrandSelection();
         await this.delay(Math.floor(Math.random() * 20000));
         await this.goToCarOffers();
         var currentId = startId;
@@ -510,7 +489,7 @@ class AutobazarEuScraper {
             const links = await this.getLinksToTraverse();
             const uncheckedLinks = await this.getUncheckedLinks(links);
             const buffer = await this.traverseSomeLinks(uncheckedLinks, currentId);
-            await this.goToPage(i, brand);
+            await this.goToPage(i);
             currentId = currentId + buffer;
         }
     }
