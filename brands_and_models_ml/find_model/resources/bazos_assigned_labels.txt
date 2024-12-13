@@ -3169,3 +3169,26 @@ Volkswagen Tiguan
 Škoda Octavia
 Iveco None
 Tesla Model 3
+Škoda Octavia
+Mercedes-Benz A 200
+Škoda Kodiaq
+Mercedes-Benz None
+Škoda Roomster
+Volkswagen up!
+Kia Sorento
+Škoda Kodiaq
+Škoda Superb
+Seat Arona
+Citroën C-Elysee
+Volkswagen Tiguan
+Volkswagen Golf
+Škoda Octavia
+Renault Koleos
+Škoda Superb
+MAN None
+Mercedes-Benz None
+Ford Focus
+Škoda Kodiaq
+Škoda Fabia
+Volkswagen Passat
+Ford Ranger

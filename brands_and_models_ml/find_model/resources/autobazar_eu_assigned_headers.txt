@@ -617,3 +617,362 @@
 617;Audi A4 Avant B7 171kw Automat
 618;Audi A3 Sedan 1.6 TDI 116k Basis S tronic
 619;Audi A4 Avant 40 2.0 TDI A4 quattro S tronic
+620;Audi A7 Sportback 3.0 TDI quattro 320k tiptronic
+621;Audi A4 Allroad 40 2.0 TDI mHEV quattro S tronic
+622;Audi A7 Sportback competition 3.0 TDI quattro 326k tiptron
+623;Audi A7 Sportback competition 3.0 TDI quattro 326k tiptronic
+624;Audi A4 Avant 2.0 TDI Sport S tronic
+625;Audi A4 Avant 40 2.0 TDI Advanced S tronic
+626;BMW i3 i3s 125 Ah
+627;BMW rad 2 Active Tourer 225xe iPerformance Sport Line A/T
+628;BMW X3 sDrive18d Advantage
+629;Škoda Superb Combi L&K 2.0 TDI
+630;Škoda Octavia COMBI AMBITION 2.0 TDI
+631;Škoda Kodiaq Style 4x4 2.0 TDI
+632;Škoda Octavia Combi Combi Ambition 2.0 TDI
+633;Škoda Octavia RS 2.0 TSI
+634;Škoda Octavia Combi Style 4x4 2.0 TDI
+635;Škoda Octavia COMBI AMBITION 2.0 TDI
+636;Škoda Superb Style 2.0 TDI
+637;Volvo XC60 B4 AWD Inscription
+638;Land Rover Range Rover Sport 3.0 SDV6 DYNAMIC
+639;Volvo V90 D3 2.0L Momentum Pro A/T
+640;Škoda Kodiaq Sportline 4x4 2.0 TDI
+641;Škoda Superb Style 2.0 TDI
+642;Škoda Octavia Combi Style 2.0 TDI
+643;Škoda Octavia COMBI AMBITION 1.5 TSI
+644;Škoda Kodiaq 2.0 TDI SCR EVO Sportline 4x4 DSG
+645;Volkswagen Golf Variant 2.0 TDI BMT Highline DSG EU6
+646;Dacia Sandero 1,0 TCe LPG 1.majiteľ, servisná historia
+647;Škoda Kodiaq Style 2.0 TDI
+648;Škoda Kodiaq L&K 2.0 TDI
+649;Volvo XC40 B5(P) 250PS AT8 AWD Momentum Advanced
+650;Renault Mégane TCe 300 R.S. EDC
+651;BMW X6 XDrive 30d mHEV A/T
+652;Kia Sportage 1.6 CRDi mHEV GT-Line 4WD A/T
+653;Audi Q7 3.0 TDI 272k quattro tiptronic 8-st.
+654;Hyundai i30 top ponuka so zimnými pneu
+655;Volkswagen Beetle Design 1,4 TSI DSG 110kw 3dv. HB
+656;Mini Countryman 2.0d SD 4All Park Lane 4x4, 143k
+657;Fiat Freemont 2.0 16V 170k MultiJet Longue 4x4 A/T
+658;Kia Sportage 1.6 T-GDi mHEV GT-Line 4WD A/T
+659;Volkswagen Sharan
+660;Lexus ES 300h Luxury
+661;Škoda Superb Combi Laurint & Klement 2.0 TDI 4x4, 142kW, 5d.2024
+662;Audi Q7 3.0 TDI 272k quattro tiptronic 8-st.
+663;Ford Kuga 1.5 TDCi EcoBlue 120k Titanium A/T
+664;Alfa Romeo Stelvio 2.2 JTDM SPORT AT/8
+665;Škoda Superb Combi Laurint & Klement, 2.0 TDI 4x4, 142kW,5d.2024
+666;Audi A3 Sportback 1.6 TDI Sport S tronic
+667;Škoda Kodiaq 2.0 TDI SCR 190k Style DSG 4x4
+668;Hyundai i30 CW 1.6 CRDi 115 Comfort
+669;Tesla Model 3 Standard Range Plus 54kWh RWD
+670;Audi A4 Avant 30 2.0 TDI Advanced S tronic
+671;Audi A8 3.0 TDI V6 DPF clean diesel quattro tiptronic
+672;Mazda CX-60 2.5 e-Skyactiv PHEV Homura AWD A/T
+673;Audi SQ8 TFSI quattro 373 kw Vozidlo je ZARUKE!
+674;BMW X5 M50d A/T
+675;BMW X3 M40i A/T
+676;Škoda Fabia Combi 1,0 TSi + LPG 70 kw DSG
+677;Škoda Superb 2.0 TDI SCR Exclusive plus 4x4 DSG, A7
+678;Nissan Cabstar 2.5dCi 35.11 S Basic
+679;Fiat 126 P 0.7 Basis kW 19 M4
+680;VOLKSWAGEN Passat Variant 1.4 TSi
+681;SUZUKI SX4 S-Cross Premium
+682;SUZUKI SX4 S-Cross
+683;HYUNDAI Tucson (NX4) Premium
+684;HYUNDAI Santa Fe Smart
+685;HYUNDAI Santa FE Premium
+686;HYUNDAI Kona Family
+687;HYUNDAI Kona Family
+688;HYUNDAI i30 Fastback N Line +
+689;OPEL Astra
+690;NISSAN X-Trail Acenta
+691;NISSAN Pathfinder
+692;NISSAN Navara
+693;Mini One Cooper S Packet
+694;LAND ROVER Range Rover Evoque
+695;HYUNDAI Tucson Shadow
+696;Tesla Model Y Combi 378kw Automat
+697;Volvo XC90 D5 Executive A/T 7m
+698;Mitsubishi Pajero Sport 2.5 TD Sport GLX
+699;Audi Q5 2.0 TDI 163k quattro S tronic
+700;Škoda Fabia 1.0 TSI Selection
+701;Škoda Octavia 2.0 TSI 245k RS DSG
+702;Volkswagen Golf Variant 2.0 TDI Style DSG
+703;Volkswagen Amarok DC 2.0 BiTDI Highline 4MOTION AT8
+704;Jeep Grand Cherokee 3.0 CRD Individual Summit Panorama
+705;Audi Q5 2.0 TFSI 230k quattro tiptronic
+706;Volkswagen Golf 7
+707;Volkswagen Golf Sportsvan 1.6 TDI BMT 110k Comfortline
+708;Mazda BT-50 4x4 - VYKLÁPAČ/KIPPER - 114.000KM - PICK UP - 10.9
+709;Mercedes A trieda Mercedes-Benz A trieda 180 CDI AMG Line
+710;Toyota C-HR 1.2 Turbo Lounge
+711;Volkswagen e-UP EV
+712;Volkswagen T6 Caravelle 2.0 TDI 150k KR Highline DSG
+713;Audi A5 Sportback 3.0 TDI quattro S tronic Design
+714;Audi A6 Avant 40 2.0 TDI mHEV Design S tronic
+715;Porsche Boxster 981 2.7
+716;Toyota Yaris 1.6 Turbo GR Four 4WD Dynamic
+717;Škoda Kodiaq 2.0 TSI RS 4x4 DSG
+718;Tesla Model Y SUV 398kw Automat
+719;Audi A6 Avant Competition 3.0 TDI DPF 326k quattro tiptronic
+720;Volkswagen Tiguan 2.0 TDI EVO Elegance 4Motion DSG
+721;Škoda Octavia 2.0 TDI RS 4x4 DSG
+722;Audi Q7 45 TDI quattro tiptronic 8-st.
+723;Land Rover Range Rover 3.0 Vogue 4WD A/T
+724;Audi A6 Avant 45 3.0 TDI mHEV Design quattro tiptronic
+725;Škoda Kodiaq 2.0 TSI RS 4x4 DSG
+726;Toyota Land Cruiser 2.8 D-4D 204 Executive A/T 4x4
+727;Ford Ranger 2.0 TDCi Ecoblue BiTurbo Limited 4x4 A/T
+728;Audi Q8 Sline Plus 50 3.0 TDI mHEV quattro tiptronic
+729;Mercedes-Benz C trieda Kombi 220 d A/T
+730;Škoda Superb 2.0 TDI 142 kW L&K 4x4
+731;Dongfeng DF 6 Pick up 120kw Automat
+732;BMW X4 M Competition 375kw
+733;Škoda Enyaq 85x Tour (hatchback)
+734;Audi A8 4.0 TFSI V8 Quattro Tiptronic 8-st. COD
+735;HYUNDAI i30 CW Family
+736;Volkswagen Tiguan 2021 2.0 TDI 110kW DSG - Možný odpočet DPH
+737;Mercedes-Benz A trieda 180, 100kW, A7, 5d. (2023) AMG paket
+738;Cupra Formentor 2.0 TSI 310k 4Drive DSG Veloz
+739;Škoda Octavia 2.0 TDI SCR Style DSG
+740;BMW X1 xDrive 20d A/T
+741;Volkswagen Passat Variant 2.0 TDI EVO Business DSG
+742;Cupra Formentor 2.0 TDI 2021 110kW DSG 4Drive - Možný odpočet DPH
+743;BMW X5 xDrive40i 2021 245kW M-Sport Harman/Kardon - Možny odpočet DPH
+744;Volkswagen Passat 2016 2.0 TDI 140kW DSG R-Line
+745;Mitsubishi Eclipse Cross 2.4 Plug-In Hybrid 4WD Intense A/T, LED, 360° Kamera, ACC, Lane Assist, Key
+746;Peugeot 2008 1.2 PureTech 130k E6.2 Allure A/T
+747;Škoda Kodiaq 2.0 TSI RS 4x4 DSG, LED, Webasto, KeylessGO, Panorama, ACC, Lane Assist,El.kufor
+748;Škoda Octavia Combi 2.0 TDI 184k Scout DSG 4x4
+749;BMW rad 5 530d xDrive A/T
+750;Volkswagen Arteon Shooting Brake 2.0 TDI R-LINE DSG 4MOTION
+751;Škoda Octavia Combi 1.6 TDI CR DPF Ambiente
+752;Dacia Dokker 1.6 - NÁJAZD 181 000KM - 2018 - 6990.-EUR
+753;Peugeot 508 1.5 BlueHDi Active
+754;Volvo XC60 2.0 D4 Momentum A/T, FULL LED, VirtualCockpit, Lane assist, Vyhr.sedadla
+755;Škoda Kodiaq 2.0 TDI Sportline DSG, ACC, Lane Assist, Mŕtvy Uhol, Panorama, LED, 360 KAM
+756;Opel Insignia ST 2.0 GSi 4x4 A/T, IntelliLux LED, ACC, LaneAssist, Head-Up, KeylessGo, Kamera
+757;Škoda Superb Combi 2.0 TDI Edition DSG, Bi-Xenon, Vyhr. sedadla, Ambient, Kamera, Ťažné, KeylessGO
+758;Mercedes-Benz CLA Shooting Brake 250e Progressive A/T, LED, Keyless, Ambient, Kamera, Lane Assist, M
+759;Škoda Kodiaq Exclusive Selection, 2,0 TDI 4x4, 5d, 7Seat, AT7, 2024
+760;Škoda Kodiaq Exclusive Selection 2.0 TDI 4x4, 140kW, 5d, AT7, 2024
+761;Škoda Superb Combi 2.0 TDI Style DSG, LED, Kamera, Kessy, Vyhr.volant, ACC, Lane Assist,Mŕtvy Uhol
+762;Škoda Superb Combi 2.0 TDI Sportline DSG, Winter Pack, ACC, Lane Assist, Bi-Xenon, Kamera, Ťažné
+763;Volvo XC60 2.0 B5 R-Design AWD A/T, Full LED, ACC, Lane Assist, Vyhr. volant, Kamera, Ťažné
+764;Volkswagen Passat Variant 2.0 TDI Elegance DSG, IQ LIGHT, Mŕtvy Uhol, KESSY, ACC, Kamera, Ťažné, Hea
+765;Škoda Superb 2.0 TDI Sportline DSG, Black Edition, Full LED, ACC,Lane Assist,Mŕtvy Uhol,KESSY
+766;Volkswagen Arteon Shooting Brake 2.0 TDI R-Line DSG, ACC, Lane Assist, 360° KAM, KeylessGo, El. Kufo
+767;Volkswagen Arteon Shooting Brake 2.0 TDI 4MOTION R-Line DSG, ACC, Webasto, 360° Kam, Mŕtvy Uhol, Ful
+768;Škoda Superb Combi 2.0 TDI Style DSG, Bi-Xenon, Tempomat, 4x Vyhr. sedadla, Vyhr. volant, El.kufor
+769;Seat Tarraco 2.0 TDI FR DSG, ACC, Lane Assist, KeylessGO, Vyhr. čelné sklo, Kamera, Panorama
+770;Ford Kuga 2.5L Duratec PHEV ST-Line CVT, ACC, Lane Assist, Head-Up, Kamera, Mŕtvy Uhol
+771;Volvo XC60 2.0 D4 R-Design A/T, FULL LED, Lane Assist, El.Kufor, Ambient, Kožený Interiér
+772;Nissan Qashqai Tekna 1.3 DIG-T Mild Hybrid 4WD 2024
+773;Škoda Kodiaq New Selection
+774;BMW Rad 3 320d mHEV xDrive A/T, Full LED, VirtualCockpit, Mŕtvy Uhol, 3-zónová KLIMA
+775;Škoda Superb Combi 2.0 TDI SCR Ambition DSG
+776;Audi Q7 AudiQ7 S Line 50 TDI quattro TT8 7-miestne
+777;Audi Q8 new model 2024
+778;Volkswagen Passat Variant 2.0 TDI Elegance DSG, ACC, Lane Assist, Mŕtvy Uhol, IQ LIGHT, KeylessGo, K
+779;Škoda Kodiaq New Exclusive Selection 2,0 TDI 142 kW 4x4
+780;Škoda Kodiaq 2.0 TDI Sportline DSG, LED, ACC, Altantara, VirtualCockpit, 4x Vyhr. Sedadla
+781;Volvo V60 2.0 D4 Momentum A/T, FULL LED, Tempomat, El.Kufor, Lane Assist, Ťažné
+782;Tesla Model S 75D AWD Dual A/T, Vzduchový Podvozok, FULL LED, ACC, Panorama, Mŕtvy Uhol
+783;Volvo XC60 2.0 D4 Inscription A/T, ACC ,Lane Assist, Mŕtvy Uhol,KeylessGO,El.Kufor,FULL LED
+784;Seat Ateca 2.0 TDI FR, Ambient, Kamera, ACC, BeatsAudio, LED, Vyhr.čelné sklo+sedadla
+785;Nissan Qashqai N-Design Mild Hybrid
+786;Škoda Kodiaq New Exclusive Selection 7-miestny 2024
+787;BMW X1 sDrive 16d Business M-packet A/T, LED, Kamera, Tempomat, Nezávisla ventilácia
+788;Citroën Jumper 2.2 BlueHDi L4H2, Tempomat, El.okna, Klimatizácia, NAVI
+789;Škoda Kodiaq Exclusive Selection 142kW/193hp, 5D A/T 2024 7seater
+790;Škoda Superb New L&K 2.0 TDI 4x4 142kW 2024
+791;Volkswagen Passat Variant 2.0 TDI EVO Business DSG, IQ LIGHT, ACC, Lane Assist, Ambient, El. Kufor
+792;Škoda Superb Combi NEW Selection 2.0 TDI 110kW 2024
+793;Volkswagen T-Roc 1.5 TSI Life DSG
+794;Škoda Kodiaq New 2024 Exclusive Selection 2.0 TDI 142kW 5d 4x4
+795;BMW X3 2.0 sDrive A/T X-Line, LED, NAVI, KAMERA, LANE ASSIST, ACC
+796;Volkswagen Tiguan 2.0 TDI EVO Active DSG, LED, Kamera, VirtualCockpit, ACC, Lane Assist
+797;Škoda Kodiaq 1.5 TSI Style, LED, Keyless, Kamera, Ťažné, Vyhr. čelné sklo, Vyhr. volant
+798;Škoda Octavia Combi 1.4 TSI G-TEC Business, Ťažné, KLIMA
+799;Renault Twingo 1.0 SCe Collection
+800;Volkswagen Tiguan 1.5 TSI EVO Elegance DSG Mild-hybrid
+801;Audi A4 Avant 35 2.0 TDI mHEV A4 S tronic
+802;Jeep Cherokee 3.7 V6 Limited
+803;BMW rad 5 Touring 530d xDrive
+804;Opel Astra Sport Tourer ST 1.6 CDTI 110k Selection
+805;Audi A6 Avant 45 3.0 TDI mHEV Sport quattro S tronic
+806;Volkswagen Tiguan 2.0 TSI R 4Motion DSG
+807;Volkswagen Arteon SB 2.0 TDi 147KW - DSG - FACELIFT - 3 x R-LINE - odp.DPH (507703)
+808;Dacia Duster 1,6 SCe benzín 84kW 1. majiteľ nové v SR
+809;Mazda CX-30 2.0 e-Skyactiv-G A/T, LED, ACC, Lane Assist, Head-Up, Vyhr.volant, El.kufor
+810;Mazda 3 1.6 MZ-CD 116k TX
+811;Mercedes C trieda 180 mHEV A/T
+812;Renault Trafic Minibus Equilibre L2 EDC 2,0 dCi 125kW
+813;Lexus RX 350 Luxury
+814;Fiat Tipo 1.4 Lounge
+815;Mercedes GLE trieda 2019 Mercedes-Benz GLE SUV (V167) GLE 450
+816;Volvo S60 2.4 R5 Momentum A/T
+817;Jaguar XF Sportbrake 2.2D i4 200k Premium Luxury Automat EDITION
+818;Ford Explorer SUV 267kw Automat
+819;Volkswagen Golf Variant 1.6 TDI Comfortline
+820;Seat Alhambra 1.8i Turbo A/T 7M Luxus Stylance
+821;Citroën C4 1.6 VTi Seduction SR
+822;Volvo V50 1.6D Summum
+823;Volvo V60 D3 2.0L 150K A/T Summum Geartronic SR
+824;Mini Cooper 1.6i
+825;Renault Koleos 2.0 dCi 16V 4x4 Dynamique Luxe
+826;Citroën C4 1.6i 16V Plus SR
+827;Audi Q7 50 3.0 TDI mHEV quattro tiptronic
+828;Volvo XC60 D5 AWD Summum Geartronic
+829;Volvo XC60 2.4 D5 AWD Summum
+830;Volkswagen Caddy Combi 2.0 TDI BMT Trendline EU6
+831;Peugeot 308 SW 1.2 PureTech INDIVIDUAL Panorama
+832;Suzuki Ignis AUTOMAT - 137 000KM - NOVÁ STK - 2699.-EUR
+833;Mini Cabrio Cooper
+834;Audi A4 Avant 40 2.0 TDI Advanced S tronic
+835;BMW rad 1 118d A/T
+836;BMW rad 5 530d xDrive A/T
+837;Peugeot 5008 1.2 PureTech 130 S&S Allure EAT6
+838;Volkswagen Passat Variant Alltrack 2.0 BiTDI SCR BMT 4MOTION DSG
+839;Land Rover Range Rover Sport 3.0 SDV6 HSE Dynamic
+840;BMW X1 XDrive 20d Msport, Zaruka, ACC
+841;BMW rad 4 Gran Coupé 420d mHEV xD ZARUKA 1/2026!
+842;BMW X5 XDrive30d A/T
+843;Volkswagen CC 2.0 TDI BlueMotion DSG
+844;BMW rad 5 BMW Rad 5 520i mHEV A/T
+845;Volkswagen Touareg II 3.0 V6 TDI BMT 4XMOTIONTerrain Tech
+846;Škoda Octavia Combi Combi Ambition 2.0 TDI
+847;Toyota Proace 2.0 D-4D 120 Comfort L1 Extra
+848;Volkswagen T-Roc 1.5 TSI BMT Style DSG
+849;Ford Ranger Pick up 156.7kw Automat
+850;Dacia Jogger 1.0 TCe 110k Extreme 7 miest
+851;Škoda Octavia Ambition Plus DSG 2,0 TDI 110kW
+852;Subaru Outback 2.5i CVT Premium
+853;Volvo XC60 T8 Recharge 392PS AT8 AWD R-Design
+854;Škoda Superb 2.0 TDI SCR Style DSG
+855;Škoda Kodiaq 2.0 TDI Sportline DSG, LED, Lane Assist, Mŕtvy Uhol, Alcantara, VirtualCockpit
+856;Škoda Superb Combi 2.0 TDI L&K 4x4 DSG WEBASTO MASÁŽ
+857;Škoda Karoq 2.0 TDI EVO SCR Sportline 4x4 DSG
+858;Škoda Octavia 2.0 TSI L&K DSG 4x4
+859;Škoda Kodiaq 2.0 TDI SCR Sportline DSG
+860;Škoda Superb Combi Laurin Klement 4x4 193k
+861;Škoda Kodiaq Exclusive Selection 2024, 2.0 TDI, 142kW, 5d,7seat
+862;Škoda Kodiaq New Exclusive Selection 2024 2.0 TDI 4x4,7AP, 5d. 142kW
+863;Škoda Karoq 2.0 TDI Style DSG, LED, VirtualCockpit, Kamera, Vyhr. volant
+864;Škoda Octavia Combi 2.0 TDI SCR Style DSG
+865;Škoda Enyaq iV 60 Sportline
+866;Škoda Kodiaq Sportline 2.0 TDI
+867;Škoda Fabia Ambition 1.0 TSI
+868;Škoda Kodiaq 2.0 TSI RS 4x4 DSG
+869;Škoda Octavia Combi 2.0 TDI Executive, LED, VirtualCockpit, ACC, Lane Assist, NAVI, DIGI KLIMA
+870;Škoda Kodiaq 2.0 TSI Style 4x4 DSG
+871;Škoda Enyaq iV 60 Loft
+872;Škoda Superb 2.0 TDI 140kW Sportline, Matrix LED, Canton, DCC, El. ťažné, Supernova
+873;Škoda Superb 1.5 TSI DSG Sportline BLACK, Virtual, Canton, ACC, DCC, Záruka
+874;Škoda Kodiaq 2.0 TDI SCR L&K DSG
+875;Škoda Fabia 1.2
+876;Škoda Kodiaq 2.0 TSI RS 4x4 DSG
+877;Škoda Kodiaq New Exclusive Selection 7seat, 142kW, 2.0 TDI 4x4, 5d 2024
+878;Škoda Superb Combi 2.0 TDI Style DSG EU6
+879;Škoda Superb Combi 2.0 TDI SCR Sportline 4x4 DSG
+880;Škoda Superb 2.0 TDI SCR Ambition
+881;Škoda Scala 1.0 TSI Style
+882;Škoda Superb Combi 1.6 TDI Ambition
+883;Škoda Octavia 1.6 TDI CR DPF Greenline
+884;Škoda Superb Combi 2.0 TDI Style DSG
+885;Škoda Karoq 2.0 TDI SCR Sportline 4x4 DSG
+886;Škoda Superb Combi 2.0 TDI SCR L&K 4x4 DSG
+887;Škoda Karoq 2.0 TDI EVO SCR 4x4 DSG
+888;Škoda Superb Combi 2.0 TDI SCR Scout 4x4 DSG
+889;Škoda Fabia 1.2 TSI Monte Carlo
+890;Škoda Fabia Combi Style TSI 70kW
+891;Škoda Superb Combi 2.0 TDI SCR Style 4x4 DSG
+892;Škoda Octavia 2.0 TSI Style 4x4 DSG
+893;Škoda Kodiaq 2.0 TDI SCR Style DSG
+894;Škoda Octavia Combi 2.0 TDI SCR Style DSG
+895;Škoda Yeti 2.0 TDI Active
+896;Škoda Octavia Combi 2.0 TDI SCR Style DSG
+897;Škoda Superb Combi 2.0 TDI 140kw DSG PREMIUM FULL
+898;Škoda Kodiaq 2.0 TSI Sportline 4x4 DSG
+899;Škoda Superb 2.0 TDI SCR Sportline 4x4 DSG
+900;Škoda Superb 2.0 TDI SCR Ambition 4x4 DSG
+901;Škoda Fabia Sedan 1.2 HTP Classic
+902;Škoda Fabia 1.4 MPI 50kW
+903;Škoda Karoq 2.0 TSI EVO Sportline 4x4 DSG
+904;Škoda Kodiaq 2.0 TDI SCR RS DSG 4x4
+905;Škoda Fabia 1.6 TDI 90k Monte Carlo
+906;Škoda Octavia 1.5 TSI ACT Style
+907;Škoda Superb Combi 2.0 TDI SCR Style DSG
+908;Škoda Scala 1.0 TSI Style DSG
+909;Volkswagen Touran 1.6 TDI Trendline
+910;Volkswagen Tiguan 2.0 TDI EVO R-Line 4Motion DSG
+911;Volkswagen Arteon 2.0 TDI SCR BMT 190k R-Line DSG
+912;Volkswagen T6 Multivan 2.0 BiTDI BMT Comfortline 4MOTION DSG
+913;Volkswagen Tiguan Allspace Iné 140kw Automat
+914;Volkswagen Arteon Shooting Brake SB 2.0 TSI R-Line DSG
+915;Volkswagen Passat Variant 2.0 TDI EVO Elegance R-Line DSG
+916;Volkswagen Arteon Shooting Brake 2.0 TDI 4MOTION R-Line DSG, ACC, Webasto, 360° Kam, Mŕtvy Uhol
+917;Volkswagen Passat Variant 1.6 TDI Business DSG, LED Lights, ACC, Lane Assist, Kamera, NAVI
+918;Volkswagen Tiguan Allspace 2.0 TDI EVO 200k SCR 4Motion R-Line DSG
+919;Volkswagen ID.4 GTX 77kWh 4Motion
+920;Volkswagen ID.3 Pro Performance 1.ST Upgrade, IQ Light, Kamera, Ambient, Tep.čerp., Head-Up
+921;Volkswagen Amarok 2.0 TDI 151 kW Style 4Motion
+922;Volkswagen Golf 1.5 eTSI ACT 150k Style DSG
+923;Volkswagen Tiguan 2.0 TDi - 4x4 - 140KW - DSG - 3x R-LINE (351474)
+924;Volkswagen Passat Variant 2.0 TDI EVO Business DSG
+925;Volkswagen Tiguan Allspace 2.0 TDI SCR BMT Comfortline DSG
+926;Volkswagen Passat Variant 2.0 TDI BMT Comfortline DSG
+927;Volkswagen Tiguan 2.0 TDI EVO R-Line 4Motion DSG
+928;Volkswagen ID.3 Pro 58kWh Business
+929;Volkswagen Touareg II 3.0 V6 TDI BMT 4MOTION
+930;Volkswagen Touareg II 3.0 V6 TDI Tazne zariadenie Na Pruzinach
+931;Volkswagen Touareg 3.0 V6 TDI SCR Elegance 4Motion Tiptronic
+932;Volkswagen Tiguan Elegance 4Motion 2.0 TDI SCR
+933;Volkswagen Sharan 2.0 TDI BMT Highline Webasto DSG
+934;Volkswagen T5 Multivan 2.0 BiTDI Highline 4MOTION DSG WEBASTO
+935;Volkswagen T6 Transporter 2.0 TDI BMT LR, 81kW, M5, 4d. (2020)
+936;Volkswagen Passat Variant 2.0 TDI Business DSG
+937;Volkswagen Passat 2.0 TDI BMT Comfortline DSG
+938;Volkswagen Passat Variant 2.0 TDI Rline DSG
+939;Volkswagen T6 Multivan 2.0 BiTDI BMT Highline 4MOTION DSG
+940;Volkswagen Touran 2.0 TDI SCR 150k Highline DSG
+941;Volkswagen Tiguan 2.0 TDI EVO R-Line 4Motion DSG
+942;Volkswagen Passat Variant 2.0 TDI EVO Business DSG
+943;Volkswagen Tiguan 2.0 TDI EVO R-Line 4Motion DSG
+944;Volkswagen Tiguan 2.0 TDI EVO R-Line 4Motion DSG
+945;Volkswagen T5 Caravelle 132kw A/T
+946;Volkswagen Arteon 2.0 TDI SCR BMT Elegance DSG
+947;Volkswagen T6 Multivan Van 150kw Manuál
+948;Volkswagen Tiguan R-Line 2.0 TDI SCR BMT 4MOTION Edition Highline DS
+949;Volkswagen T5 Multivan 1.9 TDI - 126.000KM - 7 MIESTNY - SUPER STAV
+950;Volkswagen Sharan 4MOTION 2.0 TDI DSG 130 KW, NAVI, KAMERA, KOŽA, PANORAMA
+951;Volkswagen Passat Variant Alltrack 2.0 TDI
+952;Volkswagen Polo 1.2 12V Trendline
+953;Volkswagen Tiguan 2.0 TDI SCR DSG 150k Edition ComfortLine
+954;Volkswagen Touareg 3.0 V6 TDI SCR 286k R-Line 4Motion Tiptronic
+955;Volkswagen Eos 2.0 TDI DSG
+956;Volkswagen Tiguan Allspace 2.0 TDI EVO 200k SCR 4Motion Elegance DSG
+957;Volkswagen Passat Variant IQ LIGHT PANORÁMA WEBASTO VIRTUAL ŤAŽNÉ EXTR
+958;Volkswagen Arteon Shooting Brake VW SB R-Line 2,0 TDi 110 kw DSG
+959;Volkswagen Passat Variant 2.0 TDI BMT Comfortline
+960;Volkswagen Touran 2.0 TDI SCR 150k Edition Comfortline DSG
+961;Volkswagen Touareg 2.5 R5 TDI
+962;Volkswagen Passat Alltrack 2.0 TDI SCR 4Motion DSG
+963;Volkswagen Passat Variant 2.0 TDI Elegance 4Motion DSG
+964;Volkswagen Tiguan 2.0 TDI EVO DSG R-Line 200k 4Motion WEBASTO
+965;Volkswagen Tiguan 2.0 TDI EVO DSG R-Line 200k 4Motion
+966;Volkswagen Golf eGOLF 100KW AT
+967;Volkswagen Golf eGOLF 100KW AT
+968;Volkswagen Tiguan 2.0 TDI EVO Elegance 4Motion DSG
+969;Volkswagen Tiguan 2.0 CR TDI 4-Motion Sport&Style DSG
+970;Volkswagen Passat Variant 2.0 TDI Business DSG
+971;Volkswagen Passat Variant 2.0 TDI EVO Elegance DSG . IQ Led
+972;Volkswagen T-Cross 1.0 TSI 110k Style DSG
+973;Volkswagen Passat Variant 2.0 TDI EVO Elegance DSG
+974;Volkswagen Golf 2.0 TDI BMT 184k GTD DSG
+975;Volkswagen Crafter 35 2,0Tdi
+976;Volkswagen Sharan 2.0 TDI SCR BMT 184k Highline DSG EU6
+977;Volkswagen Passat 1.6 TDI Comfortline ,88 Kw
+978;Volkswagen Passat Variant 2.0 TDI EVO Elegance DSG
