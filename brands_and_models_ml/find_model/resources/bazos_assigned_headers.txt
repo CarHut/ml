@@ -3192,3 +3192,29 @@
 3481;► ► Fabia 1.4 MPi  - pojazdné auto STK,EK 9/2026
 3482;Volkswagen Passat R-Line 2.0 TSI 140kw DSG,1 Majiteľ
 3483;Ford Ranger Wildtrak 3.2TDCi 147kw 4x4 AT Webasto Navi
+3484;Škoda Octavia Combi 3 facelift,2.0TDI, 110KW.DSG
+3485;Mercedes Vito Tourer w447 8miestne
+3486;Peugeot 3008 1.5 HDi 2019 ///13.100,- EUR///
+3487;FIAT TALENTO, L1H1 VAN, 1,6 MULTIJET, DIESEL, MANUAL,5/2017
+3488;2022 Kia ProCeed 1.5 T-GDi 118Kw GT-Line A/T záruka do 2029
+3489;Volkswagen Golf Variant 2.0 TDI R-Line
+3490;KIA CARENS, 1,7 CRDI, 7-MIESTNE, 2/2018, KÚPENÉ NA SLOVENSKU
+3491;Peugeot 5008 7-miestny Automat
+3492;ŠKODA OCTAVIA 2.0 TDI DSG, BI-XEN //12.999,- EUR///
+3493;Tesla Model 3 Long Range Dual Motor 4WD - možný odpočet DPH
+3494;Škoda Kodiaq 2.0 TDI SCR RS DSG 4x4 FULL TOP
+3495;Opel Astra 1,7CDTI, rok 2011
+3496;Volkswagen Touran DSG,2016, TDI 1,6, Webasto
+3497;Škoda Superb Combi 2.0 TDI L&K 4x4 DSG VIRTUAL MATRIX
+3498;►Škoda Fabia 1.2TSI Ambition ◄
+3499;▶▶ Seat Ibiza 1.0 MPI Reference ◀◀
+3500;VW Tiguan Allspace Rline 2.0TDI DSG 4x4 2020 - Odpočet DPH -
+3501;Mercedes-Benz Sprinter 314 CDI Lang A3 RWD Maxi
+3502;SKODA KODIAQ CLEVER  DSG 4X4 FACELIFT
+3503;Mercedes Benz G 500
+3504;ŠKODA SUPERB III 2.0 TDI SPORTLINE, BIXENÓNY, ELEKTRÓNY R18
+3505;BMW 530xd 4x4 lci
+3506;Škoda Superb III Combi 2.0 TDI XENON NAVI
+3507;Škoda Octavia AllDrive 1.9TDi 4x4 Combi + xenóny 105Ps..
+3508;SEAT ALHAMBRA  2.0 TDI 110kw 150PS EXCELLENC 7MIES M.2019
+3509;Audi A4 Avant 2.0 TDI Quattro S-line

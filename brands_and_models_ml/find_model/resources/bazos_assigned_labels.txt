@@ -3192,3 +3192,29 @@ Ford Focus
 Škoda Fabia
 Volkswagen Passat
 Ford Ranger
+Škoda Octavia
+Mercedes-Benz Vito
+Peugeot 3008
+Fiat Talento
+Kia pro ceed
+Volkswagen Golf
+Kia Carens
+Peugeot 5008
+Škoda Octavia
+Tesla Model 3
+Škoda Kodiaq
+Opel Astra
+Volkswagen Touran
+Škoda Superb
+Škoda Fabia
+Seat Ibiza
+Volkswagen Tiguan
+Mercedes-Benz Sprinter
+Škoda Kodiaq
+Mercedes-Benz G 500
+Škoda Superb
+BMW 530
+Škoda Superb
+Škoda Octavia
+Seat Alhambra
+Audi A4

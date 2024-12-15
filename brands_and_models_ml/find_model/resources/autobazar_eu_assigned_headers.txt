@@ -976,3 +976,306 @@
 976;Volkswagen Sharan 2.0 TDI SCR BMT 184k Highline DSG EU6
 977;Volkswagen Passat 1.6 TDI Comfortline ,88 Kw
 978;Volkswagen Passat Variant 2.0 TDI EVO Elegance DSG
+979;Škoda Octavia Combi 2.0 TDI Style
+980;Škoda Octavia Style 2.0 TDI
+981;Škoda Octavia Combi Ambition 1.5 TSI
+982;Škoda Octavia Combi Style 2.0 TDI
+983;Škoda Octavia Combi Ambition Plus DSG 2,0 TDI 85kW
+984;Škoda Superb Combi 2,0 TDI 147kW / 200hp
+985;Škoda Superb Combi 2.0 TDI SCR Style DSG
+986;Škoda Superb Combi 2.0 TSI Sportline 4x4 DSG
+987;Škoda Superb 1.4 TSI PHEV Sportline DSG
+988;Škoda Superb Combi 2.0 TDI 190k 4x4 Sportline DSG
+989;Škoda Superb Combi 2.0 TDI 190k 4x4 Sportline DSG
+990;Škoda Octavia 2.0 TDI CR DPF RS DSG
+991;Škoda Octavia Combi 2.0 TDI SCR Ambition DSG
+992;Škoda Octavia Combi III 1.6 TDI 110k Ambition 4x4
+993;Škoda Superb Combi 2.0 TDI 190k 4x4 Sportline DSG
+994;Škoda Octavia Combi 2.0 TDI Style DSG
+995;Škoda Octavia Combi 2.0 TDI SCR Style DSG
+996;Škoda Superb 2.0 TDI SCR Style 4x4 DSG
+997;Škoda Superb Combi 2.0 TDI DSG 200k SPORTLINE 4X4 WEBASTO
+998;Škoda Octavia 1.9 TDI Drive
+999;Škoda Superb 2.0 TDI CR 170k Elegance DSG
+1000;Škoda Superb Combi 2.0 TDI SCR Scout 4x4 DSG
+1001;Škoda Octavia Combi 2.0 TDI Elegance/Style
+1002;Škoda Octavia Combi 1.6 TDI Elegance
+1003;Škoda Octavia Combi 2.0 TDI DSG / Matrix / Virtual /
+1004;Škoda Octavia 2.0 TSI 245k RS DSG EU6
+1005;Škoda Superb Combi 1.4 TSI PHEV Style DSG
+1006;Škoda Superb 2.0 TDI SCR Sportline 4x4 DSG
+1007;Škoda Octavia Combi 2.0 TDI Style 4x4 DSG
+1008;Škoda Octavia Combi 2.0 TDI Style 4x4 DSG
+1009;Škoda Octavia 2.0 TDI Style 4x4 DSG
+1010;Škoda Octavia Combi 2.0 TDI Elegance/Style DSG
+1011;Škoda Octavia 1.8 TSI Elegance/Style
+1012;Škoda Superb Combi 2.0 TDi CR DPF
+1013;Škoda Superb Combi 2.0 TDI SCR Style DSG
+1014;Škoda Superb 1.4 TSI PHEV Style DSG
+1015;Škoda Octavia Combi 1.8 TSI L&K DSG
+1016;Škoda Octavia Combi 2.0 TDI CR DPF Elegance
+1017;Škoda Superb 2.0 TDI SCR Sportline DSG
+1018;Škoda Superb Combi 2.0 TDI SCR Sportline DSG
+1019;Škoda Superb Combi 2.0 TDI SCR Scout 4x4 DSG
+1020;Škoda Octavia Combi 1.4 TSI Elegance
+1021;Škoda Octavia 1.6 TDI Style
+1022;Škoda Octavia Combi 2.0 TDI Ambition
+1023;Škoda Octavia 1.6 TDI Ambition 4x4
+1024;Škoda Superb 2.0 TDI 190k 4x4 L&K DSG EU6
+1025;Škoda Octavia Combi 2.0 TDI SCR Style
+1026;Škoda Superb 2.0 TSI 4x4 L&K DSG
+1027;Škoda Octavia 1.5 TSI Drive
+1028;Škoda Octavia Combi 2.0 TDI SCR Style DSG
+1029;Škoda Superb 2.0 TSI Sportline DSG
+1030;Škoda Octavia 1.8 T RS
+1031;Škoda Octavia Combi 2.0 TDI CR DPF 4x4 Scout
+1032;Škoda Superb Combi 2.0 TDI CR 170k Elegance
+1033;Škoda Octavia 2.0 TDI Style
+1034;Škoda Octavia Combi 2.0 TDI Style DSG
+1035;Škoda Octavia Combi 2.0 TDI SCR Ambition DSG
+1036;Škoda Superb Combi 2.0 TDI Style DSG
+1037;Škoda Superb Combi 2.0 TDI Business DSG
+1038;Škoda Superb 2.0 TDI SCR Sportline DSG
+1039;Škoda Octavia 1.4 TSI iV PHEV Style DSG
+1040;Škoda Superb Combi 2.0 TDI Style EU6
+1041;Škoda Superb Combi 2.0 TDI Business DSG
+1042;Škoda Octavia
+1043;Škoda Superb Combi 2.0 TDI CR 140k Comfort
+1044;Škoda Octavia 1.6 TDI 116k Ambition EU6
+1045;Škoda Octavia 1.6 TDI Style
+1046;Škoda Octavia Liftback 85kw Manuál
+1047;Škoda Superb Combi 2.0 TDI Active EU6
+1048;Škoda Superb Combi 2.0 TDI 4x4 Ambition EU6
+1049;Škoda Octavia Combi 1.6 TDI 115k Style
+1050;Škoda Superb 2.0 TDI 190k 4x4 L&K DSG EU6
+1051;Škoda Superb 2.0 TSI 4x4 Ambition DSG
+1052;Škoda Octavia Combi 2.0 TDI SCR Ambition DSG
+1053;Škoda Superb Combi 2.0 TDI SCR Sportline DSG
+1054;Škoda Superb 2.0 TDI 190k 4x4 Sportline DSG
+1055;Škoda Octavia 2.0 TSI 245k RS DSG
+1056;Škoda Octavia Combi 1.4 TSI Elegance
+1057;Škoda Superb Combi 2.0 TDI Style DSG
+1058;Škoda Octavia 2.0 TDI SCR Active
+1059;Škoda Octavia Combi 2.0 TDI Style DSG
+1060;Škoda Octavia Combi 2.0 TDI RS 4x4 DSG
+1061;Škoda Octavia 2.0 TSI Sportline 4x4 DSG
+1062;Škoda Superb Combi Top Selection 1,5 TSI 150kW PHEV
+1063;Škoda Superb Combi 2.0 TDI 190k L&K DSG
+1064;Škoda Octavia Combi 2.0 TDI SCR Ambition DSG
+1065;Škoda Superb Combi 2.0 TDI SCR Ambition DSG
+1066;Škoda Superb Combi 2.0 TDI SCR Style DSG
+1067;Škoda Superb Combi 1.4 TSI PHEV Ambition DSG
+1068;Škoda Octavia Combi 2.0 TDI SCR Ambition DSG
+1069;Škoda Octavia 1.2
+1070;Škoda Octavia 1.6
+1071;Škoda Octavia Combi 1.6 MPi Tour Combi 75
+1072;Škoda Octavia 1.6 GLX
+1073;Škoda Octavia 1,6 i 55 kW CLASSIC
+1074;Škoda Octavia 1.6
+1075;Škoda Octavia 1.6 GLX
+1076;Škoda Octavia 2.0 Ambiente
+1077;Škoda Octavia 1.6 LX
+1078;Škoda Octavia Combi 1.9 TDI SLX
+1079;Škoda Octavia 1.6
+1080;Škoda Octavia
+1081;Škoda Superb Combi 2.0
+1082;Škoda Octavia 1
+1083;Škoda Octavia 1.9 TDI Classic
+1084;Škoda Octavia Combi 1.9 TDI Elegance
+1085;Škoda Octavia 1.6 LX
+1086;Škoda Superb Sedan 103kw Manuál
+1087;Škoda Octavia Combi 1.9 TDI Elegance
+1088;Škoda Octavia 1.9 TDI GLX
+1089;Škoda Octavia 1.6 Ambiente
+1090;Škoda Octavia 1.6 i
+1091;Škoda Octavia 1.6 Classic ZACHOVALÝ STAV
+1092;Škoda Octavia II 1.9 TDI PD Ambiente ICE+
+1093;Škoda Superb 2.5 TDI V6 Comfort A/T
+1094;Škoda Octavia Combi 1.6 i CR
+1095;Škoda Superb 2.8 i V6 Elegance Tiptronic
+1096;Škoda Octavia Combi 1.6 Combi
+1097;Škoda Octavia 1.6 Elegance
+1098;Škoda Octavia 1.6 i
+1099;Škoda Octavia Combi 1.9
+1100;Škoda Superb 1.9 TDi
+1101;Škoda Octavia 1.6 Ambiente
+1102;Škoda Octavia 1.6 TOUR
+1103;Škoda Octavia 1.9 TDI Ambiente
+1104;Škoda Octavia 1.4
+1105;Škoda Octavia Combi 2.0 TDi
+1106;Škoda Octavia Combi 1.9 TDi Ambiente
+1107;Mercedes-Benz 123
+1108;Mercedes GLE trieda 350d kupé 4matic A/T
+1109;Mercedes C trieda 250 AMG Line 9G
+1110;Mercedes GLC 200 mHEV 4MATIC A/T
+1111;Mercedes GLE SUV SUV 190kw Automat
+1112;Mercedes GLK 220 CDI BLUE
+1113;Mercedes E trieda 400 d mHEV 4MATIC A/T
+1114;Mercedes C trieda 180 d A/T
+1115;Mercedes G trieda 350 BlueTEC L
+1116;Mercedes S trieda 560 4MATIC L A/T
+1117;Mercedes A trieda 180 d A/T
+1118;Mercedes A trieda 180d A/T
+1119;Mercedes V trieda Mpv 176kw Automat
+1120;Mercedes AMG GT Mercedes-AMG GT 43 4MATIC+ A/T
+1121;Mercedes E trieda T 220 d 4MATIC A/T
+1122;Mercedes V trieda 250 d lang A/T
+1123;Mercedes-Benz GLC SUV 220 d 4MATIC A/T
+1124;Mercedes-Benz A 180 d sedan
+1125;Mercedes GLC Kupé 220 d 4MATIC A/T
+1126;Mercedes C trieda 180 A/T
+1127;Mercedes GLC 300 e 4MATIC A/T
+1128;Mercedes GLC Kupé 300 d mHEV 4MATIC A/T
+1129;Mercedes C trieda 200 4MATIC A/T
+1130;Mercedes-Benz GLE Kupé 400D AMG 4MATIC A/T 243KW
+1131;Mercedes E trieda 350 CDI BlueEFFICIENCY Elegance 4matic
+1132;Mercedes C trieda 180 d
+1133;Mercedes CLA Shooting Brake Combi 100kw Automat
+1134;Mercedes Vito Tourer Combi 120kw Automat
+1135;Mercedes GLE SUV 350d 4MATIC
+1136;Mercedes-Benz S trieda Sedan 400 d 4MATIC A/T
+1137;Mercedes E trieda 300 mHEV A/T
+1138;Mercedes M trieda 350 CDI 4matic
+1139;Mercedes GLA trieda 180 d A/T
+1140;Mercedes AMG GT Mercedes-AMG GT 53 4MATIC+ A/T
+1141;Mercedes E trieda T 220 d All-Terrain 4MATIC A/T
+1142;Mercedes Citan Tourer Van 96kw Automat
+1143;Mercedes E trieda T 300de 4MATIC .AT9. 225kw. Avantgarde | DPH |
+1144;Mercedes G trieda SUV 420kw Automat
+1145;Mercedes-Benz E trieda Sedan 300 d mHEV 4MATIC A/T
+1146;Mercedes AMG GT Mercedes-AMG GT 63 S 4MATIC+ A/T
+1147;Mercedes-Benz GLE Trieda
+1148;Mercedes-Benz Vito 109 CDI Lang
+1149;Mercedes E trieda Coupé 350 CDI Blue
+1150;Mercedes E trieda 220 d A/T
+1151;Mercedes M trieda L 320 CDI
+1152;Mercedes-Benz V trieda V250 d kompakt 4MATIC A/T
+1153;Mercedes V trieda 250 d lang Avantgarde 4MATIC A/T
+1154;Mercedes GLK 220 CDI BlueEFFICIENCY 4MATIC A/T
+1155;Mercedes GL trieda 350 CDI BlueTEC 4MATIC
+1156;Mercedes GLE kupé SUV/Coupé 188kw Automat
+1157;Mercedes E trieda T 4 Matic 9G-TRONIC Avantgarde TOP VÝBAVA 148km
+1158;Mercedes-Benz GLE SUV Mercedes-AMG 53 4MATIC+ A/T
+1159;Mercedes-Benz SL 500 A/T
+1160;Mercedes-Benz GLE SUV 250d 4matic A/T
+1161;Mercedes-Benz GLE SUV 350d 4matic A/T
+1162;Mercedes-Benz S trieda Sedan 350 d A/T
+1163;Mercedes C trieda Sedan 88kw Automat
+1164;Mercedes E trieda 2.2 CDi
+1165;Mercedes V trieda 300 d Exclusive lang A/T 4MATIC
+1166;Mercedes-Benz E trieda Kupé E400d Coupe 4Matic AMG-Line AT/9 , 340PS
+1167;Mercedes Vito Tourer 300 D Long 4-Matic
+1168;Mercedes A trieda 140 2X
+1169;Mercedes-Benz GLE SUV na prenájom
+1170;Mercedes-Benz A trieda A160/168
+1171;Mercedes A trieda 170 CDI Elegance
+1172;Mercedes-Benz A trieda 150 Elegance
+1173;Mercedes-Benz ML 320CDI
+1174;Mercedes A trieda 190
+1175;Mercedes A trieda 140
+1176;Mercedes A trieda a140
+1177;Mercedes S trieda 320 CDI A/T
+1178;Mercedes A trieda a140 i
+1179;Mercedes C trieda 220 CDi Classic
+1180;Mercedes A trieda 180 CDI Avantgarde AUTOTRONIC
+1181;Mercedes A trieda 160 CDi Blue Efficiency
+1182;Mercedes B trieda b180 CDi 80
+1183;Mercedes A trieda 140 Classic
+1184;Mercedes C trieda Sportcoupé 2.1
+1185;Mercedes E trieda T 350 4-Matic
+1186;Mercedes-Benz Sprinter 2,2CDi 80kW, M5, 3500kg
+1187;Mercedes-Benz Sprinter 313 CDI 2.2 R3 VS
+1188;Mercedes-Benz CLA Kupé AMG 45 s 4MATIC na prenájom
+1189;Mercedes-Benz ML 320CDi 4MATIC Avantgarde
+1190;Mercedes-Benz Sprinter 213 CDI R2 tandard
+1191;Mercedes-Benz A trieda 150 Elegance
+1192;Mercedes 211 Combi 130kw Automat
+1193;Mercedes E trieda 280
+1194;Mercedes-Benz A trieda 180 CDI Elegance
+1195;Mercedes-Benz 190 D
+1196;Mercedes-Benz E trieda Kupé CE230
+1197;Mercedes A trieda 2.0 CDi
+1198;Mercedes A trieda a200i Avantgarde AC
+1199;Mercedes E trieda T 320 CDi Avantgarde
+1200;Mercedes-Benz 126 280 SE
+1201;Mercedes-Benz A trieda 150 AUTOMAT
+1202;Mercedes 126 280SE
+1203;Mercedes E trieda 270 CDI Avantgarde A/T
+1204;Mercedes B trieda 170
+1205;Mercedes SLK 200
+1206;Mercedes B trieda 180 CDi
+1207;Mercedes E trieda 2.2
+1208;Audi Q7 3.0 TDI 272k quattro tiptronic 8-st.
+1209;Audi A4 Avant 35 2.0 TDI S line Mhev Matrix Led
+1210;Audi A6 Allroad 3.0 TDI 320k quattro tiptronic
+1211;Audi A4 Avant 35 2.0 TDI S line S tronic
+1212;Audi Q4 Sportback 35 e-tron
+1213;Audi A8 3.0 TDI V6 DPF quattro tiptronic
+1214;Audi Q7 3.0 TDI 272k quattro tiptronic 8-st.
+1215;Audi Q7 3.0 V6 TDI 272k S-line quattro tiptronic 8-st.
+1216;Audi A6 Avant 2017 3.0 TDI Quattro 200kW Vzduchový podvozok
+1217;Audi Q3 2.0 TDI 150k quattro S tronic Basis
+1218;Audi SQ5 3.0 TFSI 355k quattro tiptronic
+1219;Audi Q3 40 2.0 TFSI Advanced quattro S tronic
+1220;Audi A5 Sportback 2.0 TDI clean diesel quattro S tronic
+1221;Audi A8 Long 50 3.0 TDI V6 quattro tiptronic
+1222;Audi A4 Avant S-line 2.0TDI 130kw RS4
+1223;Audi S6 4.0 TFSI V8 450k quattro Bose. Siber. Miltek.Matri
+1224;Audi A4 Avant 2.0 TDI
+1225;Audi A6 Avant 50 3.0 TDI mHEV Sport quattro tiptronic
+1226;Audi S8 4.0 TFSI V8 quattro tiptronic
+1227;Audi A7 Sportback competition 3.0 TDI quattro 326k tiptron
+1228;Audi A8 3.0 TDI V6 DPF clean diesel quattro tiptronic
+1229;Audi RS6 Avant Performance, Webasto, Alcantara, Nočné videnie
+1230;Audi A6 3.0 TDI DPF 245k quattro S tronic
+1231;Audi A5 Sportback 3.0 TDI - S-Line
+1232;Audi A6 3.0 TDI DPF 272k quattro S tronic
+1233;Audi Q7 3.0 TDI quattro tiptronic
+1234;Audi 80 Cabrio Cabrio Cabrio 110kw Manuál
+1235;Audi A6 Avant 35 2.0 TDI mHEV Sport S tronic
+1236;Audi A5 40 2.0 TDI 190k Coupé S tronic
+1237;Audi A7 Sportback 50 3.0 TDI mHEV quattro tiptronic
+1238;Audi RS3 2.5 TFSI quattro S tronic
+1239;Audi A4 Avant 2.0 TDI Prestige multitronic
+1240;Audi A6 Avant 3.0 TDI DPF 218k S tronic
+1241;Audi A4 Avant 2.0 TDI 190k clean diesel Manager multitronic
+1242;Audi A4 2.0 TFSI 252k Sport quattro S tronic
+1243;Audi A6 Competition 3.0 BiTDI quattro tiptronic
+1244;Audi A5 Sportback 3.0 TDI quattro tiptronic Sport
+1245;Audi A6 Avant 40 2.0 TDI mHEV Basis S tronic
+1246;Audi A6 3.0 TDI DPF 272k quattro S tronic
+1247;Audi TT Coupé 169kw Automat
+1248;Audi A6 Avant 40 2.0 TDI mHEV Design Quattro S-tronic
+1249;Audi A4 Avant 35 2.0 TDI Advanced S tronic
+1250;Audi A4 Avant 2.0 TDI S tronic Basis
+1251;Audi A6 45 3.0 TDI mHEV Sport quattro tiptronic
+1252;Audi Q5 Audi Q5 3.0 TDI Sport 210 kW
+1253;Audi SQ7 4.0 TDI 435k quattro tiptronic 8-st.
+1254;Audi Q7 3.0 TDI 272k quattro tiptronic 8-st.
+1255;Audi Q5 50 2.0 TFSI e quattro S tronic PHEV/facelift /quat
+1256;Audi A3 1.6 Ambition TK/EK 2026
+1257;Audi A4
+1258;Audi A4 Avant 2.0 TDI Sport S tronic
+1259;Audi A5 Sportback 3.0 TDI quattro S tronic Sport
+1260;Audi A6 Avant 3.0BiTDI quattro S-Line LED MATRIX PANO WEBASTO
+1261;Audi A6 Avant 45 3.0 TDI mHEV Sport quattro tiptronic
+1262;Audi A4 Avant 2.0 TDI quattro
+1263;Audi A4 Allroad 40 2.0 TDI mHEV quattro S tronic
+1264;Audi RS5 Sportback 2.9 TFSI quattro tiptronic
+1265;Audi Q8 E-Tron 50 quattro
+1266;Audi Q8 50 3.0 TDI mHEV quattro tiptronic
+1267;Audi A5 Sportback 40 2.0 TDI Sport quattro S tronic
+1268;Audi Q8 50 3.0 TDI mHEV quattro tiptronic
+1269;Audi A4 Avant 2.0 TDI 190k Design quattro S tronic
+1270;Audi A5 Sportback 2.0 TDI Manager quattro S tronic
+1271;Audi S5/S5 Sportback
+1272;Audi Q3 35 2.0 TDI Advanced S tronic
+1273;Audi A4 Avant 45 3.0 TDI S line quattro tiptronic
+1274;Audi SQ8 TFSI mHEV quattro tiptronic
+1275;Audi A4 Avant 2.0 TDI 136k
+1276;Audi A8 Limuzína 171kw Automat
+1277;Audi A4 Avant 3.0 TDI V6 quattro S tronic
+1278;Audi A5 Cabriolet 3.0 TDI quattro S tronic
+1279;Audi A4 Avant 2.0 TDI 190k Design quattro S tronic
+1280;Audi A7 Sportback 55 2.0 TFSI e PHEV S tronic
+1281;Audi Q3 Sportback S line 40 TDI quattro STR
