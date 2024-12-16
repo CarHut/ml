@@ -52,13 +52,6 @@ async function interactAndScrapeAutobazarEu(page, startPage, endPage, interactor
     await scraper.startScraping(id + 1);
 }
 
-async function getIdFromPg() {
-    const pg = new PgConnection();
-    const id = await pg.getLastModelId();
-    console.log(id);
-    return id;
-}
-
 const main = async () => {
     const extensions = await loadExtensions();
     // Enable all stealth evasions
