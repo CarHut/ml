@@ -18,6 +18,10 @@ with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find
     X_old = file.readlines()
 with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\y.txt', 'r', encoding='utf-8') as file:
     y_old = file.readlines()
+with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_old_assigned_headers.txt', 'r', encoding='utf-8') as file:
+    X_new = file.readlines()
+with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_old_assigned_labels.txt', 'r', encoding='utf-8') as file:
+    y_new = file.readlines()
 
 # Prepare headers
 bazos_headers_without_id = [row.split(";")[1] for row in X_bazos]
@@ -25,11 +29,13 @@ autobazar_headers_without_id = [row.split(";")[1] for row in X_autobazar]
 bazos_headers_without_nl = [row.replace("\n", "").replace("\r", "") for row in bazos_headers_without_id]
 autobazar_headers_without_nl = [row.replace("\n", "").replace("\r", "") for row in autobazar_headers_without_id]
 old_headers_without_nl = [row.replace("\n", "").replace("\r", "") for row in X_old]
+new_headers_without_nl = [row.replace("\n", "").replace("\r", "") for row in X_new]
 bazos_headers_to_lower_case = [row.lower() for row in bazos_headers_without_nl]
 autobazar_headers_to_lower_case = [row.lower() for row in autobazar_headers_without_nl]
 old_headers_to_lower_case = [row.lower() for row in old_headers_without_nl]
-X = np.concatenate((bazos_headers_to_lower_case, autobazar_headers_to_lower_case, old_headers_to_lower_case))
-y = np.concatenate((y_bazos, y_autobazar, y_old))
+new_headers_to_lower_case = [row.lower() for row in new_headers_without_nl]
+X = np.concatenate((new_headers_to_lower_case, bazos_headers_to_lower_case, autobazar_headers_to_lower_case, old_headers_to_lower_case))
+y = np.concatenate((y_new, y_bazos, y_autobazar, y_old))
 
 X_reduced = []
 y_reduced = []

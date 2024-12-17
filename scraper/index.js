@@ -87,7 +87,7 @@ const main = async () => {
     page.content()
     const interactionsWithBazos = new InteractionsWithBazos(page);
     await interactionsWithBazos.interactWithBazosMainMenuOptionsAndClickOnAutoBazos(5);
-    await interactAndScrapeAutoBazos(page, 1, 18, interactionsWithBazos);
+    await interactAndScrapeAutoBazos(page, 1, 16, interactionsWithBazos);
     await browser.close();
 };
 
