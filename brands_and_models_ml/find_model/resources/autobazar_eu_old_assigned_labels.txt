@@ -2070,3 +2070,748 @@ Mercedes-Benz S 560
 Peugeot 3008
 Ford Mondeo
 Citroën Xsara
+BMW X3
+Renault Clio
+Škoda Fabia
+BMW None
+Hyundai Santa Fe
+Volkswagen Golf
+Opel Astra
+Mercedes-Benz S 63
+BMW 216
+Volvo XC60
+Škoda Octavia
+BMW M2
+BMW M8
+Volkswagen Touareg
+Volkswagen Tiguan
+Renault Clio
+Škoda Superb
+Audi A4
+Peugeot 5008
+Volvo V60
+Kia Sportage
+Mercedes-Benz GLE 450
+Peugeot Partner
+Škoda Octavia
+Peugeot 508
+BMW 520
+Volkswagen Golf
+Volkswagen Golf
+BMW 540
+Volkswagen Touareg
+Volvo XC60
+Peugeot 208
+BMW 320
+Tesla Model 3
+Škoda Octavia
+Suzuki Swift
+Hyundai i40
+Volkswagen Golf
+BMW 530
+Peugeot 308
+Porsche Cayenne
+Suzuki Ignis
+Subaru Outback
+Renault Master
+Brand was not found None
+Hyundai i30
+Iveco None
+Citroën C-Elysée
+Fiat Ducato
+Dacia Duster
+Mercedes-Benz Citan
+Toyota Corolla
+Hyundai i30
+Škoda Kodiaq
+Škoda Octavia
+Mercedes-Benz EQS
+BMW 116
+Škoda Octavia
+Citroën C4
+Ford Galaxy
+BMW X1
+Mercedes-Benz A 160
+Peugeot Traveller
+Volvo V60
+Ford Transit
+Seat Leon
+Volkswagen Sharan
+Opel Vivaro
+Škoda Fabia
+Peugeot 308
+Fiat Scudo
+Kia pro ceed
+Mercedes-Benz Citan
+Toyota Verso
+Volkswagen Tiguan
+Honda Civic
+Škoda Superb
+Renault Megane
+Volvo V40
+BMW X5
+BMW 320
+Mazda 6
+Iveco None
+Ford Kuga
+Volkswagen up!
+Mitsubishi ASX
+Citroën C4
+BMW 320
+Peugeot 5008
+Peugeot Boxer
+Land Rover Discovery
+Fiat Ducato
+Seat Ateca
+Citroën C4
+Volkswagen Caddy
+Alfa Romeo Brera
+Mercedes-Benz M 350
+Volkswagen Golf
+Škoda Octavia
+Audi A3
+Volkswagen Passat
+Škoda Superb
+Citroën C5
+Volkswagen Passat
+Škoda Superb
+Škoda Octavia
+Citroën Xsara
+BMW 530
+Mercedez-Benz Viano
+BMW X3
+Škoda Superb
+Škoda Octavia
+Škoda Praktik
+Mercedes-Benz S 350
+Peugeot 2008
+Mazda CX-5
+Mitsubishi Outlander
+BMW X5
+BMW 318
+Škoda Scala
+Mercedes-Benz CLC 43
+BMW 530
+Renault Espace
+Škoda Enyaq
+Audi A4
+Hyundai Kona
+Mercedes-Benz E 250
+Mercedes-Benz S 400
+Ford Mondeo
+Audi A4
+BMW 318
+Volkswagen Polo
+BMW X3
+Volkswagen Golf
+Peugeot 308
+Škoda Octavia
+Ford Transit
+Škoda Octavia
+Mazda CX-7
+Škoda Octavia
+Toyota Hilux
+Mercedes-Benz None
+Mercedes-Benz C 270
+Škoda Octavia
+Volkswagen Passat
+Opel Astra
+Renault Arkana
+Mercedes-Benz AMG GT
+Škoda Octavia
+Mitsubishi L200
+Citroën C3
+Volkswagen Touran
+BMW X6
+Volkswagen Tiguan
+Fiat Ducato
+Volkswagen Passat
+Škoda Octavia
+Saab 9-3
+Kia Sportage
+Kia ceed
+Seat Leon
+Volvo XC60
+Volkswagen Passat
+Opel Astra
+Škoda 105
+Škoda Octavia
+Audi S8
+Volkswagen Tiguan
+Audi A8
+BMW X1
+Škoda Rapid
+Fiat Ducato
+Škoda Octavia
+Mercedes-Benz E 220
+BMW None
+Fiat Tipo
+Seat Leon
+BMW 750
+Škoda Superb
+Opel Crossland
+BMW None
+Volkswagen Touareg
+Mazda 6
+Dacia Logan
+Ford Kuga
+Mercedes-Benz EQE
+Porsche Macan
+Škoda Karoq
+Volkswagen up!
+Kia ceed
+Honda Civic
+Opel Insignia
+Mercedes-Benz C 43
+Ford Kuga
+Volkswagen Arteon
+Škoda Karoq
+Kia Rio
+Volkswagen ID.4
+Kia Sportage
+Volkswagen Passat
+Dacia Logan
+Land Rover Discovery
+Volkswagen Touareg
+BMW 740
+Opel Astra
+Mazda 6
+Hyundai i30
+Opel Insignia
+Mercedes-Benz E 220
+Nissan Terrano
+Citroën Jumpy
+Kia Sportage
+Mercedes-Benz CLA 45
+Audi A6
+Škoda Karoq
+Volkswagen Golf
+Toyota Verso
+Volkswagen Golf
+Fiat Doblo
+Škoda Octavia
+Škoda Kodiaq
+Renault Koleos
+Mitsubishi ASX
+Volkswagen Golf
+Škoda Superb
+Audi A4
+Renault Scenic
+Ford Tourneo
+MINI ONE
+Kia Sorento
+Hyundai i30
+Iveco None
+BMW 745
+Opel Meriva
+Škoda Superb
+Mercedes-Benz C 220
+Mercedes-Benz V 220
+Audi A6
+Ford Focus
+Škoda Octavia
+Hyundai i30
+MAN None
+BMW 320
+Mazda 3
+Seat Ateca
+Mazda 6
+Škoda Fabia
+Audi A3
+Renault Clio
+Citroën C5
+Mercedes-Benz Sprinter
+Ford Transit
+Mazda CX-5
+Ford Kuga
+Škoda Octavia
+Audi A6
+Mercedes-Benz V 250
+Mitsubishi Pajero
+Volkswagen Passat
+Volkswagen Passat
+Subaru Forester
+Ford Mondeo
+MINI Cooper
+BMW 530
+BMW X7
+Volkswagen Golf
+Renault Megane
+Chevrolet Cruze
+Volkswagen Passat
+Suzuki Baleno
+Jaguar XE
+Smart ForFour
+Mazda 6
+Volkswagen Passat
+Škoda Fabia
+Volkswagen Passat
+Brand was not found None
+Volkswagen Tiguan
+MAN None
+Seat Arona
+Škoda Octavia
+Porsche Boxster
+Opel Corsa
+Peugeot Boxer
+Nissan X-Trail
+Peugeot Rifter
+Hyundai i30
+Fiat Fiorino
+Peugeot 3008
+Volvo V60
+BMW 520
+Škoda Superb
+BMW X1
+Volkswagen Touran
+Mercedes-Benz C 250
+Volkswagen Passat
+Kia Sportage
+Opel Mokka
+Citroën C3
+Opel Mokka
+Volkswagen Touran
+Volkswagen Golf
+Ford Kuga
+Dodge Nitro
+Ford Transit
+Kia ceed
+BMW 520
+Dacia Duster
+Ford Kuga
+Toyota Auris
+Volkswagen Golf
+Opel Zafira
+Volkswagen Arteon
+Toyota Auris
+Hyundai Tucson
+Kia Niro
+Volkswagen Jetta
+Opel Meriva
+Tesla Model 3
+Volkswagen Tiguan
+Fiat 124 SpiderBMW 520
+BMW X4
+Mercedes-Benz E 350
+Audi RS3
+Mercedes-Benz GLS 350
+Volvo XC40
+Volvo XC60
+Fiat Ducato
+Škoda Octavia
+Volkswagen Golf
+Nissan GT-R
+Škoda Superb
+Volkswagen Touran
+Škoda Fabia
+Škoda Octavia
+Mercedes-Benz C 200
+Mercedes-Benz S 350
+Nissan Note
+BMW 320
+Škoda Enyaq
+Suzuki SX4
+Land Rover Discovery
+Toyota Yaris
+Mercedes-Benz A 200
+Renault Arkana
+Audi S8
+Dacia Sandero
+Škoda Kodiaq
+Audi A8
+Škoda Octavia
+Peugeot 206
+Ford Kuga
+Škoda Octavia
+Citroën C4
+Opel Combo
+Škoda Superb
+BMW X4
+Škoda Karoq
+Mercedes-Benz V 250
+Škoda Superb
+Honda HR-V
+BMW M850
+Land Rover Range Rover
+Mercedes-Benz C 220
+Nissan Qashqai
+Toyota RAV 4
+Škoda 120
+Škoda Superb
+Kia Carens
+Škoda Octavia
+Kia Sportage
+Volkswagen Touran
+Volkswagen Golf
+Volkswagen Caddy
+Tesla Model Y
+BMW 118
+Citroën C4
+Mercedes-Benz A 200
+Škoda Octavia
+Audi A6
+BMW 530
+Hyundai i30
+DS DS7
+BMW X4
+Mercedes-Benz E 53
+Volkswagen Sharan
+Škoda Fabia
+Fiat Stilo
+Toyota Yaris
+Toyota PROACE CITY
+Opel Movano
+Mitsubishi Outlander
+Jeep Compass
+MINI Cooper Countryman
+Volkswagen Golf
+Mercedes-Benz CLA 200
+Citroën C5
+BMW None
+Mercedes-Benz E 220
+Mazda 3
+Dacia Duster
+Volkswagen Touareg
+Volkswagen Passat
+Mercedes-Benz E 350
+Škoda Yeti
+Seat Alhambra
+Mercedes-Benz S 350
+Seat Arona
+Volkswagen Golf
+Toyota Corolla
+Land Rover Range Rover
+Škoda Octavia
+BMW 118
+Seat Leon
+Toyota Land Cruiser
+Peugeot 2008
+Mercedes-Benz G 350
+Ford Focus
+Audi A6
+Hyundai Santa Fe
+Škoda Fabia
+Volkswagen Passat
+Volkswagen Touareg
+BMW 523
+Volkswagen Golf
+Kia Rio
+Toyota Corolla
+Peugeot Boxer
+Hyundai i30
+Peugeot 407
+Volkswagen T5 Transporter
+Opel Insignia
+Peugeot 308
+Volkswagen Touareg
+Mercedes-Benz GLE 450
+Škoda Octavia
+BMW X5
+Mazda 3
+Volkswagen Polo
+Škoda Kodiaq
+Toyota Hilux
+Volkswagen Jetta
+Hyundai Kona
+Seat Ateca
+Hyundai i30
+Peugeot 308
+BMW 525
+Peugeot Rifter
+MINI Cooper
+Audi A8
+Volkswagen Passat
+Suzuki Vitara
+Land Rover Range Rover
+Citroën C4
+BMW 520
+Volkswagen Amarok
+Toyota None
+Škoda Octavia
+Mercedes-Benz C 200
+BMW X5
+Škoda Superb
+BMW X7
+Škoda Fabia
+BMW M550
+Škoda Scala
+Škoda Octavia
+Volkswagen Golf
+Jeep Cherokee
+Dacia Lodgy
+Škoda Fabia
+Audi A4
+Mitsubishi L200
+Dacia Duster
+Škoda Fabia
+Ford Focus
+Volvo XC60
+Ford Explorer
+Škoda Superb
+Citroën C4
+Škoda Octavia
+Mercedes-Benz V 250
+Dacia Logan
+Citroën C-Crosser
+Hyundai i30
+Hyundai ix35
+Peugeot 407
+Renault Megane
+Audi S7
+Volkswagen Passat
+Suzuki SX4
+Audi A4
+Land Rover Defender
+Ford Galaxy
+Fiat Ducato
+Ford S-Max
+Suzuki Swift
+BMW 330
+Volkswagen Passat
+Škoda Kodiaq
+Citroën C4
+Škoda Superb
+Fiat Ducato
+Hyundai Tucson
+BMW None
+Škoda Kodiaq
+Citroën C5
+Honda CR-V
+Škoda Karoq
+Toyota C-HR
+Hyundai i30
+Honda Civic
+Volkswagen Golf
+Hyundai ix20
+Škoda Fabia
+Mazda CX-5
+Opel Zafira
+Mercedes-Benz None
+Hyundai i30
+Hyundai i30
+Subaru Impreza
+Seat Ateca
+Škoda Octavia
+Land Rover Range Rover
+Volkswagen Golf
+Porsche Cayenne
+BMW X4
+Škoda Superb
+Peugeot Boxer
+Volkswagen Golf
+Seat Leon
+Mercedes-Benz R 350
+Peugeot 308
+Mercedes-Benz CLA 180
+Suzuki Swift
+Volkswagen Touareg
+Porsche Boxster
+Audi S6
+Volkswagen Golf
+Peugeot 3008
+Ford Ranger
+Volkswagen ID.5
+Mercedes-Benz CLA 200
+Volkswagen Fox
+Volvo C70
+Citroën Berlingo
+Volkswagen Golf
+Mercedes-Benz GLA 180
+BMW M5
+Hyundai i30
+BMW Z4
+Volkswagen Arteon
+Škoda Karoq
+Seat Altea
+Volkswagen Polo
+Toyota Land Cruiser
+Audi A6
+Dacia Sandero
+Kia EV6
+Škoda Octavia
+Škoda Octavia
+Hyundai Tucson
+BMW 530
+Volkswagen Golf
+BMW 116
+Volvo S40
+Volkswagen Sharan
+Honda Element
+BMW 420
+Hyundai Tucson
+Škoda Octavia
+Opel Vivaro
+Škoda Octavia
+Mercedes-Benz Viano
+Honda Civic
+Škoda Octavia
+Volkswagen Touareg
+Hyundai i30
+Škoda Superb
+Mercedes-Benz None
+Citroën C4
+Škoda Fabia
+Opel Corsa
+Hyundai i30
+Škoda Octavia
+Kia XCeed
+Volkswagen Passat
+BMW 318
+Volkswagen Passat
+Kia Niro
+Volvo XC60
+BMW X5
+Peugeot 307
+Volkswagen Tiguan
+Tesla Model S
+Škoda Octavia
+Volkswagen Passat
+Volkswagen T-Cross
+Ford None
+Škoda Superb
+Renault Master
+Kia ceed
+Land Rover Freelander
+Volkswagen Passat
+Audi A4
+Opel Astra
+Fiat Stilo
+Peugeot 5008
+Mercedes-Benz 250
+Mercedes-Benz GLB 220
+Volvo V60
+Fiat Punto
+Nissan X-Trail
+Škoda Superb
+Audi A6
+Dacia Duster
+Volvo XC60
+Mazda 2
+Škoda Octavia
+Porsche Panamera
+Renault Megane
+Seat Leon
+Subaru Forester
+Porsche Cayman
+Ford Mondeo
+Peugeot 2008
+Seat Altea
+Renault Espace
+Toyota RAV 4
+Iveco None
+Volkswagen Golf
+Mercedes-Benz Sprinter
+Volkswagen Passat
+Mercedes-Benz M 270
+Volvo XC40
+Volkswagen Passat
+Mercedes-Benz GLK 320
+Opel Corsa
+Volkswagen V 250
+Toyota Yaris
+Audi A3
+Volvo V60
+Škoda Superb
+Suzuki Swift
+Kia Venga
+Volkswagen Passat
+Seat Ibiza
+Škoda Octavia
+Hyundai ix20
+BMW X5
+Volkswagen None
+Citroën C4
+Ford Focus
+Škoda Octavia
+BMW 325
+Škoda Kodiaq
+Škoda Octavia
+Jaguar F-Pace
+MINI Cooper Clubman
+Audi A3
+Peugeot Boxer
+Škoda Superb
+Tesla Model Y
+Škoda Octavia
+Škoda Octavia
+Volkswagen Golf
+Škoda Octavia
+Suzuki Grand Vitara
+Audi A6
+Toyota Land Cruiser
+Renault Megane
+Opel Astra
+Mazda 6
+BMW X5
+Fiat 500
+Volkswagen T6 Caravelle
+Volkswagen Golf
+Volkswagen Passat
+Volkswagen Passat
+Toyota Corolla
+Audi A4
+Toyota Landcruiser
+Opel Zafira
+Toyota RAV 4
+Maserati Ghibli
+Peugeot Partner
+Škoda Octavia
+Volkswagen Tiguan
+Land Rover Range Rover
+Peugeot 308
+Mazda CX-5
+Nissan Almera
+BMW 740
+Seat Leon
+Mercedes-Benz E 53
+Hyundai Tucson
+BMW X6
+Audi A4
+BMW None
+Škoda Octavia
+Peugeot 5008
+Volkswagen Golf
+Ford Fiesta
+Audi A8
+Volkswagen Golf
+Škoda Octavia
+Land Rover Defender
+Nissan Patrol
+Volkswagen Golf
+Iveco None
+Hyundai i30
+BMW 318
+Škoda Octavia
+Kia pro ceed
+Toyota Avensis
+Peugeot Boxer
+Ford Focus
+Seat Ateca
+Mazda CX-5
+Volkswagen Passat
+Ford S-Max
+Mercedes-Benz GLC 220
+Hyundai Tucson
+Seat Ateca
+Škoda Octavia
+Škoda Fabia
+Mercedes-Benz Vito
+Opel Zafira
+Peugeot 308
+BMW 540
+Ford Ranger
+Toyota Corolla
+Jaguar XF
+Škoda Superb
+BMW X4
+Suzuki SX4
+Renault Megane
+Peugeot 207
+Hyundai i20
+Škoda Octavia
+Honda Civic
+Renault Megane
+Dacia Sandero
+Renault Captur
+Peugeot 2008
+Mazda MX-5
