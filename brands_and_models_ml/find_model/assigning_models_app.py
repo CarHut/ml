@@ -30,7 +30,7 @@ def sort_headers_by_ids_asc():
     conn = connect_to_postgresql()
     cur = conn.cursor()
     for _id in header_ids:
-        cur.execute(f'SELECT * FROM autobazar_eu_pupp WHERE id = \'{_id}\' LIMIT 1')
+        cur.execute(f'SELECT * FROM autobazar_eu WHERE id = \'{_id}\' LIMIT 1')
         headers.append(cur.fetchone()[1])
 
 def connect_to_postgresql():
@@ -51,10 +51,10 @@ def update_header():
 
 def add_labels(brand_and_model):
     brand_and_model = brand_and_model.replace("\n", "").replace("\r", "")
-    with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_assigned_headers.txt', 'a', encoding="utf-8") as the_file:
+    with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_old_assigned_headers.txt', 'a', encoding="utf-8") as the_file:
         the_file.write(f'{header_ids[current_header_count]};{headers[current_header_count]}\n')
 
-    with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_assigned_labels.txt', 'a', encoding="utf-8") as the_file:
+    with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_old_assigned_labels.txt', 'a', encoding="utf-8") as the_file:
         the_file.write(f'{brand_and_model}\n')
 
     print(f'{headers[current_header_count]}: {brand_and_model}')
@@ -63,7 +63,7 @@ def set_headers():
     global headers
     global header_ids
     cursor = connect_to_postgresql().cursor()
-    cursor.execute('SELECT * FROM autobazar_eu_pupp')
+    cursor.execute('SELECT * FROM autobazar_eu')
     header_ids = [row[0] for row in cursor.fetchall()]
     sort_headers_by_ids_asc()
 
@@ -74,37 +74,37 @@ def predict_brand_and_model(header):
     brand_and_model_box.delete("1.0", "end")
     brand_and_model_box.insert("1.0", predictions[0])
 
-def init():
-    global current_header_count
-    global headers
-    global header_ids
-    try:
-        with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_assigned_headers.txt', 'r', encoding="utf-8") as f:
-            last_line = f.readlines()[-1]
-        file_last_id = last_line.split(";")[0]
-        index_of_id = header_ids.index(int(file_last_id))
-        headers = headers[index_of_id+1:]
-        header_ids = header_ids[index_of_id+1:]
-    except Exception as e:
-        print('Error occurred while trying to get last element')
-    header_label.configure(text=f'[{header_ids[0]}]: {headers[0]}')
-    predict_brand_and_model(headers[0])
-
 # def init():
 #     global current_header_count
 #     global headers
 #     global header_ids
 #     try:
-#         with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_old_assigned_headers.txt', 'r', encoding="utf-8") as f:
+#         with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_assigned_headers.txt', 'r', encoding="utf-8") as f:
 #             last_line = f.readlines()[-1]
 #         file_last_id = last_line.split(";")[0]
-#         index_of_id = header_ids.index(file_last_id)
+#         index_of_id = header_ids.index(int(file_last_id))
 #         headers = headers[index_of_id+1:]
 #         header_ids = header_ids[index_of_id+1:]
 #     except Exception as e:
 #         print('Error occurred while trying to get last element')
-#     header_label.configure(text=f'{headers[0]}')
+#     header_label.configure(text=f'[{header_ids[0]}]: {headers[0]}')
 #     predict_brand_and_model(headers[0])
+
+def init():
+    global current_header_count
+    global headers
+    global header_ids
+    try:
+        with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_old_assigned_headers.txt', 'r', encoding="utf-8") as f:
+            last_line = f.readlines()[-1]
+        file_last_id = last_line.split(";")[0]
+        index_of_id = header_ids.index(file_last_id)
+        headers = headers[index_of_id+1:]
+        header_ids = header_ids[index_of_id+1:]
+    except Exception as e:
+        print('Error occurred while trying to get last element')
+    header_label.configure(text=f'{headers[0]}')
+    predict_brand_and_model(headers[0])
 
 if __name__ == "__main__":
     set_headers()

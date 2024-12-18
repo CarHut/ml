@@ -89,7 +89,7 @@ Brand was not found None
 Kia Sportage
 Audi Q3
 Volkswagen Touran
-Suzuki SJ Samurai
+Suzuki Samurai
 Škoda Superb
 Jeep Renegade
 Volkswagen Touareg
@@ -392,7 +392,7 @@ Seat Altea
 Mercedes-Benz GLE 300
 BMW 520
 Iveco None
-DS7 (Crossback)
+DS DS7
 BMW None
 BMW X6
 Brand was not found None
@@ -511,7 +511,7 @@ BMW 530
 Škoda Kodiaq
 Volvo V60
 Audi A4
-Volkswagen T6 Multivan
+Volkswagen T6
 Audi Q7
 Suzuki Vitara
 BMW 118
@@ -740,8 +740,8 @@ Subaru XV
 Volkswagen Golf
 Volkswagen ID.3
 Volkswagen ID.4
-Volkswagen T6 Multivan
-Volkswagen T6 Multivan
+Volkswagen T6
+Volkswagen T6
 Škoda Octavia
 Volkswagen Touareg
 MINI Cooper
@@ -1180,7 +1180,7 @@ Audi A4
 Volkswagen Passat
 Škoda Superb
 Ford Focus
-Volkswagen T6 Multivan
+Volkswagen T6
 Audi A6
 Škoda Octavia
 Škoda Karoq
@@ -1673,7 +1673,7 @@ Brand was not found None
 Brand was not found None
 Brand was not found None
 BMW 118
-Volkswagen CC
+Volkswagen Passat
 Seat Alhambra
 Audi Q3
 Brand was not found None
@@ -2162,7 +2162,7 @@ Brand was not found None
 Mercedes-Benz Vito
 Škoda Octavia
 Jeep Grand Cherokee
-Suzuki SJ Samurai
+Suzuki Samurai
 Jeep Grand Cherokee
 Citroën C4
 Jeep Grand Cherokee
@@ -2267,13 +2267,13 @@ Citroën C3
 Seat Altea
 Toyota Hilux
 Suzuki SX4
-Suzuki SJ Samurai
+Suzuki Samurai
 Škoda Kodiaq
 Audi A6
 BMW None
 Toyota Hilux
 Suzuki None
-Suzuki SJ Samurai
+Suzuki Samurai
 Škoda Kodiaq
 Audi A6
 BMW None
@@ -2968,7 +2968,7 @@ Volkswagen Passat
 Hyundai i20
 Jeep Compass
 Škoda Octavia
-Mercedes-Benz CLA 220 Shooting Brake
+Mercedes-Benz CLA 220
 Audi A7
 Škoda Octavia
 Renault Master
@@ -3021,7 +3021,7 @@ Tesla Model 3
 Citroën C3
 Volkswagen Sharan
 Škoda Kodiaq
-Volkswagen T6 Caravelle
+Volkswagen T6
 Audi A4
 Volkswagen Touran
 Audi A6
