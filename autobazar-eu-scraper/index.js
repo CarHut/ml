@@ -78,7 +78,7 @@ const main = async () => {
     await delay(10000);
     await page.goto(pageUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
     const interactionsWithAutobazarEu = new InteractionsWithAutobazarEu(page);
-    await interactAndScrapeAutobazarEu(page, 1, 17, interactionsWithAutobazarEu, browser);
+    await interactAndScrapeAutobazarEu(page, 1, 22, interactionsWithAutobazarEu, browser);
     await delay(60000);
     await browser.close();
 };
