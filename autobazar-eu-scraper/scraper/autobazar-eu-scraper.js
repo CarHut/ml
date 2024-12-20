@@ -146,8 +146,14 @@ class AutobazarEuScraper {
             const price = await priceElement.evaluate(node => node.innerText);
             return price;
         } catch (error) {
-            console.log(error);
-            return 'null';
+            try {
+                const priceElement = await currentTab.$(`div[class="text-3xl"]`);
+                const price = await priceElement.evaluate(node => node.innerText);
+                return price;
+            } catch (error1) {
+                console.log(error1);
+                return 'null';
+            }
         }
     }
 
@@ -481,7 +487,7 @@ class AutobazarEuScraper {
             return;
         }
         await this.confirmBrandSelection();
-        await this.delay(Math.floor(Math.random() * 20000));
+        await this.delay(Math.floor(Math.random() * (20000-18000) + 18000));
         await this.goToCarOffers();
         var currentId = startId;
         for (let i = this.startPage+1; i < this.endPage; i++) {

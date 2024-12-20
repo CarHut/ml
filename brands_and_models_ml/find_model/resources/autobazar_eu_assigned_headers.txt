@@ -1965,3 +1965,566 @@
 1965;Mercedes E trieda Coupé 400 4matic A/T
 1966;Mercedes 200 D Combi 100kw Manuál
 1967;Mercedes-Benz A trieda 180 d /T
+1968;Škoda Karoq 1.6 TDI Ambition
+1969;Volvo XC90 B6 mHEV Plus Bright AWD A/T 7m
+1970;Mazda CX-5 2.5 Skyactiv-G194 Revolution Top A/T
+1971;Cupra Formentor VZ333, Panoráma, Ťažné zariadenie. Drive assist
+1972;Dacia Dokker 1.6 SCe Access
+1973;Audi S6 Avant komplet PPF folia
+1974;Peugeot Traveller 2.0 BlueHDi Business Long
+1975;Toyota Corolla Combi TS GR Sport 2,0 Hybrid 112 kw eCVT
+1976;KIA Sportage 1.6 GDi Gold 2WD
+1977;Audi R8 RWS Spyder 5.2 FSI V10 S tronic
+1978;Toyota Corolla sedan 1.8 73kW Hybrid e-CVT Limousine Active
+1979;Dacia Duster
+1980;Ford Focus Kombi 1.5 TDCi Ecoblue Titanium A/T
+1981;Renault Captur 1.6 E-Tech Plug-in hybrid 160 Intens A/T
+1982;Toyota Corolla Combi TS 2.0 Hybrid Executive
+1983;Mercedes S trieda 400 d 4MATIC L A/T
+1984;Suzuki Swift 1.0 BoosterJet GLX 2WD A/T
+1985;Hyundai i30 CW 1.4 T-GDi Family
+1986;Kia Sportage 1.6 CRDi MHEV 2WD 7DCT Platinum
+1987;Hyundai i30 CW 1.4 T-GDi Family
+1988;Ford Explorer 3.0 EcoBoost PHEV 457k (336kW) A10 - AWD, ST-Line
+1989;Ford Focus Kombi 1.0 EcoBoost mHEV ST-Line A/T
+1990;Tesla Model X AWD (90D)
+1991;Ford Focus Kombi 1.5 EcoBoost Active X A/T
+1992;Toyota Corolla Combi TS GR Sport 2,0 Hybrid eCVT
+1993;Volkswagen Passat 2.0 TDI 190k BMT Highline DSG
+1994;Citroen C4 Cactus PureTech 82 Feel S&S ETG
+1995;Mazda 3 1.6 i Comfort
+1996;Škoda Fabia 1.2 HTP 12V Ambiente
+1997;Citroen C4 Picasso EHDi 115 Exclusive
+1998;Citroen DS5 2.0 HDi
+1999;Mini Cooper Hatchback 100kw Automat
+2000;Nissan Qashqai DCi 130 Tekna Xtronic
+2001;Opel Insignia 2.0 CDTI S&S Innovation AT8
+2002;Audi Q7 3.0 TDI 272k quattro tiptronic 8-st.
+2003;Volkswagen T-Roc 2.0 TDI BMT Style 4Motion
+2004;Volkswagen Arteon Shooting Brake 2.0 TDi DSG / Na splátky cez nájomnú zmluvu / Bez skúmania príjmu
+2005;Volkswagen Multivan 2.0 TDI BMT 150k Highline DSG
+2006;Volkswagen Passat Variant 2.0 TSI 140 kW R-Line DSG
+2007;Volkswagen Golf Variant 1.5 TSI OPF BMT ACT Comfortline DSG
+2008;Volkswagen T-Roc 1.6 TDI Style
+2009;Volkswagen ID.3 Pro S Performance 77kWh Tour 4
+2010;Volkswagen Golf Variant 1.6 TDI BMT 115k Comfortline
+2011;Volkswagen Golf Variant Alltrack 2.0 TDI BMT 184k DSG 4MOTION Edition
+2012;Volkswagen Passat Variant R-LINE ,1.5 TSI ACT, Business DSG
+2013;Volkswagen Golf 2.0 TSI BMT GTI Performance DSG EU6
+2014;Volkswagen Golf 1.6 TDI Comfortline DSG
+2015;Volkswagen Multivan 2.5 TDI United 96 kW, M6
+2016;Volkswagen T-Roc 2.0 TDI Style DSG
+2017;Volkswagen Tiguan Allspace 2.0 TSI BMT 4MOTION Highline DSG
+2018;Volkswagen Crafter Dodávka 30 2.0 TDI L3
+2019;Volkswagen Caravelle Long T6 2,0 TDI LONG 4x4 DSG
+2020;Volkswagen Golf Plus 1.6 TDI Trendline
+2021;Volkswagen Golf Variant Alltrack 2.0 TDI BMT 4MOTION DSG
+2022;Volkswagen Passat 2.0 BiTDI 240k BMT Highline 4-MOTION DSG Busines
+2023;Volkswagen Passat Variant 2.0 TDI BMT Highline R-Line DSG
+2024;Volkswagen Touran 2.0 TDI SCR 150k Edition Comfortline DSG
+2025;Volkswagen Passat Variant 1.5 TSI ACT Elegance R-Line DSG
+2026;Volkswagen Passat Variant 2.0 TDI BMT 170k Comfortline
+2027;Volkswagen Passat Variant 2.0 TDI Business DSG
+2028;Volkswagen Tiguan 2.0 TDI SCR BMT Edition Comfortline DSG
+2029;Volkswagen Passat Variant 2.0 TDI BMT Comfortline DSG
+2030;Volkswagen Sharan 2.0 TDI BMT Highline DSG
+2031;Volkswagen Golf E-Golf - tep. cerp.. adapt. temp.
+2032;Ford Transit Bus M6 2.0 TDCi/125 kw L3H2 9 miest
+2033;Mercedes B trieda 200 BlueEFFICIENCY A/T
+2034;Volkswagen Passat Variant 2.0 TDI BMT R-line DSG
+2035;Volkswagen Multivan 2.0 BiTDI Highline 4MOTION
+2036;Volkswagen Multivan 2.0 TDI 140k Comfortline
+2037;Volkswagen Polo 1.2 TSI Comfortline
+2038;BMW rad 3 318d A/T
+2039;KIA Cee’d Sporty Wagon Combi 117.5kw Manuál
+2040;Volkswagen Tiguan 2.0 TDI SCR BMT 190k 4MOTION Highline DSG
+2041;Volkswagen Touran 1.6 TDI Comfortline DSG
+2042;Ford Kuga 2.0 TDCi Duratorq Anniversary Plus A/T AWD
+2043;Škoda Fabia NÁJAZD LEN 105 000KM - KLÍMA - NOVÁ STK - 3690.-EUR
+2044;Škoda Kodiaq 2.0 TDI SCR EVO Joy DSG
+2045;Škoda Superb Combi 2.0 TDI SCR Sportline 4x4 DSG
+2046;Škoda Yeti 1.2 TSI Ambition DSG E6
+2047;Toyota Proace Verso Family 2.0 D-4D 140 L2 A8
+2048;Opel Corsa 1.4 Enjoy
+2049;BMW X7 XDrive M50d A/T
+2050;RENAULT Fluence
+2051;Alfa Romeo 159 Sportwagon 3.2 V6 High Q4 A/T
+2052;Volkswagen Passat Variant 2.0 BiTDI 240k BMT Highline 4MOTION DSG
+2053;Toyota Land Cruiser 3.0 D-4D A/T
+2054;Land Rover Discovery 2.0L TD4 HSE AWD A/T
+2055;Škoda Kodiaq 2.0 TDI SCR EVO Style DSG
+2056;Toyota Hilux DC 2.8 I D-4D GR Sport 4x4 A/T
+2057;Toyota Land Cruiser 2.8 D-4D 204 Executive A/T 4x4
+2058;Lexus RX 500h F Sport Performance Top
+2059;Mercedes S trieda 580 L mHEV 4MATIC A/T
+2060;Ford Tourneo Custom 2.0 TDCi 170 Titanium L2 T310 A/T
+2061;Volkswagen Tiguan R-line 2.0 TDI 140kW DSG 4Motion, Nelakované, Virtual cockpit, Keramika
+2062;Audi A7 Sportback competition 3.0 TDI quattro 326k tiptron
+2063;AUDI A5 Sportback 40
+2064;Mercedes-Benz C trieda Sedan C180 AMG Line
+2065;Volkswagen Golf 1.9 TDI Comfortline M5
+2066;Škoda Superb Combi 2.0 TDI SCR L&K 4x4 DSG
+2067;Land Rover Discovery Iné 250kw Automat
+2068;Volkswagen Tiguan 2.0 TDI SCR BMT Edition Comfortline DSG
+2069;Volkswagen Sharan 2.0 TDI SCR BMT 184k F&B Highline DSG EU6
+2070;Ford Tourneo Custom 2.0 TDCi 170 Titanium L1 T320 A/T
+2071;Ford Mustang 5.0 Ti-VCT V8 446k A10 (328kW) - RWD, GT, Fastback
+2072;Škoda Superb 2.0 TDI SCR Sportline 4x4 DSG
+2073;Porsche Macan S
+2074;Audi A4 Avant 35 2.0 TDI Advanced S tronic
+2075;Mazda 6 Combi (Wagon) 6 2.2 Skyactiv-D150 Attraction A/T
+2076;Mazda 6 Combi (Wagon) 6 2.2 Skyactiv-D150 Attraction A/T
+2077;Mazda MX-5 2.0 Skyactiv-G160 Revolution
+2078;Mazda MX-5 2.0 Skyactiv-G160 Revolution TOP I-ELOOP
+2079;Land Rover Range Rover Evoque 2.0D I4 D165 MHEV SE AWD A/T
+2080;Volvo XC90 T8 TWIN ENGINE Inscription Expression 7m eAWD A/T
+2081;BMW rad 5 Touring 530d xDrive A/T
+2082;Mini John Cooper Works 2.0i | 183kw | FWD
+2083;KIA Soul E-Soul Ecoelectric Automat
+2084;Nissan Qashqai Automat - DIG-T 160
+2085;Škoda Superb Combi 2.0 TDI SCR L&K 4x4 DSG
+2086;Volkswagen Touareg 3.0 V6 TDI SCR Touareg 4Motion Tiptronic
+2087;Audi S7 Sportback 3.0 TDI quattro EXCLUSIVE DREVO
+2088;Lexus RC 300h F Sport
+2089;BMW Rad 7 740d M SPORT xDrive *Panoráma*HUD*Bowers&Wilkins*TOP! Ako nové, v záruke!
+2090;BMW rad 4 Gran Coupé M-Sport 420d xDrive
+2091;Škoda Superb 2.0 TDI 190k 4x4 Sportline 6DSG
+2092;Škoda Superb Combi 2,0TDI DSG 7 Ambition
+2093;BMW X7 xDrive40d
+2094;Volkswagen T6 Multivan 2.0 BiTDI BMT Comfortline 4MOTION DSG
+2095;Mazda 6 2.5 Skyactiv-G194 Revolution TOP A/T
+2096;BMW rad 3 40i mHEV xDrive A/T
+2097;BMW 118i Hatch
+2098;BMW 118i Hatch
+2099;BMW X2 xDrive18d
+2100;BMW X1 sDrive18d
+2101;BMW 520d xDrive Sedan
+2102;BMW X1 xDrive30e
+2103;Mercedes C trieda 180 A/T
+2104;Mercedes-Benz C 220 d 4MATIC kombi
+2105;Mercedes-Benz C 200 4MATIC sedan
+2106;Mercedes-Benz C 300 de 4MATIC sedan
+2107;Mercedes C trieda T 220 CDi
+2108;Mercedes-Benz C 220 d 4MATIC sedan
+2109;Mercedes-Benz C 220 d 4MATIC sedan
+2110;Mercedes-Benz C 220 d 4MATIC sedan
+2111;Mercedes-Benz C 220 d sedan
+2112;Mercedes-Benz C 220 d 4MATIC sedan
+2113;Mercedes-Benz C 220 d 4MATIC sedan
+2114;Mercedes-Benz C 220 d 4MATIC kombi
+2115;Mercedes C trieda Sportcoupé 220 CDI A/T
+2116;Mercedes-Benz C trieda Kupé 180 Kompressor
+2117;Mercedes-Benz C trieda Kupé 180 Kompressor Evolution A/T
+2118;Mercedes C trieda 2.1
+2119;Mercedes C trieda T W204 C200 2.2 cdi 100KW AT
+2120;Mercedes C trieda T 180 CGI BlueEFFICIENCY
+2121;Mercedes C trieda 220 CDI Avantgarde A/T
+2122;Mercedes C trieda T 2.1
+2123;Mercedes C trieda T 220 CDI Elegance A/T
+2124;Mercedes-Benz C trieda Sedan 220 CDI Avantgarde A/T
+2125;Mercedes C trieda T c200 CDi Avantgarde
+2126;Mercedes C trieda 180 K Avantgarde
+2127;Mercedes-Benz C trieda Kombi C200 CDi, Automatik, 12 mesačná záruka
+2128;Mercedes-Benz C trieda Sedan 2.0 C200 Automat
+2129;Mercedes C trieda 350 Avantgarde Sport AMG A/T
+2130;Mercedes C trieda 320 CDI Avantgarde 4-matic A/T
+2131;Mercedes-Benz Třídy C 180 CGI Coupe REZERVACE
+2132;Mercedes-Benz C trieda Kombi 180 d A/T
+2133;Mercedes C trieda 200 d A/T
+2134;Mercedes-Benz C trieda Kombi 220 d A/T 4MATIC
+2135;Mercedes C trieda T 220 CDi 7-G
+2136;Mercedes-Benz C trieda Kombi 250 d 4matic A/T
+2137;Mercedes C trieda 300 CDI 4matic BlueEFFICIENCY Avantgarde A/T
+2138;Mercedes C trieda 250 CDI BlueEFFICIENCY Classic 4matic A/T
+2139;Mercedes C trieda 200
+2140;Mercedes C trieda T T V8 55 AMG
+2141;Mercedes C trieda T 2.0
+2142;Mercedes C trieda T Combi 118kw Automat
+2143;Mercedes C trieda 220 d 4MATIC A/T
+2144;Mercedes C trieda 250 CDI BlueEFFICIENCY Elegance 4matic A/T
+2145;Mercedes C trieda Sportcoupé 220 CDI
+2146;Mercedes-Benz C trieda Kombi Mercedes Benz C300h
+2147;Mercedes E trieda 220 d A/T
+2148;Mercedes E trieda Mercedes-AMG E 43 4MATIC A/T
+2149;Mercedes-Benz E trieda Kupé 300 A/T
+2150;Mercedes E trieda T 400 4MATIC A/T
+2151;Mercedes E trieda 220 d 4MATIC A/T
+2152;Mercedes E trieda T 220 d A/T
+2153;Mercedes E trieda 220 d 4MATIC A/T
+2154;Mercedes E trieda Coupé 400 4matic A/T
+2155;Mercedes-Benz Třídy E d 4MATIC
+2156;Mercedes E trieda 220 CDI
+2157;Mercedes E trieda 220 CDi Classic
+2158;Mercedes E trieda T E 320 CDi Elegance
+2159;Mercedes E trieda T E 280 CDi 4-Matic Avantgarde
+2160;Mercedes E trieda 320 Avantgarde A/T
+2161;Mercedes E trieda 220 CDI Elegance A/T
+2162;Mercedes E trieda 250 CDI BlueTEC Classic 4matic
+2163;Mercedes E trieda e280 CDi
+2164;Mercedes E trieda T E 320 CDi
+2165;Mercedes E trieda T 220 CDi T
+2166;Mercedes E trieda T 200 CDI Elegance
+2167;Mercedes-Benz E trieda Kombi 200 CDI Blue Elegance A/T
+2168;Mercedes-Benz E 350 4 MATIC
+2169;Mercedes E trieda Combi 120kw Manuál
+2170;Mercedes E trieda T 2.1
+2171;Mercedes E trieda T 2.1 T 4M
+2172;Mercedes-Benz E trieda Kombi 250 CDI Blue Classic A/T
+2173;Mercedes E trieda T 200 CDi 100 Avantgarde AMG Man
+2174;Mercedes-Benz E trieda Sedan 200 CDI BlueTEC Classic A/T
+2175;Mercedes E trieda T E 220 T BlueTEC
+2176;Mercedes E trieda T CDi 300 BlueTEC Avantgarde
+2177;Mercedes-Benz E trieda Sedan 250 CDI Blue Avantgarde A/T
+2178;Mercedes E trieda 350 CDI Blue Avantgarde 4matic
+2179;Mercedes E trieda 320 XL
+2180;Mercedes-Benz E trieda Kombi 220 CDI Blue Elegance A/T
+2181;Mercedes-Benz Třídy E E 350 CDI AMG*AUTOMAT*NAVI*
+2182;Mercedes E trieda T 2.1
+2183;Mercedes E trieda Coupé 350 CDI BlueEfficiency
+2184;Mercedes C trieda c200 Kompressor
+2185;Mercedes-Benz E trieda Kombi 250 CDI 4matic Blue Avantgarde
+2186;Mercedes-Benz E trieda Kombi 200 CDI BlueTEC Avantgarde A/T
+2187;Mercedes E trieda T 3.0
+2188;Mercedes E trieda 200
+2189;Mercedes E trieda Limuzína 120kw Automat
+2190;Mercedes-Benz Třídy E 3,2 320 XL 165kW Binz 8-Míst
+2191;Mercedes E trieda 200 CDI BlueTEC Elegance A/T
+2192;Mercedes E trieda e250
+2193;Mercedes E trieda 250 CDI 4matic BlueE Classic 7G
+2194;Mercedes E trieda 200 CDI BlueTEC Elegance A/T
+2195;Mercedes E trieda 500 Elegance A/T
+2196;E 350 BlueTEC 4MATIC sedan
+2197;Mercedes-Benz E trieda Kombi 220 CDI BlueTEC Elegance A/T
+2198;Mercedes E trieda T 2.0
+2199;Mercedes E trieda T Combi 190kw Automat
+2200;Mercedes E trieda Sedan 120kw Automat
+2201;Mercedes E trieda T 220 D
+2202;Mercedes-Benz CLA Shooting Brake SB 220 d A/T
+2203;Mercedes-Benz CLA 180 d kupé
+2204;Mercedes-Benz GLE 350 de 4MATIC kupé
+2205;Mercedes-Benz CLE 200 4MATIC kupé
+2206;Mercedes CLA Shooting Brake Combi 130kw Automat
+2207;Mercedes CLA 200D
+2208;Mercedes-Benz CLA Shooting Brake SB 200 A/T
+2209;Mercedes CLA 200 CDi
+2210;Mercedes-Benz CLE 450- Magno- Night- AMG Line- HUD- Burmester
+2211;Mercedes CLK Cabrio 320 160
+2212;Mercedes-Benz CLC 220 CDI A/T
+2213;Mercedes-Benz CLC 220 CDI A/T
+2214;Mercedes-Benz CLK Kabriolet 320 Avantgarde A/T
+2215;Mercedes-Benz CLK Kabriolet
+2216;Mercedes CLK Cabrio 3.0 i V6 Elegance
+2217;Mercedes CLA 200
+2218;Mercedes-Benz CLA Shooting Brake
+2219;Mercedes CLA 220 CDI AMG LINE
+2220;Mercedes-Benz CLA Shooting Brake SB 180
+2221;Mercedes CLA 220 D 4-Matic
+2222;Mercedes CLA Shooting Brake Combi 100kw Automat
+2223;Mercedes-Benz CLA Shooting Brake SB 180 A/T
+2224;Mercedes CLA SB 180 d
+2225;Mercedes-Benz CLA Kupé 200d 4matic A/T NIGHT /AJ NA SPLÁTKY/
+2226;Mercedes CLA Shooting Brake 180 7G tronic
+2227;Mercedes-Benz CLA Kupé 200 CDI AMG LINE A/T
+2228;Mercedes-Benz CLA Shooting Brake SB 180 AMG Line A/T
+2229;Mercedes-Benz CLA Shooting Brake 220 4M / ACC / Kamera / Keyless / Active park. / Mŕtve uhly / Adapt
+2230;Mercedes CLA 180 AMG Line A/T
+2231;Mercedes-Benz CLA Shooting Brake SB 220 d AMG Line A/T
+2232;Mercedes CLA SB 200 d A/T
+2233;Mercedes-Benz CLA Shooting Brake SB 200 d AMG Line A/T
+2234;Mercedes CLA 180 Coupe
+2235;Mercedes CLA 2.0 AT 2
+2236;Mercedes-Benz CLA Shooting Brake SB 220 d AMG Line A/T
+2237;Mercedes CLA 220 d A/T
+2238;Mercedes-Benz CLA 180 coupe
+2239;Mercedes CLA Shooting Brake AMG line
+2240;Mercedes-Benz CLA Kupé 180 AMG Line A/T
+2241;Mercedes-Benz CLA Kupé 180 AMG Line A/T
+2242;Mercedes-Benz CLA Kupé 180 AMG Line A/T
+2243;Mercedes-Benz CLA Shooting Brake SB 200 d A/T
+2244;Mercedes CLA Shooting Brake Combi 110kw Automat
+2245;Mercedes CLA Shooting Brake Coupé 180kw Automat
+2246;Mercedes CLA 180 A/T
+2247;Mercedes-Benz CLA Shooting Brake SB 220d A/T 140KW A8 AMG LINE
+2248;Mercedes-Benz CLA Kupé 180 Urban A/T
+2249;Mercedes CLA 200 d AMG Line A/T
+2250;Mercedes-Benz CLA Kupé 180 A/T
+2251;Mercedes-Benz CLA Shooting Brake SB 45 AMG 4matic
+2252;Mercedes-Benz CLA Kupé 180 d A/T
+2253;Mercedes-Benz CLA Kupé 180 AMG Line A/T
+2254;Mercedes-Benz CLA Shooting Brake SB 200 AMG Line A/T
+2255;Mercedes CLA 180 kupé
+2256;Mercedes-Benz CLA Kupé 180 A/T
+2257;Mercedes-Benz CLA Shooting Brake SB 220 d 4MATIC A/T
+2258;Mercedes CLA Shooting Brake Mercedes-Benz CLA 250 Premium AMG Paket 250
+2259;Mercedes CLA Shooting Brake 220 d A/T AMG Line
+2260;Mercedes CLA 200D AMG
+2261;Mercedes-Benz CLA Shooting Brake AMG35 4MATIC PANORAMA HEAD-UP MULTIBEAM KAMERA BURMESTER A/T, 225kW
+2262;Mercedes CLA SB 200 A/T
+2263;Mercedes CLA 200D AMG
+2264;Mercedes CLA 200 Shooting Brake
+2265;Mercedes-Benz CLA Shooting Brake Mercedes-AMG SB 45 4matic A/T
+2266;Mercedes CLA 200 kupé
+2267;Mercedes CLA 180 kupé
+2268;Mercedes-Benz CLA Shooting Brake AMG 45 S 4MATIC+
+2269;Mercedes-Benz CLA Shooting Brake 250 AMG
+2270;Mercedes-Benz CLA Kupé 200 d 4MATIC A/T
+2271;Mercedes-Benz CLA 200 d Shooting Brake
+2272;Mercedes CLA 180 Shooting Brake
+2273;Mercedes-Benz CLA Shooting Brake Mercedes-AMG SB 45 4matic A/T
+2274;Mercedes-Benz CLA 250 e Shooting Brake AMG linie
+2275;Mercedes-Benz CLA Kupé 220 d A/T
+2276;Mercedes CLA 200 d kupé
+2277;Mercedes CLA 200 Shooting Brake
+2278;Mercedes-Benz CLA 200 d Shooting Brake
+2279;Mercedes-Benz CLA Shooting Brake SB 250 e A/T
+2280;Mercedes-Benz CLA Shooting Brake SB 250 e A/T
+2281;Mercedes CLA 180 d kupé
+2282;Mercedes CLA Mercedes-AMG CLA kupé 35 4MATIC A/T
+2283;Mercedes CLA 180 d kupé
+2284;Mercedes-Benz CLA Shooting Brake 250 e
+2285;Mercedes-Benz CLA Shooting Brake AMG SB 45 4MATIC+ A/T , 285kW, A8, 5d. (2019-2023)
+2286;Mercedes CLA Shooting Brake 35 AMG
+2287;Mercedes CLA 220 d Shooting Brake
+2288;Mercedes CLA 250 E AMG
+2289;Mercedes CLA S 45 4-Matic
+2290;Mercedes CLA 250 E AMG
+2291;Mercedes-Benz CLA 200 d Shooting Brake
+2292;Mercedes-Benz CLA 200 d Coupé
+2293;Mercedes-Benz CLA 200 Shooting Brake
+2294;Mercedes-Benz CLA 250 e Shooting Brake
+2295;Mercedes-Benz CLA Kupé 180 mHEV A/T
+2296;Mercedes CLA 180 d kupé
+2297;Mercedes CLA 180 Shooting Brake
+2298;Mercedes CLA 1.3 AMG
+2299;Mercedes-Benz CLA Mercedes-AMG 35 4MATIC
+2300;Mercedes CLA 35 AMG
+2301;CLA 180 d Shooting Brake
+2302;Mercedes-Benz CLA 200 d Shooting Brake
+2303;CLA 180 kupé
+2304;Mercedes-Benz CLA 200 d - FL
+2305;Mercedes-Benz CLA 200 d SB AMG Style Edition
+2306;BMW Rad 3 Coupé 320 d
+2307;BMW rad 3 Touring 330d Touring xDrive M Sport A/T
+2308;BMW rad 3 Touring 318d Touring A/T
+2309;BMW Rad 3 Touring 320d xdrive 48v mild-hybrid
+2310;BMW Rad 3 GT 330d Gran Turismo
+2311;BMW Rad 3 Touring 320d mHEV xDrive A/T
+2312;BMW Rad 3 320 d 163k
+2313;BMW Rad 3 Coupé 325 d
+2314;BMW rad 3 320 d 163k
+2315;BMW Rad 3 Coupé 318 Ci
+2316;BMW Rad 3 320 d 163k
+2317;BMW rad 3 323 i
+2318;BMW rad 3 320 d
+2319;BMW rad 3 346L
+2320;BMW Rad 3 318 d 122k
+2321;BMW Rad 3 320 d 163k A/T
+2322;BMW Rad 3 Touring 320d xDrive A/T
+2323;BMW rad 3 318Ci
+2324;BMW rad 3 Touring 318d Touring A/T
+2325;BMW rad 3 Touring 318 i 129k Touring
+2326;BMW rad 3 Touring
+2327;BMW rad 3 Touring 320D Panorama
+2328;BMW rad 3 320i
+2329;BMW rad 3 318 d 122k
+2330;BMW rad 3 318 d 122k
+2331;BMW Rad 3 320 d A/T
+2332;BMW Rad 3 Touring 325 i A/T
+2333;BMW rad 3 Touring 328 i Touring
+2334;BMW rad 3 330 d xDrive A/T
+2335;BMW Rad 3 320 d 163k
+2336;BMW rad 3 Coupé 318 iS M Packet
+2337;BMW rad 3 Touring 320 d 163k Touring
+2338;BMW rad 3 318d M6 Top
+2339;BMW rad 3 Touring 2.0
+2340;BMW Rad 3 320 d 163k
+2341;BMW rad 3 316 i
+2342;BMW Rad 3 318d
+2343;BMW Rad 3 Touring 316D
+2344;BMW rad 3 318i
+2345;BMW rad 3 Touring 318d Touring Facelift 2011
+2346;BMW Rad 3 Touring
+2347;BMW Rad 3 325 i
+2348;BMW rad 3 Touring 320d 184k Touring xDrive
+2349;BMW rad 3 Touring 320d Touring A/T
+2350;BMW rad 3 Touring 330xd Sport
+2351;BMW rad 3 320 d 163k A/T
+2352;BMW rad 3 Touring Combi 200kw Automat
+2353;BMW Rad 3 Touring 318 i
+2354;BMW rad 3 Cabrio 330 Ci/C A/T
+2355;BMW rad 3 318d
+2356;BMW rad 3 Touring 318d Touring
+2357;BMW rad 3 Touring 320d 184k Touring A/T
+2358;BMW rad 3 Touring 318d Touring
+2359;BMW rad 3 2.0 i Edition
+2360;BMW Rad 3 Cabrio 325 i
+2361;BMW rad 3 Coupé Coupé 330 xd A/T
+2362;BMW rad 3 316d
+2363;BMW rad 3 320d 184k xDrive A/T
+2364;BMW rad 3 Coupé Coupé 320 i
+2365;BMW Rad 3 316i
+2366;BMW Rad 3 Touring 3.0 330d, automat
+2367;BMW rad 3 325i xDrive A/T
+2368;BMW rad 3 Touring 320d 184k Touring
+2369;BMW rad 3 Touring 318 D Edition
+2370;BMW rad 3 Touring 320D
+2371;BMW rad 3 Touring 330 d Touring
+2372;BMW rad 3 316d A/T
+2373;BMW rad 3 320D M Paket
+2374;BMW rad 3 Coupé 330 Cd A/T
+2375;BMW Rad 3 Touring 330d
+2376;BMW rad 3 Touring 320d Touring xDrive A/T
+2377;BMW rad 3 Coupé Coupé 325 xi
+2378;BMW Rad 3 Touring 320d EfficientDynamics Edition
+2379;BMW Rad 3 316d
+2380;BMW rad 3 Touring 320d 184k Touring xDrive A/T
+2381;BMW Rad 3 Touring 2.0 320d A/T, Top Stav
+2382;BMW Rad 3 Touring 318d Advantage
+2383;BMW rad 3 Cabrio Cabrio 325 i A/T
+2384;BMW rad 3 318i
+2385;BMW rad 3 Touring 320d Touring A/T
+2386;BMW rad 3 Touring 320D xDrive Sport
+2387;BMW rad 3 3.0
+2388;BMW Rad 3 320d 184k xDrive A/T
+2389;BMW Rad 3 Touring 320d xDrive A/T
+2390;BMW rad 3 Touring 320D Sport
+2391;BMW Rad 3 Coupé 320 xd A/T
+2392;BMW rad 3 Touring 2.0
+2393;BMW rad 3 320d 184k xDrive A/T
+2394;BMW rad 3 Touring 316d Touring
+2395;BMW Rad 3 GT 320 XDRIVE 1 MAJITEL KUP. V SR TOP STAV
+2396;BMW Rad 3 316d A/T
+2397;BMW rad 3 Touring 320dA
+2398;BMW rad 3 Touring 2.0
+2399;BMW Rad 3 GT 320d xDrive Gran Turismo A/T
+2400;BMW rad 3 Touring 320d Touring Sport Line A/T
+2401;BMW rad 3 320d xDrive A/T
+2402;BMW rad 3 Touring BMW 320d Touring A/T
+2403;BMW Rad 3 320d xDrive A/T
+2404;BMW Rad 3 316d Sport
+2405;BMW Rad 3 Touring 318d Sport Line Shadow A/T
+2406;BMW Rad 3 Touring 320d
+2407;Škoda Octavia Combi 2.0 TDI SCR Style DSG
+2408;Škoda Octavia Combi 2.0 TDI Style DSG
+2409;Škoda Octavia Combi 2.0 TDI RS DSG 4x4
+2410;Škoda Octavia Combi 2.0 TDI SCR Style DSG Full LED
+2411;Škoda Octavia Combi 2.0 TDI SCR Style DSG
+2412;Škoda Octavia Combi 2.0 TDI SCR Style DSG
+2413;Škoda Octavia Combi 1.6 TDI 115k Style DSG EU6
+2414;Škoda Octavia Combi 1.6 TDI 115k Style
+2415;Škoda Octavia 2.0 TDI CR RS DSG
+2416;Škoda Octavia Combi 2.0 TDI Ambition DSG
+2417;Škoda Octavia Combi 2.0 TDI RS DSG
+2418;Škoda Octavia 1.5 TSI e-Tec First Edition Clever DSG
+2419;Škoda Octavia Combi 1.6 TDI CR DPF Ambiente
+2420;Škoda Octavia 1.6 TDI Ambition
+2421;Škoda Octavia Combi 2.0 TDI RS
+2422;Škoda Octavia Combi 1.6 TDI 115k Ambition
+2423;Škoda Octavia Combi 2.0 TDI SCR Style
+2424;Škoda Octavia Combi 2.0 TDI SCR Style DSG
+2425;Škoda Octavia Combi 2.0 TDI 110 KW/150 HP Elegance/Style DSG
+2426;Porsche Panamera 4.0 Turbo ST, approved, panora
+2427;Škoda Octavia 2.0 TDI Elegance
+2428;Škoda Octavia Combi 1.8 TSI Elegance
+2429;Škoda Octavia Combi 2.0 TDI CR DPF Ambiente
+2430;Škoda Octavia Combi RS iV, 1,4TSi 180kw DSG
+2431;Škoda Octavia Combi RS iV 1,4TSi 180kw PHEV
+2432;Škoda Octavia 2.0 TDI SCR Style DSG
+2433;Škoda Octavia Combi 1,9 TDI TOUR 74 KW
+2434;Škoda Octavia Combi 1,9 TDi TOUR
+2435;Škoda Octavia Combi 1.9 TDI Elegance
+2436;Škoda Octavia 1.9 TDI Ambiente
+2437;Škoda Octavia Combi 2.0 TDI SCR Style DSG
+2438;Škoda Octavia Combi 1.5 TSI G-TEC Ambition DSG
+2439;Škoda Octavia Combi 2.0 TDI Style DSG
+2440;Škoda Octavia Combi 2.0 TDI SCR Style
+2441;Škoda Octavia 4x4 2,0 TDI Style DSG 147kW (v záruke, 1.majiteľ, kúpené v SR, motor z RS)
+2442;Škoda Octavia 1.9 SDI Classic
+2443;Škoda Octavia 1.9 TDI PD TOUR
+2444;Škoda Octavia 1.6 TDI CR DPF Greenline
+2445;Škoda Octavia 1.6 TDI 115k Style DSG
+2446;Škoda Octavia Combi 2.0 TDI Ambition Plus AT
+2447;Škoda Octavia Combi 1.6 TDi
+2448;Škoda Octavia 2.0 Ambiente
+2449;Škoda Octavia Combi 1.9 TDI TOUR
+2450;Škoda Octavia 1.9 TDi SLX
+2451;Škoda Octavia Combi 1.6 MPi
+2452;Škoda Octavia Combi 1.9 TDI GLX
+2453;Škoda Octavia 1.9 TDI Ambiente
+2454;Škoda Octavia Combi 1.6 MPi 75
+2455;Škoda Octavia
+2456;BMW Rad 3 Touring 320d mHEV xDrive A/T
+2457;BMW Rad 3 Touring 318 d 122k
+2458;BMW rad 3 330 d
+2459;BMW rad 3 Touring 2.0
+2460;BMW rad 3 Touring 318 i 129k (E91)
+2461;BMW rad 3 Touring 320i
+2462;BMW rad 3 Touring 330 xd
+2463;BMW rad 3 Touring 318d Touring
+2464;BMW rad 3 Touring 318d
+2465;BMW Rad 3 Touring 320d
+2466;BMW rad 3 Touring 2.5 Xi 4x4
+2467;BMW Rad 3 Touring 325 i
+2468;BMW rad 3 323 i
+2469;BMW rad 3 325 i
+2470;BMW rad 3 Touring 320D CR
+2471;Volkswagen Passat Variant 2.0 TDI EVO Business DSG
+2472;Volkswagen Passat 2.0 TDI Highline 4-Motion
+2473;Volkswagen Passat 2.0 TDI 190k BMT Highline DSG
+2474;Volkswagen Passat CC 1.8 TSI DSG7
+2475;Volkswagen Passat Variant 2.0 TDI EVO DSG R-line, IQ light
+2476;Volkswagen Passat Variant 2.0 TDI BMT Comfortline
+2477;Volkswagen Passat Alltrack 2.0 TDI SCR 4Motion DSG
+2478;Volkswagen Passat 2.0 TDI BMT Highline DSG
+2479;Volkswagen Passat Alltrack 2.0 TDI SCR 4Motion DSG
+2480;Volkswagen Passat Variant 2.0 TDI BMT Comfortline DSG
+2481;Volkswagen Passat Variant 2.0 TDI BMT Highline DSG
+2482;Volkswagen Passat Variant 2.0 TDI EVO Business DSG
+2483;Volkswagen Passat Variant 2.0 TDI 190k BMT Highline DSG
+2484;Volkswagen Passat Variant 1.6 TDI BMT Comfortline
+2485;Volkswagen Passat Variant 2.0 TDI BMT Highline DSG Business
+2486;Volkswagen Passat Variant 2.0 TDI 190k BMT SCR Highline R-Line DSG
+2487;Volkswagen Passat Variant 2.0 TDI EVO Elegance DSG
+2488;Volkswagen Passat Variant 2.0 TDI Business 4Motion DSG
+2489;Volkswagen Passat 2.0 TDI SCR BMT 190k Highline 4MOTION DSG
+2490;Volkswagen Passat Variant GTE 1.4 TSI ACT DSG
+2491;Volkswagen Passat Variant Alltrack 2.0 TDI SCR BMT 4MOTION DSG
+2492;Volkswagen Passat Variant GTE 1.4 TSI ACT DSG
+2493;Volkswagen Passat Variant 2.0 TDI Elegance 4Motion DSG
+2494;Volkswagen Passat Variant 2.0 TSI Elegance DSG
+2495;Volkswagen Passat Variant 2.0 TDI EVO Elegance DSG
+2496;Volkswagen Passat Variant 1.9 TDI Comfortline
+2497;Volkswagen Passat Variant 2.0 TDI Highline DSG DPF
+2498;Volkswagen Passat Variant Highline
+2499;Volkswagen Passat Variant Combi 88kw Automat
+2500;Volkswagen Passat Variant 2.0 TDI EVO Business DSG
+2501;Volkswagen Passat Variant 2.0 TDI EVO Elegance DSG
+2502;Volkswagen Passat Variant 2.0 TDI BMT Business DSG
+2503;Volkswagen Passat Variant 2.0 TDI Business DSG
+2504;Volkswagen Passat 1.9 TDI Business tiptronic
+2505;Volkswagen Passat Variant 2.0
+2506;Volkswagen Passat 2.0 FSI Comfortline 4-Motion
+2507;Volkswagen Passat 2.0 TDI Elegance
+2508;Volkswagen Passat 2.0 TDI 4motion
+2509;Volkswagen Passat Variant 2.0 TDI 110k DPF Trendline
+2510;Volkswagen Passat Variant 2.0 TDI BMT Highline
+2511;Volkswagen Passat Variant 2.0 TDI BMT 177k Highline Business DSG
+2512;Volkswagen Passat Variant 2.0 TDI BMT 177k Highline
+2513;Volkswagen Passat 1.9 TDi
+2514;Volkswagen Passat Variant 2.0 TDi
+2515;Volkswagen Passat 1,8i 20V 92 kW
+2516;Volkswagen Passat Variant 2.0 TDI Comfortline
+2517;Volkswagen Passat 1.9 TDi
+2518;Volkswagen Passat 1.9 TDi
+2519;Volkswagen Passat 1.9 TDi 2 X
+2520;Volkswagen Passat 1.8 5V turbo
+2521;Volkswagen Passat 1.9 TDI Basis
+2522;Volkswagen Passat 1.6 Comfortline
+2523;Volkswagen Passat Variant 1.9 TDi
+2524;Volkswagen Passat 1.9 TDi CR Highline
+2525;Volkswagen Passat Variant 1.9 TDI Trendline
+2526;Volkswagen Passat 12 mesačná záruka, SK ŠPZ
+2527;Volkswagen Passat Variant 2.0 TDi DPF
+2528;Volkswagen Passat Variant Combi 103kw Manuál
+2529;Volkswagen Passat Variant 2.0 TDI Highline DSG DPF
+2530;Volkswagen Passat Variant 1.9 TDI Highline

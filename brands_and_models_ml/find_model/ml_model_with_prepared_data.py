@@ -6,21 +6,21 @@ import joblib
 import numpy as np
 
 # Load data
-with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\bazos_assigned_headers.txt', 'r', encoding='utf-8') as file:
+with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\brands_and_models_ml\\find_model\\resources\\bazos_assigned_headers.txt', 'r', encoding='utf-8') as file:
     X_bazos = file.readlines()
-with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\bazos_assigned_labels.txt', 'r', encoding='utf-8') as file:
+with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\brands_and_models_ml\\find_model\\resources\\bazos_assigned_labels.txt', 'r', encoding='utf-8') as file:
     y_bazos = file.readlines()
-with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_assigned_headers.txt', 'r', encoding='utf-8') as file:
+with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_assigned_headers.txt', 'r', encoding='utf-8') as file:
     X_autobazar = file.readlines()
-with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_assigned_labels.txt', 'r', encoding='utf-8') as file:
+with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_assigned_labels.txt', 'r', encoding='utf-8') as file:
     y_autobazar = file.readlines()
-with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\X.txt', 'r', encoding='utf-8') as file:
+with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\brands_and_models_ml\\find_model\\resources\\X.txt', 'r', encoding='utf-8') as file:
     X_old = file.readlines()
-with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\y.txt', 'r', encoding='utf-8') as file:
+with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\brands_and_models_ml\\find_model\\resources\\y.txt', 'r', encoding='utf-8') as file:
     y_old = file.readlines()
-with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_old_assigned_headers.txt', 'r', encoding='utf-8') as file:
+with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_old_assigned_headers.txt', 'r', encoding='utf-8') as file:
     X_new = file.readlines()
-with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_old_assigned_labels.txt', 'r', encoding='utf-8') as file:
+with open('C:\\Users\\Johny\\Desktop\\CarHut\\ml\\brands_and_models_ml\\find_model\\resources\\autobazar_eu_old_assigned_labels.txt', 'r', encoding='utf-8') as file:
     y_new = file.readlines()
 
 # Prepare headers
