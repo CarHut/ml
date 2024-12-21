@@ -2528,3 +2528,274 @@
 2528;Volkswagen Passat Variant Combi 103kw Manuál
 2529;Volkswagen Passat Variant 2.0 TDI Highline DSG DPF
 2530;Volkswagen Passat Variant 1.9 TDI Highline
+2531;Audi A5 Sportback QUATTRO*150KW*LED*ROTOR ALU R20*KEYLESS*NAVI*ASSIST*ZÁRUKA*****
+2532;Audi A5 Cabriolet 1.8TFSi S-line S-tronic 177k 27.600 km!!!!
+2533;Audi A5 Sportback 35 2.0 TDI A5 Sportback S tronic
+2534;Audi A5 Sportback 45 3.0 TDI S line quattro tiptronic
+2535;Audi A5 Sportback 50 3.0 TDI S line quattro tiptronic
+2536;Audi A5 Sportback 3.0 TDI quattro S tronic Sport
+2537;Audi A5 Sportback 35 2.0 TFSI A5 Sportback S tronic
+2538;Audi A5 Sportback 2.0 TDI 170k
+2539;Audi A5 Sportback 40 2.0 TDI Sport quattro S tronic
+2540;Audi A5 Sportback 40 2.0 TFSI 190k Sport
+2541;Audi A5 Sportback 3.0 TDI quattro S tronic
+2542;Audi A5 2.0 TDi 4x4
+2543;Audi A5 2.7 TDI DPF multitronic
+2544;Audi A5 2.7 TDI DPF multitronic
+2545;Audi A5 1.8 T multitronic
+2546;Audi A5 Sportback 2,0TFSI 155kW Automat
+2547;Audi A5 2.0 TDi Sportback
+2548;Audi A5 Sportback 2.0 TDI 177k multitronic
+2549;Audi A5 Sportback 2.0 TDI, 130kw, SR pôvod, automat
+2550;Audi A5 Sportback 2.0 TDI 177k (130kW)
+2551;Audi A5 2.0
+2552;Audi A5 Sportback 3.0 TDI Quattro
+2553;Audi A5 Cabriolet 2.0 T FSI 211k multitronic
+2554;Audi A5 3.0 TDI DPF Prestige multitronic
+2555;Audi A5 2.0 TDI DPF multitronic
+2556;Audi A5 Cabriolet 2.0 TDI
+2557;Audi A5 2.7
+2558;Audi A5 2.0 TDi
+2559;Audi A5 Sportback 2.0 TDI clean diesel multitronic
+2560;Audi A5 Sportback 2.0 TDI 150k
+2561;Audi A5 Sportback 2.0 TDI 150k
+2562;Audi A5 Sportback 2.0 TDI 150k
+2563;Audi A5 Sportback 2.0 TDI 177k Prestige multitronic
+2564;Audi A5 2.0 TDi
+2565;Audi A5 Sportback Hatchback 180kw Automat
+2566;Audi A5 Sportback 3.0 TDI quattro S tronic
+2567;Audi A5 Sportback 3.0 TDI quattro S tronic
+2568;Audi A5 Cabriolet 3.0 TDi Quattro S-Tronic
+2569;Audi A5 Sportback 2.0 TFSI g-tron Sport S tronic
+2570;Audi A5 Sportback 40 2.0 TFSI 190k Sport
+2571;Audi A5 Sportback 40 2.0 TDI quattro S tronic
+2572;Audi A5 Sportback 40 2.0 TDI Sport quattro S tronic
+2573;Audi A5 Sportback 40 2.0 TDI 190k Design S tronic
+2574;Audi A5 Sportback 35 2.0 TFSI S tronic
+2575;Audi A5 sportback G-tron
+2576;Audi A5 3.0 TDi Quattro S-Line
+2577;Audi A5 Coupe 2017 2.0 TSFI 140kW
+2578;Audi A5 Sportback 3.0 TDI quattro tiptronic Sport
+2579;Audi A5 Sportback S-LINE 2.0 TDI 190k S tronic
+2580;Audi A5 Sportback 2.0 TFSI 252k quattro S tronic Basis
+2581;Audi A5 Sportback 35 2.0 TDI mHEV Advanced S tronic
+2582;Audi A5 Coupe 183kw A/T
+2583;Audi A5 Sportback
+2584;Audi A5 Sportback 3.0 TDI S tronic Sport
+2585;Audi A5 2.0 TDi Sportback
+2586;Audi A5 Sportback 2.0 TDi 120 kW S-tronic S-line ( NAFTA+HEV)
+2587;Audi A5 Sportback 35 2.0 TDI mHEV Advanced S tronic
+2588;Audi A5 Sportback 40 2.0 TDI S line S tronic
+2589;Audi A5 S5 3.0 TFSI 354k quattro tiptronic
+2590;Audi A5 Sportback 3.0 TDI-QUATTRO-TIPTRONIC-NAVARRA BLUE
+2591;Audi A5 Sportback 3.0 TDI quattro S tronic Sport
+2592;Audi A5 Sportback 40 2.0 g-tron S tronic
+2593;Audi A5 2,0 TDi S-Tronic Quattro LED
+2594;Audi A5 Cabriolet 2.0 TFSI S-Tronic
+2595;Audi A5 Sportback 45 2,0 TFSI quattro S tronic
+2596;Audi A5 Sportback 35 2.0 TFSI mHEV S line S tronic
+2597;Audi A5 Cabriolet 2,0 40TDi quattro S-Line LED
+2598;Audi A5 Sportback 50 3.0 TDI mHEV S line quattro tiptronic
+2599;Audi A5 Cabriolet 40 TDI quattro 2xS-Line
+2600;Audi A5 2.0 S-Line
+2601;Audi A5 Cabriolet
+2602;Audi A5 Sportback 40 2.0 TFSI mHEV 204k Advanced S tronic
+2603;Audi A5 Cabrio
+2604;Audi A5 TDI 150kW QUATTRO SRT S-LINE!!
+2605;Audi A5 TDI 150kW QUATTRO SRT S-LINE!!
+2606;RS5 Sportback performance TFSI quattro
+2607;Volkswagen Tiguan 1.4 TSI 4-Motion Sport&Style Highline
+2608;Volkswagen Tiguan 2,0TSI 4 motion R- Line Highline
+2609;Volkswagen Tiguan 2.0 CR TDI 4-Motion Track&Style DSG
+2610;Volkswagen Tiguan 1,5eTSI DSG LED Tažné Keyless
+2611;Volkswagen Tiguan 2,0TDI 4x4 DSG Elegance, Masáž
+2612;Volkswagen Tiguan 2.0 TDI R-Line 4Motion DSG
+2613;Volkswagen Tiguan 2.0 TDI SCR BMT 190k 4MOTION Highline DSG
+2614;Volkswagen Tiguan 2.0 TDI SCR BMT Comfortline DSG
+2615;Volkswagen Tiguan 2.0 TDI EVO Elegance 4Motion DSG
+2616;Volkswagen Tiguan 2.0 TDI SCR BMT Edition Comfortline
+2617;Volkswagen Tiguan 2.0 TDI SCR BMT Comfortline DSG
+2618;Volkswagen Tiguan 2.0 TDI SCR BMT Comfortline DSG
+2619;Volkswagen Tiguan 2.0 TDI SCR BMT 4MOTION Comfortline DSG
+2620;Volkswagen Tiguan
+2621;Volkswagen Tiguan 2.0 TDI SCR BMT 190k 4MOTION Highline DSG
+2622;Volkswagen Tiguan 2.0 TDI Comfortline Edition
+2623;Volkswagen Tiguan 2.0 TDI SCR BMT 190k 4MOTION Highline DSG
+2624;Volkswagen Tiguan 2.0 CR TDI 177k 4-Motion Sport&Style DSG
+2625;Volkswagen Tiguan 2.0 CR TDI 4-Motion Track&Style
+2626;Volkswagen Tiguan 2.0 TDI SCR BMT 4MOTION Highline DSG EU6
+2627;Volkswagen Tiguan 2.0 TDI
+2628;Volkswagen Tiguan 2.0
+2629;Volkswagen Tiguan 1.4 TSI 4-Motion Track&Field
+2630;Volkswagen Tiguan 2.0 TDI
+2631;Volkswagen Tiguan 2.0 CR TDI 4-Motion Sport&Style
+2632;Volkswagen Tiguan 1.4 TSi
+2633;Volkswagen Tiguan R-line
+2634;Volkswagen Tiguan R-line
+2635;Volkswagen Tiguan 2,0 TDi DSG 103 kW 4 MOTION SPORT
+2636;Volkswagen Tiguan 2.0 CR TDI 4-Motion Track&Field
+2637;Volkswagen Tiguan 2.0 CR TDI 4-Motion Sport&Style
+2638;Volkswagen Tiguan 2.0 TDi 4M Sport&Style
+2639;Volkswagen Tiguan 1.4 TSi
+2640;Volkswagen Tiguan 2.0
+2641;Volkswagen Tiguan 2.0 CR TDI 4-Motion Track&Field A/T
+2642;Volkswagen Tiguan 2.0 CR TDI 170k 4-Motion Sports&Style
+2643;Volkswagen Tiguan 2.0 CR TDI 4-Motion Trend&Fun
+2644;Volkswagen Tiguan 1.4 TSI 4-Motion Sport&Style
+2645;Volkswagen Tiguan 2.0 TSI 4-Motion Sport&Style A/T
+2646;Mercedes E trieda 220 D
+2647;Mercedes E trieda AMG 53 mHEV 4MATIC+ A/T
+2648;Mercedes-Benz E 200 d sedan
+2649;Mercedes-Benz E 450 d 4MATIC sedan
+2650;Mercedes-Benz E 400 e 4MATIC sedan
+2651;Mercedes E trieda T 3.2 4x4
+2652;Mercedes-Benz E trieda Sedan 320 Avantgarde A/T
+2653;Mercedes E trieda 220 CDI Avantgarde A/T
+2654;Mercedes-Benz E trieda Sedan 320 Avantgarde A/T
+2655;Mercedes E trieda T 3.0
+2656;Mercedes-Benz E trieda Kombi 3.0 CDI, 4MATIC, Led svetlomety
+2657;Mercedes-Benz E trieda Kombi 250 CDI 4matic Blue Avantgarde
+2658;Mercedes E trieda e220 CDi
+2659;Mercedes E trieda Cabrio 350 CDi Avantgarde
+2660;Mercedes-Benz Třídy E 3, 0 E 350 CDI Blue, Avantgarde
+2661;Mercedes-Benz E trieda Sedan 220 CDI Blue Elegance A/T
+2662;Mercedes-Benz E trieda Kombi 300 CDI Blue Classic
+2663;Mercedes-Benz E trieda Kupé 350 CDI Blue
+2664;Mercedes E trieda 350CDi CR A/T
+2665;Mercedes-Benz Třídy E E-250 CGI Avantgarde Automat
+2666;Mercedes-Benz E trieda Kombi 250 CDI BlueTEC Elegance 4matic
+2667;Mercedes E trieda T E 350 BlueTEC 4-Matic
+2668;Mercedes-Benz E trieda Kombi 250 CDI 4matic Blue Elegance
+2669;Mercedes-Benz E trieda Sedan 220 CDI BlueTEC Elegance A/T
+2670;Mercedes E trieda Cabrio 2.1
+2671;Mercedes E trieda 350 BlueEFFICIENCY Avantgarde
+2672;Mercedes-Benz E trieda Kupé 250 CDI
+2673;Mercedes-Benz E trieda Kombi 350 CDI A-7,DESIGNO
+2674;Mercedes-Benz E trieda Kupé 220 CDI AMG LINE A/T
+2675;Mercedes-Benz E trieda Kabriolet 250 CDI Blue A/T
+2676;Mercedes E trieda Coupé Coupé 185kw Automat
+2677;Mercedes E trieda 220d CR
+2678;Mercedes-Benz E trieda Kombi 200 d A/T
+2679;Mercedes E trieda 220 CDI BlueTEC Avantgarde A/T
+2680;Mercedes-Benz E trieda Kombi 200 d A/T
+2681;Mercedes-Benz E trieda Kombi 220 d A/T
+2682;Mercedes-Benz E trieda Sedan 250 CDI A / T 9
+2683;Mercedes-Benz E trieda Sedan E350 AMG LINE
+2684;Mercedes-Benz E trieda Sedan AMG 63 S 4Matic Panorama, 360, Burmester, TOP STAV - 750PS
+2685;Mercedes E trieda 2.0
+2686;Mercedes-Benz E trieda Sedan 200 d A/T
+2687;Mercedes E trieda T 220d
+2688;Mercedes-Benz E trieda Kombi 400 d 4MATIC A/T
+2689;Mercedes E trieda 220 d A/T
+2690;Mercedes-Benz E trieda Sedan 63 AMG
+2691;Mercedes-Benz E trieda Sedan 200 CDI BlueTEC Avantgarde A/T
+2692;Mercedes-Benz E trieda Kombi 220 d 4MATIC A/T
+2693;Mercedes-Benz E trieda Sedan 220d 4MATIC Avantgarde
+2694;Mercedes E trieda 220 CDi Avantgarde
+2695;Mercedes E trieda 55 AMG
+2696;MERCEDES-BENZ E 350, 1.6, 7/2020
+2697;Mercedes-Benz E trieda Kombi 300 DE PHEV 225KW
+2698;Mercedes-Benz E trieda Kombi 350 d A/T
+2699;Mercedes-Benz Třídy E E 220 d
+2700;Mercedes E trieda T 2.1
+2701;Mercedes-Benz E trieda Sedan 220 d A/T
+2702;Mercedes-Benz E trieda Kombi 200 A/T
+2703;Mercedes-Benz E trieda Sedan 220 d A/T
+2704;Mercedes-Benz E trieda Sedan 220 d 4MATIC A/T
+2705;Mercedes E trieda 220d 4-Matic
+2706;Mercedes E trieda E 220 BlueTEC 4-Matic Avantgarde
+2707;Mercedes-Benz E trieda Sedan
+2708;Mercedes E trieda 220 d A/T
+2709;Mercedes-Benz E trieda Kombi 220 d 4MATIC A/T
+2710;Mercedes-Benz E trieda Kombi 350 d A/T
+2711;Mercedes E trieda T 2.0
+2712;Mercedes-Benz Třídy E E 220 d 4MATIC kombi
+2713;Mercedes E trieda 200 4MATIC A/T
+2714;Mercedes E trieda T 2.0
+2715;Mercedes-Benz E trieda Sedan 220 d 4MATIC A/T
+2716;Mercedes-Benz E trieda Kombi 350 d All-Terrain 4MATIC A/T
+2717;Mercedes-Benz E trieda All-Terrain 350 d 4MATIC A/T
+2718;Mercedes-Benz E trieda Sedan 400 4MATIC A/T
+2719;Mercedes-Benz E trieda Sedan 220 d 4MATIC A/T
+2720;Mercedes E trieda 3.0 AMG 4-Matic
+2721;Mercedes E trieda T E 220 D 4-Matic
+2722;Mercedes-Benz E trieda All-Terrain 220 d 4MATIC A/T
+2723;Mercedes E trieda Coupé E 400 4-Matic kupé
+2724;Mercedes E trieda T 220 d 4MATIC A/T
+2725;Mercedes-Benz E trieda Kombi 300 d A/T
+2726;Mercedes-Benz E trieda Sedan 350 d A/T
+2727;Mercedes-Benz E trieda Sedan 220 d A/T
+2728;Mercedes E trieda T 350 d 4MATIC A/T AMG packet (E43 look) NIGHT pac
+2729;Mercedes-Benz E trieda Sedan 220 d 4MATIC A/T
+2730;Mercedes-Benz E trieda Sedan 300 de 143 kw - V ZÁRUKE !!!
+2731;Mercedes-Benz E trieda Kombi 220 d All-Terrain 4MATIC A/T
+2732;Mercedes-Benz E220 T 143kW 4-Matic 9G-tronic
+2733;Mercedes-Benz E trieda Kombi 220 d 4MATIC A/T
+2734;Mercedes-Benz E 63 AMG
+2735;Mercedes-Benz E trieda Kombi 300De 4MATIC Plug-IN Hybrid MULTIBEAM MATRIX WEBASTO BURMESTER KAMERA V
+2736;Mercedes-Benz E trieda Kombi 300De 4MATIC Plug-IN Hybrid MULTIBEAM MATRIX WEBASTO BURMESTER KAMERA V
+2737;Mercedes-Benz E trieda Sedan 220 d 4MATIC A/T
+2738;Mercedes-Benz E trieda Sedan 300 4MATIC A/T
+2739;Mercedes-Benz E trieda Kombi 220 d All-Terrain 4MATIC A/T
+2740;Mercedes E trieda 3.0
+2741;Mercedes E trieda T 220 CDi CR 4-Matic Avantgarde
+2742;Mercedes E trieda Coupé 2.9 4-Matic Avantgarde
+2743;Mercedes E trieda T E220d Avantgarde • DPH • 9G-Tronic • Multibeam • B
+2744;Mercedes-Benz E trieda Sedan Mercedes-AMG 43 4MATIC A/T
+2745;Mercedes&#45;Benz E trieda Sedan 350 d A/T
+2746;Mercedes E trieda 400 4MATIC A/T
+2747;Mercedes-Benz E trieda Kupé 220 d A/T
+2748;Mercedes-Benz E 400 d 4MATIC kombi
+2749;Mercedes-Benz E trieda Sedan 63 AMG S 4matic
+2750;Mercedes-Benz E trieda Kupé 220 d 4matic A/T
+2751;Mercedes E trieda Coupé E 400 4-Matic Avantgarde
+2752;Mercedes-Benz E trieda Sedan 220d 4Matic AMG, Slovenské, Vzduch, Night package, El. ťažné, Distronic
+2753;Mercedes-Benz E trieda Kombi 350 d A/T
+2754;Mercedes-Benz E trieda Kombi Mercedes AMG E43 4MATIC MULTIBEAM HEAD-UP 360°KAMERA RADAR STREŠNÉ OKNO
+2755;Mercedes-Benz E trieda Sedan E200 EQ Boost 4Matic A/T
+2756;Mercedes-Benz E trieda Kupé 220 d A/T
+2757;Mercedes-Benz E trieda Sedan 400 d A/T
+2758;Mercedes-Benz E trieda Kombi 220 d A/T
+2759;Mercedes-Benz E trieda Sedan 350 BlueTEC Avantgarde
+2760;Mercedes-Benz E trieda Kombi 300 de A/T
+2761;Mercedes E trieda Mercedes-AMG E 43 4MATIC A/T
+2762;Mercedes E trieda 220 d 4MATIC A/T
+2763;Mercedes-Benz E trieda Kupé 400 4matic A/T
+2764;Mercedes E trieda Coupé E 220 d kupé
+2765;Mercedes-Benz E trieda Sedan 400 2017 245kW 4-Matic LORINZER
+2766;Mercedes-Benz E trieda Kombi 220 d A/T
+2767;Mercedes-Benz E trieda Sedan Mercedes-AMG 53 4MATIC+ A/T
+2768;Mercedes E trieda 220 d 4MATIC A/T
+2769;Mercedes E trieda 220 d T 4MATIC AVANTGARDE
+2770;Mercedes-Benz E trieda Sedan 400d 4matic VZDUCHOVÝ PODVOZOK
+2771;Mercedes E trieda Coupé E 220 d 4-Matic kupé
+2772;Mercedes E trieda 3.0 E 4-Matic AMG
+2773;Mercedes-Benz E trieda Sedan AVANTGARDE 4matic
+2774;Mercedes-Benz E trieda All-Terrain 220 d 4MATIC A/T
+2775;Mercedes E trieda T E 220 D 4-Matic
+2776;Škoda Karoq 1.5 TSI ACT EVO Ambition DSG
+2777;Škoda Superb Combi 2.0 TSI 4x4 Style DSG
+2778;Škoda Octavia Combi 2.0 TDI Team DSG
+2779;Škoda Octavia Combi 1.6 TDI 115k Ambition DSG
+2780;Škoda Superb Combi 2.0 TDI CR 170k Active DSG
+2781;Škoda Octavia Combi 2.0 TDI 184k DSG 4x4, 135kW, A7, 5d.
+2782;Škoda Octavia Combi 1.6 TDI 115k Style DSG
+2783;Škoda Octavia Combi 2.0 TDI RS DSG
+2784;Škoda Kodiaq 2.0 TDI SCR Sportline DSG
+2785;Škoda Superb Combi 2.0 TDI SCR Sportline DSG
+2786;Škoda Kodiaq SPORTLINE 2.0 TDI 4x4 DSG VIRTUAL MATRIX 7 MIEST
+2787;Škoda Citigo iV
+2788;Škoda Scala 1.0 TSI Style DSG
+2789;Škoda Kodiaq 2.0 TDI SCR EVO 200K SPORTLINE 4x4 DSG WEBASTO
+2790;Škoda Citigo 1.0 MPI Elegance/Style
+2791;Škoda Rapid 1, 0 TSI 70kW Ambition
+2792;Škoda Scala 1.6 TDI Style DSG
+2793;BMW rad 5 530d xDrive A/T
+2794;BMW Rad 5 M550e xDrive / Na splátky cez nájomnú zmluvu / Bez skúmania príjmu
+2795;BMW Rad 5 Touring 530d xDrive A/T
+2796;BMW Řada 5 2, 0 520d xDrive AT
+2797;BMW rad 5 520d xDrive A/T
+2798;BMW rad 5 540i xDrive A/T
+2799;BMW Rad 5 525 xd A/T
+2800;BMW Řada 5 3, 0 540i xDrive AT
+2801;BMW rad 5 525d xDrive
