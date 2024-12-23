@@ -69,14 +69,17 @@ button_to_remove_tokens = tk.Button(
 )
 
 current_token_frames = []
+current_token_texts = []
 frames_to_be_deleted = []
 
 def remove_tokens():
     global frames_to_be_deleted
     global current_body_tokens
+    global current_token_texts
     for frame in frames_to_be_deleted:
         del_idx = current_token_frames.index(frame)
         current_body_tokens.pop(del_idx)
+        current_token_texts.pop(del_idx)
         frame.destroy()
         current_token_frames.pop(del_idx)
     frames_to_be_deleted = []
@@ -99,6 +102,7 @@ def add_new_token():
 def flush_view(delete_tokens=True):
     global current_body_tokens
     global current_token_frames
+    global current_token_texts
 
     if delete_tokens:
         current_body_tokens = []
@@ -107,13 +111,29 @@ def flush_view(delete_tokens=True):
         frame.destroy()
 
     current_token_frames = []
+    current_token_texts = []
+
+def save_data_to_files():
+    global current_body_tokens
+    global current_token_texts
+    # save id
+    with open('resources/traversed-ids.txt', 'a', encoding="utf-8") as infile:
+        infile.write(f'{rows[current_idx][0]}\n')
+
+    # save tokens with labels
+    with open('resources/X_and_y.txt', 'a', encoding="utf-8") as infile:
+        for i in range(0, len(current_body_tokens)):
+            infile.write(f'{current_body_tokens[i]};{current_token_texts[i].get("1.0", "end")}')
+        infile.write(f'----------{rows[current_idx][0]}\n')
 
 def update_view():
     global current_body
     global current_row_header
     global current_idx
     global current_offer_label
+    global current_body_tokens
     # SAVE existing data
+    save_data_to_files()
 
     # delete previous tokens
     flush_view()
@@ -125,6 +145,7 @@ def update_view():
     current_offer_label.configure(text=f'[{current_id}]: {current_row_header}')
     current_body = rows[current_idx][4]
     new_tokens = tokenize_bazos_description(current_body)
+    current_body_tokens = new_tokens
     create_labels_for_tokens(new_tokens)
 
 def connect_to_postgresql():
@@ -136,7 +157,7 @@ def connect_to_postgresql():
 
 
 def tokenize_bazos_description(description):
-    tokens = re.split(r'[ \t\n\r,;/]+', description)
+    tokens = re.split(r'[ \t\n\r,;/:]+', description)
     return tokens
 
 def fetch_rows():
@@ -171,6 +192,7 @@ def add_to_del_frames(frame, is_checked):
 
 def create_frame_for_token(token):
     global scrollable_frame
+    global current_token_texts
     # Token frame
     token_frame = tk.Frame(scrollable_frame, bg='#1A1A1D')
     token_frame.pack(fill=tk.X, pady=5)  # Fill horizontally to align all pairs
@@ -213,6 +235,7 @@ def create_frame_for_token(token):
     text_box = tk.Text(token_frame, height=1, width=3, bg='#1A1A1D', fg='#ffffff')
     text_box.insert("1.0", '0')
     text_box.place(x=230)
+    current_token_texts.append(text_box)
 
     current_token_frames.append(token_frame)
 
@@ -225,16 +248,18 @@ def init():
     global current_body
     global current_offer_label
     global current_body_tokens
+    global current_idx
     fetch_rows()
     try:
-        with open('resources/traversed-ids.txt', 'r') as outfile:
+        with open('resources/traversed-ids.txt', 'r', encoding="utf-8") as outfile:
             last_line_id = outfile.readlines().pop()
         ids = [row[0] for row in rows]
-        idx = ids.index(int(last_line_id))
+        idx = ids.index(int(last_line_id)) + 1
         current_row_header = rows[idx][1]
         current_body = rows[idx][4]
-        current_offer_label.configure(text=f'[{last_line_id}]: {current_row_header}')
+        current_offer_label.configure(text=f'[{ids[idx]}]: {current_row_header}')
         current_body_tokens = tokenize_bazos_description(current_body)
+        current_idx = idx
     except Exception as e:
         print(e)
         print('Initialization from start...')
