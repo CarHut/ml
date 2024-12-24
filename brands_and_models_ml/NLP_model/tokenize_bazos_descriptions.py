@@ -6,14 +6,15 @@ import re
 def key_stroke_next(event):
     update_view()
 
-def key_stroke_add_token_event(event):
-    add_new_token()
-
-def add_token_event_button():
-    add_new_token()
+def key_stroke_remove_tokens(event):
+    remove_tokens()
 
 def remove_tokens_event_button():
     remove_tokens()
+
+def focus_next_window(event):
+    event.widget.tk_focusNext().focus()
+    return("break")
 
 # window
 window = tk.Tk()
@@ -23,7 +24,7 @@ screen_height = window.winfo_screenheight()
 window.geometry(f"{screen_width}x{screen_height}")
 window.state('zoomed')
 window.bind("<Escape>", key_stroke_next)
-window.bind("c", key_stroke_add_token_event)
+window.bind("x", key_stroke_remove_tokens)
 
 # interactive frame
 main_frame = ttk.Frame(window)
@@ -58,12 +59,6 @@ current_body_tokens = []
 current_offer_label = tk.Label(
     scrollable_frame, text='', font=('Arial', 25), bg='#1A1A1D', fg='#ffffff'
 )
-concat_string_label = tk.Label(
-    scrollable_frame, text=f'Current string: \'\'', font=('Arial', 15), bg='#1A1A1D', fg='#ffffff'
-)
-button_to_add_new_token = tk.Button(
-    scrollable_frame, text='Add new token', font=('Arial', 15), bg='#1A1A1D', fg='#ffffff', command=add_token_event_button
-)
 button_to_remove_tokens = tk.Button(
     scrollable_frame, text='Remove tokens', font=('Arial', 15), bg='#1A1A1D', fg='#ffffff', command=remove_tokens_event_button
 )
@@ -76,6 +71,8 @@ def remove_tokens():
     global frames_to_be_deleted
     global current_body_tokens
     global current_token_texts
+    if len(frames_to_be_deleted) == 0:
+        return
     for frame in frames_to_be_deleted:
         del_idx = current_token_frames.index(frame)
         current_body_tokens.pop(del_idx)
@@ -85,19 +82,6 @@ def remove_tokens():
     frames_to_be_deleted = []
     flush_view(False)
     create_labels_for_tokens(current_body_tokens)
-
-def add_new_token():
-    global concat_string_label
-    global current_body_tokens
-    global concat_string_content
-    # add new string to list of tokens
-    if concat_string_content == "":
-        return
-    flush_view(delete_tokens=False)
-    current_body_tokens.append(concat_string_content)
-    create_labels_for_tokens(current_body_tokens)
-    concat_string_content = ''
-    concat_string_label.configure(text=f'Current string: \'{concat_string_content}\'')
 
 def flush_view(delete_tokens=True):
     global current_body_tokens
@@ -144,7 +128,7 @@ def update_view():
     current_row_header = rows[current_idx][1]
     current_offer_label.configure(text=f'[{current_id}]: {current_row_header}')
     current_body = rows[current_idx][4]
-    new_tokens = tokenize_bazos_description(current_body)
+    new_tokens = tokenize_bazos_description(current_body)   
     current_body_tokens = new_tokens
     create_labels_for_tokens(new_tokens)
 
@@ -157,7 +141,7 @@ def connect_to_postgresql():
 
 
 def tokenize_bazos_description(description):
-    tokens = re.split(r'[ \t\n\r,;/:]+', description)
+    tokens = re.split(r'[ \t\n\r,;/:°]+', description)
     return tokens
 
 def fetch_rows():
@@ -168,27 +152,12 @@ def fetch_rows():
     rows = cur.fetchall()
     rows.sort()
 
-def add_to_concat_string(text, checkbox_var):
-    global concat_string_content
-    if checkbox_var.get():
-        if concat_string_content == "":
-            concat_string_content += text
-        else:
-            concat_string_content += " " + text
-    else:
-        concat_string_content = concat_string_content.replace(text, "")
-        # remove additional spaces
-        concat_string_content = ' '.join(concat_string_content.split())
-
-    concat_string_label.configure(text=f'Current string: \'{concat_string_content}\'')
-
 def add_to_del_frames(frame, is_checked):
     global frames_to_be_deleted
     if is_checked:
         frames_to_be_deleted.append(frame)
     else:
-        idx = frames_to_be_deleted.index(frame)
-        frames_to_be_deleted.pop(idx)
+        frames_to_be_deleted.remove(frame)
 
 def create_frame_for_token(token):
     global scrollable_frame
@@ -203,38 +172,25 @@ def create_frame_for_token(token):
     )
     new_label.pack(side=tk.LEFT, padx=(20, 10))
 
-    # Checkbox
-    checkbox_var = tk.BooleanVar()
-    checkbox = tk.Checkbutton(
-        token_frame,
-        text="",
-        variable=checkbox_var,
-        command=lambda t=token, c=checkbox_var: add_to_concat_string(t, c),
-        bg='#1A1A1D',
-        activebackground='#1A1A1D',
-        fg='#ffffff',
-        selectcolor='#1A1A1D',
-    )
-    checkbox.place(x=200)
-
     # Delete Checkbox
-    del_checkbox_var = tk.BooleanVar()
-    del_checkbox = tk.Checkbutton(
-        token_frame,
-        text="",
-        variable=del_checkbox_var,
-        command=lambda t=token_frame, c=del_checkbox_var: add_to_del_frames(t,c),
-        bg='#1A1A1D',
-        activebackground='#1A1A1D',
-        fg='#ffffff',
-        selectcolor='#1A1A1D',
-    )
-    del_checkbox.place(x=270)
+    # del_checkbox_var = tk.BooleanVar()
+    # del_checkbox = tk.Checkbutton(
+    #     token_frame,
+    #     text="",
+    #     variable=del_checkbox_var,
+    #     command=lambda t=token_frame, c=del_checkbox_var: add_to_del_frames(t,c),
+    #     bg='#1A1A1D',
+    #     activebackground='#1A1A1D',
+    #     fg='#ffffff',
+    #     selectcolor='#1A1A1D',
+    # )
+    # del_checkbox.place(x=280)
 
     # Text
-    text_box = tk.Text(token_frame, height=1, width=3, bg='#1A1A1D', fg='#ffffff')
+    text_box = tk.Text(token_frame, height=1, width=3, bg='#1A1A1D', fg='#ffffff', insertbackground='#ffffff')
     text_box.insert("1.0", '0')
-    text_box.place(x=230)
+    text_box.bind("<Tab>", focus_next_window)
+    text_box.place(x=200)
     current_token_texts.append(text_box)
 
     current_token_frames.append(token_frame)
@@ -272,8 +228,6 @@ def init():
 if __name__ == "__main__":
     init()
     current_offer_label.pack()
-    concat_string_label.pack()
-    button_to_add_new_token.pack()
     button_to_remove_tokens.pack()
     create_labels_for_tokens(current_body_tokens)
     window.mainloop()
